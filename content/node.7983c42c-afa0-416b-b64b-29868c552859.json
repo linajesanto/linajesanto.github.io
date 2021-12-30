@@ -1,0 +1,126 @@
+{
+    "uuid": [
+        {
+            "value": "7983c42c-afa0-416b-b64b-29868c552859"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-01-15T23:54:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Rey Vencedor, Fiesta, Viene Ya"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-01-15T23:47:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-01-15T23:54:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/miel-san-marcos\/rey-vencedor-fiesta-viene-ya",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "46cd937f-3b87-4cff-8593-268247b1e784"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [
+        {
+            "value": "<p>Medley de: Rey Vencedor, Fiesta, Viene Ya<\/p>\r\n\r\n<div id=\"gtx-trans\" style=\"position: absolute; left: 80px; top: -12px;\">\r\n<div class=\"gtx-trans-icon\">&nbsp;<\/div>\r\n<\/div>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_letra": [],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/open?id=1nbCMVzYm2w31fCw5eni6CdxderkrFccH",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "R\u00e1pida"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Masculina"
+        }
+    ],
+    "field_tono": [],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=3Tzd1xjMq9I"
+        }
+    ]
+}

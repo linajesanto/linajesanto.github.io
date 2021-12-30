@@ -1,0 +1,130 @@
+{
+    "uuid": [
+        {
+            "value": "36a743bd-8f1d-44de-b644-3429426bdc25"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-10-27T15:44:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Rey de mi coraz\u00f3n"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-03-15T17:24:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-10-27T15:44:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/bethel-music\/rey-de-mi-corazon",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "adb58de0-265e-40e2-9b67-88c2157b7406"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p>&nbsp; &lt;lyrics&gt;[V1]&nbsp;<br \/>\r\n&nbsp;Rey de mi coraz\u00f3n&nbsp;<br \/>\r\n&nbsp;se el monte al correr<br \/>\r\n&nbsp;la fuente al beber&nbsp;<br \/>\r\n&nbsp;eres mi canci\u00f3n||&nbsp;<\/p>\r\n\r\n<p>&nbsp;Rey de mi coraz\u00f3n&nbsp;<br \/>\r\n&nbsp;se la sombra donde yo&nbsp;<br \/>\r\n&nbsp;refugio encuentre hoy&nbsp;<br \/>\r\n&nbsp;Eres mi canci\u00f3n&nbsp;<\/p>\r\n\r\n<p>[C1]&nbsp;<br \/>\r\n&nbsp;Bueno es Dios, oh|&nbsp;<br \/>\r\n&nbsp;Bueno es Dios, oh|&nbsp;<br \/>\r\n&nbsp;Bueno es Dios, oh|&nbsp;<br \/>\r\n&nbsp;Bueno es Dios, oh|<\/p>\r\n\r\n<p>[V2]<br \/>\r\n--<br \/>\r\n&nbsp;Rey de mi coraz\u00f3n&nbsp;<br \/>\r\n&nbsp;agua que sacia mi sed&nbsp;<br \/>\r\n&nbsp;monta\u00f1as subire<br \/>\r\n&nbsp;eres mi cancion||&nbsp;<\/p>\r\n\r\n<p>&nbsp;Rey de mi coraz\u00f3n&nbsp;<br \/>\r\n&nbsp;fuego que arde en mi interior<br \/>\r\n&nbsp;el eco de mi voz<br \/>\r\n&nbsp;ohh mi cancion||<br \/>\r\n-<br \/>\r\n&nbsp;Rey de mi coraz\u00f3n&nbsp;<br \/>\r\n&nbsp;agua que sacia mi sed&nbsp;<br \/>\r\n&nbsp;monta\u00f1as subire<br \/>\r\n&nbsp;eres mi cancion||&nbsp;<\/p>\r\n\r\n<p>&nbsp;Rey de mi coraz\u00f3n&nbsp;<br \/>\r\n&nbsp;fuego que arde en mi interior<br \/>\r\n&nbsp;el eco de mi voz<br \/>\r\n&nbsp;ohh mi cancion||<\/p>\r\n\r\n<p>[P1]&nbsp;<br \/>\r\n&nbsp;T\u00fa no me dejar\u00e1s<br \/>\r\n&nbsp;No me dejar\u00e1s caer&nbsp;<br \/>\r\n&nbsp;T\u00fa no me dejar\u00e1s<br \/>\r\n&nbsp;No me dejar\u00e1s caer&nbsp;<br \/>\r\n&nbsp;T\u00fa no me dejar\u00e1s<br \/>\r\n&nbsp;No me dejar\u00e1s caer&nbsp;<br \/>\r\n&nbsp;x2<\/p>\r\n\r\n<p><br \/>\r\n[P2]&nbsp;<br \/>\r\n&nbsp;T\u00fa no me dejar\u00e1s<br \/>\r\n&nbsp;No me dejar\u00e1s caer&nbsp;<br \/>\r\n&nbsp;T\u00fa no me dejar\u00e1s<br \/>\r\n&nbsp;No me dejar\u00e1s caer&nbsp;<br \/>\r\n&nbsp;T\u00fa no me dejar\u00e1s<br \/>\r\n&nbsp;No me dejar\u00e1s caer&nbsp;<br \/>\r\n&lt;\/lyrics&gt;<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/file\/d\/1wwOeNXd9QboFC9eAypBfxguIzkaT5M2c\/view?usp=sharing",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "Lenta"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Masculina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8013cbe0-9b82-4d9c-ae72-f766292c49e9"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=jaxEXZqpRcA"
+        }
+    ]
+}

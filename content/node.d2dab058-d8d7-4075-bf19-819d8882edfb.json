@@ -1,0 +1,119 @@
+{
+    "uuid": [
+        {
+            "value": "d2dab058-d8d7-4075-bf19-819d8882edfb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-01-16T01:51:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Dios de maravillas"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-01-16T01:21:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-01-16T01:51:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/third-day\/dios-de-maravillas",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "048bfd25-c90e-434e-9f15-e4fc394c5475"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p><strong>Orden:&nbsp;V C T I V2 C T B I C2 B2<\/strong><\/p>\r\n\r\n<p>[V]<br \/>\r\n&nbsp;Todo lo creaste<br \/>\r\n&nbsp;el cielo, tierra y mar<br \/>\r\n&nbsp;Los cielos son<br \/>\r\n&nbsp;tu tabern\u00e1culo<br \/>\r\n&nbsp;Gloria al Dios alt\u00edsimo<\/p>\r\n\r\n<p>[V2]<br \/>\r\n&nbsp;Cuando amanezco<br \/>\r\n&nbsp;he de celebrar tu luz<br \/>\r\n&nbsp;si tropiezo en tinieblas<br \/>\r\n&nbsp;volver\u00e9 a ver tu luz<\/p>\r\n\r\n<p>[C]<br \/>\r\n&nbsp;Dios del cielo<br \/>\r\n&nbsp;maravilloso Dios<br \/>\r\n&nbsp;T\u00fa eres santo, santo<br \/>\r\n&nbsp;La creaci\u00f3n muestra tu majestad<br \/>\r\n&nbsp;T\u00fa eres santo, santo<\/p>\r\n\r\n<p>[C2]<br \/>\r\n&nbsp;Dios del cielo<br \/>\r\n&nbsp;maravilloso Dios<br \/>\r\n&nbsp;T\u00fa eres santo, santo<br \/>\r\n;Precious Lord reveal Your Heart to me....Father Holy<br \/>\r\n&nbsp;Rev\u00e9lanos Se\u00f1or, tu coraz\u00f3n<br \/>\r\n&nbsp;Padre santo, santo||<\/p>\r\n\r\n<p>&nbsp;La creaci\u00f3n muestra tu majestad<br \/>\r\n&nbsp;T\u00fa eres santo, santo<br \/>\r\n&nbsp;Santo, santo<\/p>\r\n\r\n<p>[T]<br \/>\r\n&nbsp;Dios de la creaci\u00f3n<br \/>\r\n&nbsp;Dios de la creaci\u00f3n<\/p>\r\n\r\n<p>[B]<br \/>\r\n&nbsp;Aleluya,<br \/>\r\n&nbsp;al Dios de la creaci\u00f3n<br \/>\r\n&nbsp;Aleluya,<br \/>\r\n&nbsp;al Dios de la creaci\u00f3n<br \/>\r\n&nbsp;Aleluya,<br \/>\r\n&nbsp;al Dios de la creaci\u00f3n<\/p>\r\n\r\n<p>[B2]<br \/>\r\n&nbsp;---<br \/>\r\n&nbsp;Aleluya,<br \/>\r\n&nbsp;al Dios de la creaci\u00f3n|<br \/>\r\n&nbsp;Aleluya,<br \/>\r\n&nbsp;al Dios de la creaci\u00f3n||<br \/>\r\n&nbsp;--<br \/>\r\n&nbsp;Aleluya,<br \/>\r\n&nbsp;al Dios de la creaci\u00f3n|<br \/>\r\n&nbsp;Aleluya,<br \/>\r\n&nbsp;al Dios de la creaci\u00f3n||<br \/>\r\n&nbsp;-<br \/>\r\n&nbsp;Aleluya,<br \/>\r\n&nbsp;al Dios de la creaci\u00f3n|<br \/>\r\n&nbsp;Aleluya,<br \/>\r\n&nbsp;al Dios de la creaci\u00f3n<\/p>\r\n\r\n<p>[I]<br \/>\r\n&nbsp;\u266b<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "R\u00e1pida"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Masculina"
+        }
+    ],
+    "field_tono": [],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=1CBNE25rtnE"
+        }
+    ]
+}

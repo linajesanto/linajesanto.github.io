@@ -1,0 +1,120 @@
+{
+    "uuid": [
+        {
+            "value": "4cd84ce7-1418-410c-bcd8-bd5f0207b90d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-11-30T04:39:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Queremos ver"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-11-30T02:38:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-11-30T04:39:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/carlos-arzola\/queremos-ver",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f634baec-b071-4599-83ff-fefbfa83f7e2"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/file\/d\/1oO7YJ2wW_WXQYMkOL4AmV1qBF1ufkQZj\/view?usp=sharing",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "R\u00e1pida"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Masculina"
+        }
+    ],
+    "field_tono": [],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=nfpK9KSNqZE&ab_channel=C%C3%A1ntale"
+        }
+    ]
+}

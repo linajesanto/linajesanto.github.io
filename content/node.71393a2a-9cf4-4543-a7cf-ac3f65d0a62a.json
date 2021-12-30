@@ -1,0 +1,124 @@
+{
+    "uuid": [
+        {
+            "value": "71393a2a-9cf4-4543-a7cf-ac3f65d0a62a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-12-18T02:49:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Vaso fr\u00e1gil"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-12-16T02:07:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-12-18T02:49:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/yuri\/vaso-fragil",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f0e01f14-fd3e-45ac-ad7c-71f47b3682d1"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p>[V1]<br \/>\r\nHoy que estamos juntos, no es casualidad<br \/>\r\nFueron las plegarias, en mi soledad<br \/>\r\nFuero malabares, con un fuego interno<br \/>\r\nY esperar paciente me dieras un s\u00ed<\/p>\r\n\r\n<p>[V2]<br \/>\r\nT\u00fa mi complemento, toda mi ilusi\u00f3n<br \/>\r\nEl latir m\u00e1s fuerte de mi coraz\u00f3n<br \/>\r\nHice el equilibrio en mi propio circo<br \/>\r\nPara no soltarme de tu coraz\u00f3n<\/p>\r\n\r\n<p>V3<br \/>\r\nHoy que estamos juntos, no es casualidad<br \/>\r\nFueron las plegarias, en mi soledad<br \/>\r\nHice el equilibrio en mi propio circo<br \/>\r\nPara no soltarme de tu coraz\u00f3n<\/p>\r\n\r\n<p>[PC]<br \/>\r\nVaso fr\u00e1gil necesito tus caricias y tus besos<br \/>\r\nSon eternos los minutos, esperando tu regreso<br \/>\r\nEl Romeo queda corto comparado con mi vida<br \/>\r\nDe seguro, Julieta se entregaba como yo te doy mi vida<\/p>\r\n\r\n<p>[C1]<br \/>\r\nVaso fr\u00e1gil hoy que estamos juntos<br \/>\r\nLuchar\u00e9 sin tregua a defender lo nuestro<br \/>\r\nQuemar\u00e9 mis barcos, no hay ning\u00fan regreso<br \/>\r\nY si emprendo vuelo, junto a m\u00ed te quiero<\/p>\r\n\r\n<p>[C2]<br \/>\r\nTengo fuego nada me reservo<br \/>\r\nFundir\u00e1 sortijas en un mismo acuerdo<br \/>\r\nSeguir\u00e9 tus pasos sentir\u00e1s mi abrazo<br \/>\r\nSi se nubla el cielo junto a m\u00ed te quiero<\/p>\r\n\r\n<p>[C3]<br \/>\r\nVaso fr\u00e1gil hoy que estamos juntos<br \/>\r\nLuchar\u00e9 sin tregua a defender lo nuestro<br \/>\r\nTengo fuego nada me reservo<br \/>\r\nFundir\u00e1 sortijas en un mismo acuerdo<\/p>\r\n\r\n<p>[C4]<br \/>\r\nQuemar\u00e9 mis barcos, no hay ning\u00fan regreso<br \/>\r\nY si emprendo vuelo, junto a m\u00ed te quiero<br \/>\r\nSeguir\u00e9 tus pasos sentir\u00e1s mi abrazo<br \/>\r\nSi se nubla el cielo junto a m\u00ed te quiero<\/p>\r\n\r\n<p><br \/>\r\nV1&nbsp;&nbsp; &nbsp;C#<br \/>\r\nV2&nbsp;&nbsp; &nbsp;C#<br \/>\r\nPC&nbsp;&nbsp; &nbsp;C#<br \/>\r\nC1&nbsp;&nbsp; &nbsp;C#<br \/>\r\nC2&nbsp;&nbsp; &nbsp;E<br \/>\r\nI&nbsp;&nbsp; &nbsp;C#<br \/>\r\nV3&nbsp;&nbsp; &nbsp;E<br \/>\r\nPC&nbsp;&nbsp; &nbsp;C#<br \/>\r\nC3&nbsp;&nbsp; &nbsp;C# E<br \/>\r\nC4&nbsp;&nbsp; &nbsp;C# E<br \/>\r\nO1&nbsp;&nbsp; &nbsp;C# E<br \/>\r\nO2&nbsp;&nbsp; &nbsp;C#<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "Lenta"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Ambas"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "77081126-b90f-456f-b893-1fa4982791ca"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=6lAUOQL2YWk"
+        }
+    ]
+}

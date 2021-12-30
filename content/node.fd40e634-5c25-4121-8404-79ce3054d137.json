@@ -1,0 +1,125 @@
+{
+    "uuid": [
+        {
+            "value": "fd40e634-5c25-4121-8404-79ce3054d137"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-02-12T17:40:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Al que est\u00e1 Sentado en el Trono "
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-01-28T03:07:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-02-12T17:40:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/marcos-brunet\/al-que-esta-sentado-en-el-trono",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9f54f378-8e51-4973-91bd-558890247b66"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/open?id=1t76PlcG7UPJhfrugaiJp9mIGzyrm4zPq",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "Lenta"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Masculina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "59c77577-6968-4862-8109-c1f4e7638052"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=-fO6uxCSEUI"
+        }
+    ]
+}

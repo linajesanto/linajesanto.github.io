@@ -1,0 +1,130 @@
+{
+    "uuid": [
+        {
+            "value": "a52c48a8-dcf2-4334-9c8a-6fd36435d7ef"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-12-11T01:26:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Eterno"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-02-02T17:57:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-12-11T01:26:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/christine-dclario\/eterno",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6351f13c-1118-444a-a79a-382980ba0bc0"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p>Todo gobierno de la creaci\u00f3n<br \/>\r\nSe postrar\u00e1 solo ante el gran yo soy<br \/>\r\nSolo hay un Dios que reinar\u00e1 por siempre<br \/>\r\nSuyo es el reino que no acabar\u00e1, oh<\/p>\r\n\r\n<p>Todo gobierno de la creaci\u00f3n<br \/>\r\nSe postrar\u00e1 solo ante el gran yo soy<br \/>\r\nSolo hay un Dios que reinar\u00e1 por siempre<br \/>\r\nSuyo es el reino que no acabar\u00e1, no acabar\u00e1<\/p>\r\n\r\n<p>\u00c9l es amor, \u00c9l es amor eterno<br \/>\r\nEs esperanza y salvaci\u00f3n eterna<br \/>\r\nNuestra canci\u00f3n se escuchar\u00e1 por siempre<br \/>\r\nY adoraremos solo al Rey eterno, ooh oh oh<\/p>\r\n\r\n<p>Todo gobierno de la creaci\u00f3n<br \/>\r\nSe postrar\u00e1 solo ante el gran yo soy<br \/>\r\nSolo hay un Dios que reinar\u00e1 por siempre<br \/>\r\nSuyo es el reino que no acabar\u00e1, oh<\/p>\r\n\r\n<p>\u00c9l es amor, \u00c9l es amor eterno<br \/>\r\nEs esperanza y salvaci\u00f3n eterna<br \/>\r\nNuestra canci\u00f3n se escuchar\u00e1 por siempre<br \/>\r\nY adoraremos solo al Rey eterno, ooh oh oh<\/p>\r\n\r\n<p>\u00c9l es amor, \u00c9l es amor eterno<br \/>\r\nEs esperanza y salvaci\u00f3n eterna<br \/>\r\nNuestra canci\u00f3n se escuchar\u00e1 por siempre<br \/>\r\nY adoraremos solo al Rey eterno, ooh oh oh<\/p>\r\n\r\n<p>Y que los santos se levanten<br \/>\r\nQue el redimido ahora cante<br \/>\r\nNuestro Dios es fiel<br \/>\r\nNunca, nunca cambiar\u00e1<\/p>\r\n\r\n<p>Y que los santos se levanten<br \/>\r\nQue los santos se levanten<br \/>\r\nQue el redimido ahora cante<br \/>\r\nNuestro Dios es fiel<br \/>\r\nNunca, nunca cambiar\u00e1, ah (\u00c9l es amor)<\/p>\r\n\r\n<p>\u00c9l es amor, \u00c9l es amor eterno<br \/>\r\nEs esperanza y salvaci\u00f3n eterna<br \/>\r\nNuestra canci\u00f3n se escuchar\u00e1 por siempre<br \/>\r\nY adoraremos solo al Rey Eterno (Fuerte)<\/p>\r\n\r\n<p>\u00c9l es amor, \u00c9l es amor eterno<br \/>\r\nEs esperanza y salvaci\u00f3n eterna<br \/>\r\nNuestra canci\u00f3n se escuchar\u00e1 por siempre<br \/>\r\nY adoraremos solo al Rey eterno<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>Cuando los santos marchen ya<br \/>\r\nCon su corona en vez de cruz<br \/>\r\nSe\u00f1or, yo quiero ir con ellos<br \/>\r\nPara encontrar a mi Jes\u00fas (Fuerte)<\/p>\r\n\r\n<p>Cuando los santos marchen ya<br \/>\r\nCon su corona en vez de cruz<br \/>\r\nOh Dios, yo quiero ir con ellos<br \/>\r\nPara encontrar a mi Jes\u00fas (\u00c9l es)<\/p>\r\n\r\n<p>\u00c9l es amor, \u00c9l es amor eterno<br \/>\r\nEs esperanza y salvaci\u00f3n eterna<br \/>\r\nNuestra canci\u00f3n se escuchar\u00e1 por siempre<br \/>\r\nY adoraremos solo al Rey eterno<\/p>\r\n\r\n<p>Y adoraremos solo al Rey etern<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/open?id=1Qo4otxrkNR8EL2ZyYqpvYPCGbQkN4d8t",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "R\u00e1pida"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Femenina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "309c3d5b-0c9a-4e8b-8f89-4042ba4f5fd1"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=cGvrMr0Yu0o"
+        }
+    ]
+}

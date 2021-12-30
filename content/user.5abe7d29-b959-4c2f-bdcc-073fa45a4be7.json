@@ -1,0 +1,89 @@
+{
+    "uid": [
+        {
+            "value": 24
+        }
+    ],
+    "uuid": [
+        {
+            "value": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "Edys Meza"
+        }
+    ],
+    "mail": [
+        {
+            "value": "edysmeza@gmail.com"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/Managua"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-01-06T02:52:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-01-12T21:11:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "administrator",
+            "target_type": "user_role",
+            "target_uuid": "efe2a844-2455-4088-99b1-5bff02a709fc"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "es",
+            "pathauto": 0
+        }
+    ],
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 518,
+            "height": 619,
+            "target_type": "file",
+            "target_uuid": "f3271bfb-dd38-49d7-9034-bd2aa3323b48"
+        }
+    ]
+}

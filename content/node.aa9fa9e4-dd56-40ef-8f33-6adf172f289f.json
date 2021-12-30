@@ -1,0 +1,124 @@
+{
+    "uuid": [
+        {
+            "value": "aa9fa9e4-dd56-40ef-8f33-6adf172f289f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-06-24T19:27:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Dios de Abraham"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-03-15T17:26:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-06-24T19:27:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/paul-wilbur\/dios-de-abraham",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6917017c-bc0b-4b20-bd07-4e0bb0fdb6f6"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p>&nbsp;&lt;presentation&gt;V1 C1 V2 C1 P C1 C1 &lt;\/presentation&gt;<\/p>\r\n\r\n<p>&lt;lyrics&gt;[V1]<br \/>\r\n&nbsp;Eres Dios de Abraham,<br \/>\r\n&nbsp;de Isaac, de Israel<br \/>\r\n&nbsp;ven y establece hoy tu potestad.||<\/p>\r\n\r\n<p>&nbsp;Venimos a ofrecer,&nbsp;<br \/>\r\n&nbsp;sacrificio a tu altar,<br \/>\r\n&nbsp;purif\u00edcanos en tu fuego Se\u00f1or.<\/p>\r\n\r\n<p>[C1]<br \/>\r\n&nbsp;Tu eres Santo Dios,&nbsp;<br \/>\r\n&nbsp;exaltado seas,<br \/>\r\n&nbsp;venimos a adorar&nbsp;<br \/>\r\n&nbsp;tu nombre Dios.||<\/p>\r\n\r\n<p>&nbsp;Tu eres Santo Dios,&nbsp;<br \/>\r\n&nbsp;exaltado seas,<br \/>\r\n&nbsp;nos rendiremos a tu voluntad<br \/>\r\n&nbsp;Oh Se\u00f1or Dios de Abraham.<\/p>\r\n\r\n<p>[V2]&nbsp;<br \/>\r\n&nbsp;Eres Dios de Abraham,<br \/>\r\n&nbsp;de Isaac, de Israel<br \/>\r\n&nbsp;ven y establece hoy tu potestad.<br \/>\r\n&nbsp;Ven llena este lugar, exaltado en alabanza,<br \/>\r\n&nbsp;ven y establece hoy tu potestad,<br \/>\r\n&nbsp;tu eres Dios<\/p>\r\n\r\n<p>[P]&nbsp;<br \/>\r\n--<br \/>\r\n&nbsp;Solo tu eres Se\u00f1or, solo tu eres mi Dios<br \/>\r\n&nbsp;y por siempre reinar\u00e1s, por siempre Dios||<\/p>\r\n\r\n<p>-<br \/>\r\n&nbsp;Solo tu eres Se\u00f1or, solo tu eres mi Dios<br \/>\r\n&nbsp;y por siempre reinar\u00e1s, por siempre Dios<\/p>\r\n\r\n<p>&lt;\/lyrics&gt;<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "R\u00e1pida"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Masculina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "633131c0-15ff-43fc-bc88-b803cb8cd580"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=Mwl2bbC8_Cc"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "uuid": [
+        {
+            "value": "83aea29a-ebc0-4f28-bd49-9fdaebd5e6b4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-09-06T21:07:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Como Dijiste"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-01-29T01:54:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-09-06T21:07:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/christine-dclario\/como-dijiste",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6351f13c-1118-444a-a79a-382980ba0bc0"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p>Mueve el estanque en mi ser<br \/>\r\n\u00daneme a tu r\u00edo, dame vida<br \/>\r\nNo s\u00e9 qu\u00e9 palabras decir<br \/>\r\nQue provoquen que me quieras<br \/>\r\nM\u00e1s de lo que me amas<\/p>\r\n\r\n<p>Ven, Se\u00f1or, como dijiste<br \/>\r\nDerrama tu gloria, derrama tu gloria<br \/>\r\nVen, Se\u00f1or, como dijiste<br \/>\r\nDerrama tu gloria, derrama tu gloria<\/p>\r\n\r\n<p>Vence en mis tinieblas con tu luz<br \/>\r\nS\u00e9 mi fuerza hoy, oh, Jes\u00fas<br \/>\r\nEncuentra mi escondite<br \/>\r\nAlc\u00e1nzame si huyo, oh, Se\u00f1or<br \/>\r\nIn\u00fandame con tu amor<\/p>\r\n\r\n<p>Ven, Se\u00f1or, como dijiste<br \/>\r\nDerrama tu gloria, derrama tu gloria<br \/>\r\nOh, ven, Se\u00f1or, como dijiste<br \/>\r\nDerrama tu gloria, derrama tu gloria<\/p>\r\n\r\n<p>Oh, ven, Se\u00f1or, como dijiste<br \/>\r\nDerrama tu gloria, derrama tu gloria<br \/>\r\nOh, ven, Se\u00f1or, como dijiste<br \/>\r\nDerrama tu gloria, derrama tu gloria<\/p>\r\n\r\n<p>Me amas como padre, como un hermano<br \/>\r\nY como un le\u00f3n feroz, como nadie<br \/>\r\nCon fuerza me buscas, para abrazarme<br \/>\r\nMe envuelves en tu amor<\/p>\r\n\r\n<p>Oh, ven, Se\u00f1or, ven como dijiste<br \/>\r\nDerrama tu gloria, derrama tu gloria<br \/>\r\nOh, ven, Se\u00f1or, ven como dijiste<br \/>\r\nDerrama tu gloria, derrama tu gloria<br \/>\r\nOh, ven, Se\u00f1or, ven como dijiste<br \/>\r\nDerrama tu gloria, derrama tu gloria<\/p>\r\n\r\n<p>Me amas como padre, como un hermano<br \/>\r\nY como un le\u00f3n feroz, como nadie<br \/>\r\nCon fuerza me buscas para abrazarme<br \/>\r\nMe envuelves en tu amor<\/p>\r\n\r\n<p>Envu\u00e9lveme<br \/>\r\nOh, ven<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/file\/d\/18iVBrJTGezrW8-BlFbKDJTWFZSHqxhL6\/view?usp=sharing",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "Lenta"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Femenina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1af497ce-e2d8-4516-ab21-fc8bd2882b80"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=DBSr70NQ-Nk&ab_channel=christinedclario"
+        }
+    ]
+}

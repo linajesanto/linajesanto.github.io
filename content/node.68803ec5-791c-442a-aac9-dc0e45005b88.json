@@ -1,0 +1,130 @@
+{
+    "uuid": [
+        {
+            "value": "68803ec5-791c-442a-aac9-dc0e45005b88"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-06-08T16:07:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Yahweh"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-02-19T19:36:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-06-08T16:07:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/christine-dclario\/yahweh",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6351f13c-1118-444a-a79a-382980ba0bc0"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p>&nbsp; &lt;presentation&gt;I V1 P C I V2 P C B C2 I&lt;\/presentation&gt;&nbsp;<\/p>\r\n\r\n<p>&lt;lyrics&gt;[I]<br \/>\r\n&nbsp;Oh, oh, oh, oh<br \/>\r\n&nbsp;Oh, oh, oh, oh<\/p>\r\n\r\n<p>[V1]<br \/>\r\n&nbsp;Grande es nuestro Dios y rey<br \/>\r\n&nbsp;Creador de todo es \u00c9l<br \/>\r\n&nbsp;Viste luz y esplendor<br \/>\r\n&nbsp;Las tinieblas huyen hoy<\/p>\r\n\r\n<p>[P]<br \/>\r\n&nbsp;Oh, puertas, \u00e1branse<br \/>\r\n&nbsp;Hagan paso a nuestro rey<br \/>\r\n&nbsp;Muros van a caer<br \/>\r\n&nbsp;Prep\u00e1rense<\/p>\r\n\r\n<p>[C]<br \/>\r\n&nbsp;Para el rey de gloria<br \/>\r\n&nbsp;Poderoso<br \/>\r\n&nbsp;Yahweh, oh, Yahweh<br \/>\r\n&nbsp;El Rey de gloria<br \/>\r\n&nbsp;Poderoso<br \/>\r\n&nbsp;Yahweh, oh, Yahweh<\/p>\r\n\r\n<p>[C2]<br \/>\r\n&nbsp;El es el rey de gloria<br \/>\r\n&nbsp;Poderoso<br \/>\r\n&nbsp;Yahweh, oh, Yahweh<br \/>\r\n&nbsp;El Rey de gloria<br \/>\r\n&nbsp;Poderoso<br \/>\r\n&nbsp;Yahweh, oh, Yahweh<\/p>\r\n\r\n<p>[V2]<br \/>\r\n&nbsp;Reinos se levantar\u00e1n<br \/>\r\n&nbsp;Mas sobre todos Dios est\u00e1<br \/>\r\n&nbsp;Pues a la muerte \u00c9l venci\u00f3<br \/>\r\n&nbsp;Por siempre reinar\u00e1 el Se\u00f1or<\/p>\r\n\r\n<p>[B]<br \/>\r\n&nbsp;El reino del Se\u00f1or<br \/>\r\n&nbsp;es para siempre<br \/>\r\n&nbsp;Otro mayor no hay<br \/>\r\n&nbsp;x4&lt;\/lyrics&gt;<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/file\/d\/1_Ox5M6p0gbKsaCEltLyPQUGxdyZmnIOt\/view?usp=sharing",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "R\u00e1pida"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Femenina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8563580d-2168-4ac4-b3cb-58fa67821628"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=6P1r4r2SDQU&feature=youtu.be&ab_channel=SweetVL"
+        }
+    ]
+}

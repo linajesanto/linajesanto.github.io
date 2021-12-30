@@ -1,0 +1,130 @@
+{
+    "uuid": [
+        {
+            "value": "70dbea22-87af-4b34-bedc-af794fbcf0a9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-05-23T14:43:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Rey de Reyes"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-02-12T19:52:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-05-23T14:43:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/hillsong-worship\/rey-de-reyes",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a7184c12-20ce-4b26-a0fe-a971702b64c1"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p>En la oscuridad estaba<br \/>\r\nToda la humanidad<br \/>\r\nHasta que desde los cielos<br \/>\r\nNos viniste a rescatar<\/p>\r\n\r\n<p>A trav\u00e9s de una virgen<br \/>\r\nElegiste t\u00fa nacer<br \/>\r\nY del trono descendiste<br \/>\r\nA un pesebre siendo Rey<\/p>\r\n\r\n<p>Gloria al Padre, nuestro Dios<br \/>\r\nGloria al Hijo, El Salvador<br \/>\r\nGloria al Santo Esp\u00edritu<br \/>\r\nRey de reyes, nadie hay como t\u00fa<\/p>\r\n\r\n<p>Para revelar tu Reino<br \/>\r\nY alcanzar al pecador<br \/>\r\nA la cruz no te negaste<br \/>\r\nPara darnos salvaci\u00f3n<\/p>\r\n\r\n<p>A\u00fan en tu sufrimiento<br \/>\r\nT\u00fa ve\u00edas m\u00e1s all\u00e1<br \/>\r\nNo pensaste en el precio<br \/>\r\nTe entregaste en mi lugar<\/p>\r\n\r\n<p>Gloria al Padre, nuestro Dios<br \/>\r\nGloria al Hijo, El Salvador<br \/>\r\nGloria al Santo Esp\u00edritu<br \/>\r\nRey de reyes, nadie hay como t\u00fa<\/p>\r\n\r\n<p>Al tercer amanecer<br \/>\r\nTodo el cielo reson\u00f3<br \/>\r\nPues la muerte para siempre<br \/>\r\nEl Cordero conquist\u00f3<\/p>\r\n\r\n<p>Y la tumba se abri\u00f3<br \/>\r\nY vac\u00eda ahora est\u00e1<br \/>\r\nTodas las generaciones<br \/>\r\nEsperanza encontrar\u00e1n<\/p>\r\n\r\n<p>Y la iglesia comenz\u00f3<br \/>\r\nPor su esp\u00edritu naci\u00f3<br \/>\r\nBuenas nuevas por los siglos<br \/>\r\nPara toda la creaci\u00f3n<\/p>\r\n\r\n<p>Por su sangre y por su nombre<br \/>\r\nLibres somos por la fe<br \/>\r\nJesucristo ha vencido<br \/>\r\nNos resucit\u00f3 con \u00c9l, oh<\/p>\r\n\r\n<p>Gloria al Padre, nuestro Dios<br \/>\r\nGloria al Hijo, El Salvador<br \/>\r\nGloria al Santo Esp\u00edritu<br \/>\r\nRey de reyes, nadie hay como t\u00fa<br \/>\r\nRey de reyes, nadie hay como t\u00fa<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/file\/d\/1uxCnj0cHbaneIril1kpKk3OfJ9cCKZRU\/view?usp=sharing",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "Lenta"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Femenina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "309c3d5b-0c9a-4e8b-8f89-4042ba4f5fd1"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=LCtB-hKadIk&ab_channel=HillsongWorship"
+        }
+    ]
+}

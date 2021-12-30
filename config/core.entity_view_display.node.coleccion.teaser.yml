@@ -1,0 +1,35 @@
+uuid: 72240827-bf48-4138-a95f-c600cfab41bd
+langcode: es
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.coleccion.field_canciones
+    - field.field.node.coleccion.field_descripcion
+    - field.field.node.coleccion.field_fecha_y_hora
+    - node.type.coleccion
+  module:
+    - text
+    - user
+id: node.coleccion.teaser
+targetEntityType: node
+bundle: coleccion
+mode: teaser
+content:
+  field_descripcion:
+    type: text_trimmed
+    label: hidden
+    settings:
+      trim_length: 150
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 1
+    region: content
+hidden:
+  field_canciones: true
+  field_fecha_y_hora: true
+  langcode: true

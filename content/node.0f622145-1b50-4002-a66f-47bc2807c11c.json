@@ -1,0 +1,130 @@
+{
+    "uuid": [
+        {
+            "value": "0f622145-1b50-4002-a66f-47bc2807c11c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-05-23T14:48:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Hosanna"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-11-30T02:42:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-05-23T14:48:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/hillsong-worship\/hosanna",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a7184c12-20ce-4b26-a0fe-a971702b64c1"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p>Veo al rey de Gloria<br \/>\r\nViene con fuego y poder<br \/>\r\nTodos ver\u00e1n<br \/>\r\nTodos ver\u00e1n<\/p>\r\n\r\n<p>Veo Su amor y gracia<br \/>\r\nMi pecado perdon\u00f3<br \/>\r\nLe alabar\u00e9<br \/>\r\nLe alabar\u00e9<\/p>\r\n\r\n<p>Hosanna<br \/>\r\nHosanna<br \/>\r\nHosanna en las alturas<br \/>\r\nHosanna<br \/>\r\nHosanna<br \/>\r\nHosanna en las alturas<\/p>\r\n\r\n<p>Veo c\u00f3mo se levanta<br \/>\r\nUna gran generaci\u00f3n<br \/>\r\nCon compasi\u00f3n<br \/>\r\nCon compasi\u00f3n<\/p>\r\n\r\n<p>Veo avivamiento<br \/>\r\nAl buscarte y al orar<br \/>\r\nMe postrar\u00e9<br \/>\r\nMe postrar\u00e9<\/p>\r\n\r\n<p>Hosanna<br \/>\r\nHosanna<br \/>\r\nHosanna en las alturas<br \/>\r\nHosanna<br \/>\r\nHosanna<\/p>\r\n\r\n<p>S\u00e1name y l\u00edmpiame<br \/>\r\nCon mis ojos Tus obras quiero ver<br \/>\r\nQuiero amarte como T\u00fa me amas<br \/>\r\nMu\u00e9strame Tu coraz\u00f3n<br \/>\r\nTodo lo que soy por Tu reino Dios<br \/>\r\nContigo quiero estar por la eternidad<\/p>\r\n\r\n<p>Hosanna<br \/>\r\nHosanna<br \/>\r\nHosanna en las alturas<\/p>\r\n\r\n<p>Hosanna<br \/>\r\nHosanna<br \/>\r\nHosanna en las alturas<\/p>\r\n\r\n<p>Hosanna<br \/>\r\nHosanna<br \/>\r\nHosanna en las alturas<\/p>\r\n\r\n<p>Hosanna en las alturas<br \/>\r\nHosanna en las alturas<br \/>\r\nHosanna en las alturas<br \/>\r\nHosanna en las alturas<\/p>\r\n\r\n<p>Hosanna<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/file\/d\/1sYJXHocoi60--VswoHASAEnyoEPranpR\/view?usp=sharing",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "Lenta"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Femenina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "b4e5e7ab-a2b9-4771-b6fa-a4446946b246"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=hnMevXQutyE&ab_channel=HillsongWorship"
+        }
+    ]
+}

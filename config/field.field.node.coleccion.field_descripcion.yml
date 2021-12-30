@@ -1,0 +1,23 @@
+uuid: 4000dff4-f83a-4f05-9ef2-1a7279ba376e
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_descripcion
+    - node.type.coleccion
+  module:
+    - text
+id: node.coleccion.field_descripcion
+field_name: field_descripcion
+entity_type: node
+bundle: coleccion
+label: Descripción
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: false
+  required_summary: false
+field_type: text_with_summary

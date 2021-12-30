@@ -1,0 +1,124 @@
+{
+    "uuid": [
+        {
+            "value": "4e8fadc0-8113-4844-9fa9-9f2e490e8c26"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-05-04T19:25:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Amor Sin Condici\u00f3n"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-02-06T04:29:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-05-04T19:25:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/marco-barrientos\/amor-sin-condicion",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "875a318a-78da-4faf-852d-c4f904121db3"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p>De tal manera al mundo T\u00fa amaste<br \/>\r\nQue hasta tu vida entregaste<br \/>\r\nTu costado abierto fue<\/p>\r\n\r\n<p>Y fueron esas gotas de tu sangre<br \/>\r\nQue mi coraz\u00f3n limpiaron<br \/>\r\nMe hiciste un nuevo ser<\/p>\r\n\r\n<p>Gracias, te doy gracias<br \/>\r\nPor tu amor sin condici\u00f3n en esa cruz<br \/>\r\nGracias, te doy gracias<br \/>\r\nPor tu perd\u00f3n la salvaci\u00f3n en esa cruz<\/p>\r\n\r\n<p>Amor sin condici\u00f3n, amor sin condici\u00f3n<br \/>\r\nAmor sin condici\u00f3n, amor sin condici\u00f3n<\/p>\r\n\r\n<p>De tal manera al mundo T\u00fa amaste<br \/>\r\nQue hasta tu vida entregaste<br \/>\r\nTu costado abierto fue<\/p>\r\n\r\n<p>Y fueron esas gotas de tu sangre<br \/>\r\nQue mi coraz\u00f3n limpiaron<br \/>\r\nMe hiciste un nuevo ser<\/p>\r\n\r\n<p>Gracias, te doy gracias<br \/>\r\nPor tu amor sin condici\u00f3n en esa cruz, oh<br \/>\r\nGracias, te doy gracias<br \/>\r\nPor tu perd\u00f3n, la salvaci\u00f3n en esa cruz<\/p>\r\n\r\n<p>Amor sin condici\u00f3n, amor sin condici\u00f3n<br \/>\r\nAmor sin condici\u00f3n, amor sin condici\u00f3n<\/p>\r\n\r\n<p>Amor sin condici\u00f3n, amor sin condici\u00f3n<br \/>\r\nAmor sin condici\u00f3n, amor sin condici\u00f3n<\/p>\r\n\r\n<p>gracias, te doy gracias<br \/>\r\nPor tu amor sin condici\u00f3n en esa cruz<br \/>\r\nGracias, te doy gracias<br \/>\r\nPor tu perd\u00f3n la salvaci\u00f3n en esa cruz<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "R\u00e1pida"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Masculina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f6967910-d030-4320-b0f4-8841b3d4f126"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=LXVPqoc82yA&feature=youtu.be"
+        }
+    ]
+}

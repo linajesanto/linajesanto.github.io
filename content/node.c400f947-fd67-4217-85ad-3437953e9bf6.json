@@ -1,0 +1,136 @@
+{
+    "uuid": [
+        {
+            "value": "c400f947-fd67-4217-85ad-3437953e9bf6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-11-16T02:14:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Gu\u00edame a la cruz"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-12-07T13:47:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-11-16T02:14:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/hillsong-united\/guiame-la-cruz",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "832b3270-49f7-47d0-9d13-276050d3b188"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [
+        {
+            "value": "<p>Referencia para la version en Espaniol:<\/p>\r\n\r\n<p><a href=\"https:\/\/www.youtube.com\/watch?v=eM8a-22Fxjo&amp;ab_channel=MsEagle1981\">https:\/\/www.youtube.com\/watch?v=eM8a-22Fxjo&amp;ab_channel=MsEagle1981<\/a><\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_letra": [
+        {
+            "value": "<p>&lt;presentation&gt;V1 P C V2 P C PC C2&lt;\/presentation&gt;<\/p>\r\n\r\n<p>&lt;lyrics&gt;[V1]<br \/>\r\n&nbsp;Mi salvador&nbsp;<br \/>\r\n&nbsp;Vengo ante ti&nbsp;<br \/>\r\n&nbsp;Recuerdo||<br \/>\r\n&nbsp;Que mi redenci\u00f3n<br \/>\r\n&nbsp;Tu sangre cost\u00f3<br \/>\r\n&nbsp;En rescate<\/p>\r\n\r\n<p>[P]<br \/>\r\n&nbsp;Lo que valoraba sin ti&nbsp;<br \/>\r\n&nbsp;Por p\u00e9rdida lo doy<\/p>\r\n\r\n<p>[C]<br \/>\r\n&nbsp; Gu\u00edame a la cruz&nbsp;<br \/>\r\n&nbsp; Donde est\u00e1 tu amor&nbsp;<br \/>\r\n&nbsp; Ll\u00e9vame a tus pies&nbsp;<br \/>\r\n&nbsp; Me arrodillar\u00e9||<br \/>\r\n&nbsp; L\u00edbrame de mi&nbsp;<br \/>\r\n&nbsp; Pertenezco a ti&nbsp;<br \/>\r\n&nbsp; Mi gu\u00eda<br \/>\r\n&nbsp;Gu\u00edame a la cruz<\/p>\r\n\r\n<p>[V2]<br \/>\r\n&nbsp;Fuiste como yo<br \/>\r\n&nbsp;Tentado se\u00f1or<br \/>\r\n&nbsp;Humano||<br \/>\r\n&nbsp;Dios se encarn\u00f3&nbsp;<br \/>\r\n&nbsp;Mis cargas llev\u00f3<br \/>\r\n&nbsp;Ahora vive<\/p>\r\n\r\n<p>[PC]<br \/>\r\n&nbsp;\/\/\/Gu\u00edame a tu coraz\u00f3n\/\/\/<\/p>\r\n\r\n<p>[C2]<br \/>\r\n&nbsp; Gu\u00edame a la cruz&nbsp;<br \/>\r\n&nbsp; Donde est\u00e1 tu amor&nbsp;<br \/>\r\n&nbsp; Ll\u00e9vame a tus pies&nbsp;<br \/>\r\n&nbsp; Me arrodillar\u00e9||<br \/>\r\n&nbsp; L\u00edbrame de mi&nbsp;<br \/>\r\n&nbsp; Pertenezco a ti&nbsp;<br \/>\r\n&nbsp; Mi gu\u00eda<br \/>\r\n&nbsp;Gu\u00edame a la cruz||<br \/>\r\n&nbsp; Gu\u00edame a la cruz&nbsp;<br \/>\r\n&nbsp; Donde est\u00e1 tu amor&nbsp;<br \/>\r\n&nbsp; Ll\u00e9vame a tus pies&nbsp;<br \/>\r\n&nbsp; Me arrodillar\u00e9||<br \/>\r\n&nbsp; L\u00edbrame de mi&nbsp;<br \/>\r\n&nbsp; Pertenezco a ti&nbsp;<br \/>\r\n&nbsp; Mi gu\u00eda<br \/>\r\n&nbsp;Gu\u00edame a la cruz<\/p>\r\n\r\n<p>&lt;\/lyrics&gt;<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/file\/d\/1sMWOhbvLQ-gNJHMP8nNnYtVanEZRBiJb\/view?usp=sharing",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "Lenta"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Femenina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0a5b8921-5d5c-4fe9-ac5d-e49a9215074a"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=uXOa6QClw50"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+uuid: ef354b77-d64c-4915-82f9-dbf4bb3c475b
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.field.node.coleccion.field_canciones
+    - field.field.node.coleccion.field_descripcion
+    - field.field.node.coleccion.field_fecha_y_hora
+    - node.type.coleccion
+  module:
+    - datetime
+    - layout_builder
+    - layout_discovery
+    - text
+    - user
+third_party_settings:
+  layout_builder:
+    enabled: true
+    allow_custom: false
+    sections:
+      -
+        layout_id: layout_onecol
+        layout_settings:
+          label: ''
+          context_mapping: {  }
+        components:
+          c8c679cd-43e3-463e-9c63-e0a192ba31e6:
+            uuid: c8c679cd-43e3-463e-9c63-e0a192ba31e6
+            region: content
+            configuration:
+              id: 'extra_field_block:node:coleccion:links'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+            weight: 0
+            additional: {  }
+          d74c9bd3-653a-4f99-a8e8-a26f7e6b83bc:
+            uuid: d74c9bd3-653a-4f99-a8e8-a26f7e6b83bc
+            region: content
+            configuration:
+              id: 'field_block:node:coleccion:field_descripcion'
+              label: Descripción
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: text_default
+                label: hidden
+                settings: {  }
+                third_party_settings: {  }
+            weight: 1
+            additional: {  }
+          d76f454b-a3ee-4880-9cdf-dfe4254743ef:
+            uuid: d76f454b-a3ee-4880-9cdf-dfe4254743ef
+            region: content
+            configuration:
+              id: 'field_block:node:coleccion:field_canciones'
+              label: Canciones
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: views_field_formatter
+                label: hidden
+                settings:
+                  view: 'canciones_para_coleccion::block_1'
+                  arguments:
+                    entity_id:
+                      checked: '1'
+                      weight: '0'
+                    field_value:
+                      weight: '0'
+                      checked: 0
+                    delta:
+                      weight: '0'
+                      checked: 0
+                    entity_revision_id:
+                      weight: '0'
+                      checked: 0
+                  hide_empty: 0
+                  multiple: 0
+                  implode_character: ''
+                third_party_settings: {  }
+            weight: 5
+            additional: {  }
+        third_party_settings: {  }
+id: node.coleccion.default
+targetEntityType: node
+bundle: coleccion
+mode: default
+content:
+  field_canciones:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 103
+    region: content
+  field_descripcion:
+    type: text_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 102
+    region: content
+  field_fecha_y_hora:
+    type: datetime_default
+    label: above
+    settings:
+      timezone_override: ''
+      format_type: medium
+    third_party_settings: {  }
+    weight: 104
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  langcode: true

@@ -1,0 +1,130 @@
+{
+    "uuid": [
+        {
+            "value": "15e48daa-9db9-46d1-9183-f37a15a48015"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-11-16T02:14:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c77c2a62-9f5e-4f4e-997b-26378e657673"
+        }
+    ],
+    "title": [
+        {
+            "value": "Hosanna"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-12-30T03:22:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-11-16T02:14:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/marco-barrientos\/hosanna",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "875a318a-78da-4faf-852d-c4f904121db3"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p>Levantamos un clamor<br \/>\r\nPor sanidad y redenci\u00f3n<br \/>\r\nMu\u00e9stranos lo que t\u00fa ves<br \/>\r\nLos secretos de tu coraz\u00f3n<br \/>\r\nUn pueblo unido pide hoy<br \/>\r\nTu libertad y salvaci\u00f3n<br \/>\r\n\u00c1rmanos con tu valor<br \/>\r\nLo que deseamos es revoluci\u00f3n<\/p>\r\n\r\n<p>Que el cielo se parta en dos<br \/>\r\nIn\u00fandanos<br \/>\r\nEn el desierto broten r\u00edos<br \/>\r\nVida sopla hoy<\/p>\r\n\r\n<p>Hosanna al rey de salvaci\u00f3n<br \/>\r\nHosanna al Dios alt\u00edsimo<br \/>\r\nHosanna<br \/>\r\nJesucristo, Jesucristo es rey<\/p>\r\n\r\n<p>Hosanna al rey de salvaci\u00f3n<br \/>\r\nHosanna al Dios alt\u00edsimo<br \/>\r\nHosanna<br \/>\r\nJesucristo, Jesucristo es rey<\/p>\r\n\r\n<p>Levantamos un clamor<br \/>\r\nPor sanidad y redenci\u00f3n<br \/>\r\nMu\u00e9stranos lo que t\u00fa ves<br \/>\r\nLos secretos de tu coraz\u00f3n<br \/>\r\nUn pueblo unido pide hoy<br \/>\r\nTu libertad y salvaci\u00f3n<br \/>\r\n\u00c1rmanos con tu valor<br \/>\r\nLo que deseamos es revoluci\u00f3n<\/p>\r\n\r\n<p>Que el cielo se parta en dos<br \/>\r\nIn\u00fandanos<br \/>\r\nEn el desierto broten r\u00edos<br \/>\r\nVida sopla hoy<\/p>\r\n\r\n<p>Hosanna al rey de salvaci\u00f3n<br \/>\r\nHosanna al Dios alt\u00edsimo<br \/>\r\nHosanna<br \/>\r\nJesucristo, Jesucristo es rey<\/p>\r\n\r\n<p>Hosanna al rey de salvaci\u00f3n<br \/>\r\nHosanna al Dios alt\u00edsimo<br \/>\r\nHosanna<br \/>\r\nJesucristo, Jesucristo es rey<\/p>\r\n\r\n<p>Hosanna<br \/>\r\nHosanna<br \/>\r\nSi<\/p>\r\n\r\n<p>Hosanna<br \/>\r\nHosanna<br \/>\r\nHosanna al rey<\/p>\r\n\r\n<p>Hosanna<br \/>\r\nHosanna<br \/>\r\nHosanna al rey<br \/>\r\nS\u00ed cantamos<\/p>\r\n\r\n<p>Hosanna<br \/>\r\nHosanna<br \/>\r\nHosanna al rey<\/p>\r\n\r\n<p>Hosanna<br \/>\r\nHosanna<br \/>\r\nHosanna al rey<\/p>\r\n\r\n<p>Hosanna al rey de salvaci\u00f3n<br \/>\r\nHosanna al Dios alt\u00edsimo<br \/>\r\nHosanna<br \/>\r\nJesucristo, Jesucristo es rey<\/p>\r\n\r\n<p>Hosanna al rey de salvaci\u00f3n<br \/>\r\nHosanna al Dios alt\u00edsimo<br \/>\r\nHosanna<br \/>\r\nJesucristo, Jesucristo es rey<\/p>\r\n\r\n<p>Si Se\u00f1or<br \/>\r\nNuestro clamor<br \/>\r\nEs o\u00eddo en los cielos<br \/>\r\nNuestro clamor<br \/>\r\nEs o\u00eddo en los cielos<\/p>\r\n\r\n<p>El clamor de los redimidos<br \/>\r\nLa manifestaci\u00f3n gloriosa de los hijos de Dios<br \/>\r\nQue claman por salvaci\u00f3n<br \/>\r\nSalva Se\u00f1or<\/p>\r\n\r\n<p>Salva Se\u00f1or<br \/>\r\nY declaramos que los cielos se abren sobre de esta naci\u00f3n<br \/>\r\nDeclaramos que los cielos se abren sobre de esta naci\u00f3n<br \/>\r\nEn el nombre de Jes\u00fas, yo quiero que t\u00fa declares conmigo<\/p>\r\n\r\n<p>Padre celestial<br \/>\r\nYo creo<br \/>\r\nEn el poder de la sangre de Jes\u00fas<br \/>\r\nEn el poder del esp\u00edritu santo<br \/>\r\nY en el poder de tu gracia<\/p>\r\n\r\n<p>Y yo te pido<br \/>\r\nAbre los cielos<br \/>\r\nSobre de esta naci\u00f3n<br \/>\r\nMuestra tu gloria<br \/>\r\nMuestra tu poder una vez m\u00e1s<br \/>\r\nS\u00ed, Se\u00f1or<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/file\/d\/1Qs66vPeaHXfayPRnpP3G8S3Pz-1wdVrn\/view?usp=sharing",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "R\u00e1pida"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Masculina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0a5b8921-5d5c-4fe9-ac5d-e49a9215074a"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=-RMSm28yIqI"
+        }
+    ]
+}

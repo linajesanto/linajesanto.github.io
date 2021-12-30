@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "cba48e1a-ae6a-4313-a6a8-3add0bc66c93"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "filename": [
+        {
+            "value": "vigilia agenda.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/inline-images\/vigilia agenda.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 109211
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-12-29T16:53:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-12-29T16:54:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

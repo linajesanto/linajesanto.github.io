@@ -1,0 +1,124 @@
+{
+    "uuid": [
+        {
+            "value": "93f1d645-8b4d-4146-a65b-5c0927ec6caf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-04-28T01:41:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Puedo imaginarme"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-04-17T20:24:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-04-28T01:41:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/ricardo-rodriguez\/puedo-imaginarme",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "df180eee-96ca-48d6-85f1-6730d34aa5ea"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p>Puedo imaginarme<br \/>\r\nSo\u00f1ar como ser\u00e1 al estar frente a ti<br \/>\r\nPuedo imaginarme<br \/>\r\nLo que ah\u00ed ver\u00e9 con tu rostro frente a m\u00ed<br \/>\r\nPuedo imaginarme, oh<\/p>\r\n\r\n<p>Rodeado de tu gloria, qu\u00e9 sentir\u00e1 mi ser<br \/>\r\nDanzar\u00e9 por Ti mi Cristo o en silencio quedar\u00e9<br \/>\r\nEstar\u00e9 de pie en tu gloria o me tendr\u00e9 que arrodillar<br \/>\r\nCantar\u00e9, Aleluya, quiz\u00e1s a\u00fan ni pueda hablar<br \/>\r\nPuedo imaginarme, solo imaginarme<\/p>\r\n\r\n<p>Puedo imaginarme, el d\u00eda que yo<br \/>\r\nVea el reflejo, del hijo de Dios<br \/>\r\nPuedo imaginarme, una eternidad<br \/>\r\nPara siempre solo adorar<br \/>\r\nPuedo imaginarme, oh, solo imaginarme<\/p>\r\n\r\n<p>Rodeado de tu gloria que sentir\u00e1 mi ser<br \/>\r\nDanzar\u00e9 por Ti mi Cristo o en silencio quedar\u00e9<br \/>\r\nEstar\u00e9 de pie en tu gloria o me tendr\u00e9 que arrodillar<br \/>\r\nCantar\u00e9, Aleluya, quiz\u00e1s a\u00fan ni pueda hablar<br \/>\r\nPuedo imaginarme, solo imaginarme<\/p>\r\n\r\n<p>Rodeado de tu gloria que sentir\u00e1 mi ser<br \/>\r\nDanzar\u00e9 por ti mi Cristo o en silencio quedar\u00e9<br \/>\r\nEstar\u00e9 de pie en tu gloria o me tendr\u00e9 que arrodillar<br \/>\r\nCantar\u00e9, Aleluya, quiz\u00e1s a\u00fan ni pueda hablar<br \/>\r\nPuedo imaginarme, oh solo imaginarme<br \/>\r\nPuedo imaginarme, oh, solo imaginarme<br \/>\r\nContigo por la eternidad<br \/>\r\nPuedo imaginarme, oh, mi Dios, solo imaginarme<\/p>\r\n\r\n<p>Digan conmigo esta noche<\/p>\r\n\r\n<p>Rodeado de tu gloria que sentir\u00e1 mi ser<br \/>\r\nDanzar\u00e9 por ti mi Cristo o en silencio quedar\u00e9<br \/>\r\nEstar\u00e9 de pie en tu gloria o me tendr\u00e9 que arrodillar<br \/>\r\nCantar\u00e9, Aleluya, quiz\u00e1s a\u00fan ni pueda hablar<br \/>\r\nOh, puedo imaginarme, puedo imaginarme<\/p>\r\n\r\n<p>D\u00f3nde est\u00e1n los revividos por la sangre de Cristo aqu\u00ed en esta noche<br \/>\r\nTe halabamos hoy mi Dios<br \/>\r\nTe damos gracias Padre, por ese sacrificio de la cruz, esa sangre derramada<br \/>\r\nY te esperamos, Se\u00f1or, te esperamos, oh<br \/>\r\nTe esperamos, yeh, yeh, oh<\/p>\r\n\r\n<p>Rodeado de tu gloria que sentir\u00e1 mi ser<br \/>\r\nDanzar\u00e9 por Ti mi Cristo o en silencio quedar\u00e9<br \/>\r\nEstar\u00e9 de pie en tu gloria o me tendr\u00e9 que arrodillar<br \/>\r\nCantar\u00e9, Aleluya, quiz\u00e1s a\u00fan ni pueda hablar<br \/>\r\nPuedo imaginarme, oh, solo imaginarme<\/p>\r\n\r\n<p>Levanten su voz en esta noche<br \/>\r\nPuedo imaginarme, oh, mi Dios puedo imaginarme, s\u00ed, Se\u00f1or<br \/>\r\nPuedo imaginarme, oh<\/p>\r\n\r\n<p>Te adoramos, te exaltamos<br \/>\r\nPor los siglos de los siglos<br \/>\r\nOh, santo, santo, santo, santo es el Se\u00f1or<br \/>\r\nAleluya<br \/>\r\nOh, te alabamos mi Dios<br \/>\r\nBendito eres padre<br \/>\r\nTe halabamos Se\u00f1or<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "Lenta"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Masculina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "b4e5e7ab-a2b9-4771-b6fa-a4446946b246"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=-u4fEV3vQcY&ab_channel=IAMMinistriesInternational"
+        }
+    ]
+}

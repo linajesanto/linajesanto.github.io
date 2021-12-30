@@ -1,0 +1,130 @@
+{
+    "uuid": [
+        {
+            "value": "2a5b1ed0-003b-4522-b684-dad70f69bd78"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-12-10T19:45:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Bueno es alabarte se\u00f1or"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-08-12T00:27:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-12-10T19:45:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/danilo-montero\/bueno-es-alabarte-senor",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "931c9586-0285-450a-bc46-e8c15b3876d7"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p>Bueno es alabar, oh Se\u00f1or, tu nombre<br \/>\r\nDarte gloria, honra y honor, por siempre<br \/>\r\nBueno es alabarte Jes\u00fas<br \/>\r\nY gozarme en tu poder<\/p>\r\n\r\n<p>Bueno es alabar, oh Se\u00f1or, tu nombre<br \/>\r\nDarte gloria, honra y honor, por siempre<br \/>\r\nBueno es alabarte Jes\u00fas<br \/>\r\nY gozarme en tu poder<\/p>\r\n\r\n<p>Porque grande eres t\u00fa<br \/>\r\nGrande son tus obras<br \/>\r\nPorque grande eres t\u00fa<br \/>\r\nGrande es tu amor<br \/>\r\nGrande es tu gloria<\/p>\r\n\r\n<p>Porque grande eres t\u00fa<br \/>\r\nGrande son tus obras<br \/>\r\nPorque grande eres t\u00fa<br \/>\r\nGrande es tu amor<br \/>\r\nGrande es tu gloria, \u00a1vamos!<\/p>\r\n\r\n<p>Bueno es alabar, oh Se\u00f1or, (bueno) tu nombre<br \/>\r\nDarte gloria, honra y honor, (bueno) por siempre<br \/>\r\nBueno es alabarte Jes\u00fas<br \/>\r\nY gozarme en tu poder, \u00a1bueno!<\/p>\r\n\r\n<p>Bueno es alabar, oh Se\u00f1or, (bueno) tu nombre<br \/>\r\nDarte gloria, honra y honor, (bueno) por siempre<br \/>\r\nBueno es alabarte Jes\u00fas<br \/>\r\nY gozarme en tu poder<\/p>\r\n\r\n<p>Porque grande eres t\u00fa<br \/>\r\nGrande son tus obras<br \/>\r\nPorque grande eres t\u00fa<br \/>\r\nGrande es tu amor<br \/>\r\nGrande es tu gloria<\/p>\r\n\r\n<p>Porque grande eres t\u00fa<br \/>\r\nGrande son tus obras<br \/>\r\nPorque grande eres t\u00fa<br \/>\r\nGrande es tu amor<br \/>\r\nGrande es tu gloria<\/p>\r\n\r\n<p>\u00a1Uh!<br \/>\r\nTe alabar\u00e9<br \/>\r\n\u00a1Oh! S\u00ed Se\u00f1or<br \/>\r\nMe gozar\u00e9 en ti<br \/>\r\n\u00a1\u00bfPor qu\u00e9?!<\/p>\r\n\r\n<p>Porque grande eres t\u00fa<br \/>\r\nGrande son tus obras<br \/>\r\nPorque grande eres t\u00fa<br \/>\r\nGrande es tu amor<br \/>\r\nGrande es tu gloria<\/p>\r\n\r\n<p>Porque grande eres t\u00fa<br \/>\r\nGrande son tus obras<br \/>\r\nPorque grande eres t\u00fa<br \/>\r\nGrande es tu amor<br \/>\r\nGrande es tu gloria<\/p>\r\n\r\n<p>Porque grande eres t\u00fa<br \/>\r\nGrande son tus obras<br \/>\r\nPorque grande eres t\u00fa<br \/>\r\nGrande es tu amor<br \/>\r\nGrande es tu gloria<\/p>\r\n\r\n<p>Porque grande eres t\u00fa<br \/>\r\nGrande son tus obras<br \/>\r\nPorque grande eres t\u00fa<br \/>\r\nGrande es tu amor<br \/>\r\nGrande es tu gloria<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/drive\/folders\/10WzMLF7DdfL55B0CCZxJXxVg3BRPL1R1?usp=sharing",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "R\u00e1pida"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Masculina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f6967910-d030-4320-b0f4-8841b3d4f126"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/youtu.be\/Roo4uEQzJms"
+        }
+    ]
+}

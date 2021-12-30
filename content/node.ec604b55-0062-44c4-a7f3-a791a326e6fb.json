@@ -1,0 +1,130 @@
+{
+    "uuid": [
+        {
+            "value": "ec604b55-0062-44c4-a7f3-a791a326e6fb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-12-02T00:31:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "De los montes"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-01-16T01:14:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-12-02T00:31:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/marco-barrientos\/de-los-montes",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "875a318a-78da-4faf-852d-c4f904121db3"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p><strong>Orden:&nbsp;V1 C V2 C2 V2 C2 B C3 I<\/strong><\/p>\r\n\r\n<p>[I]<br \/>\r\n&nbsp;\u266b<br \/>\r\n[V1]<br \/>\r\n&nbsp;--<br \/>\r\n&nbsp;Llenas nuestro hogar de danza<br \/>\r\n&nbsp;De tu gozo la ciudad&nbsp;<br \/>\r\n&nbsp;La injusticia t\u00fa quebrantas<br \/>\r\n&nbsp;Si se humilla tu heredad||<br \/>\r\n&nbsp;-<br \/>\r\n&nbsp;Llenas nuestro hogar de danza<br \/>\r\n&nbsp;De tu gozo la ciudad&nbsp;<br \/>\r\n&nbsp;La injusticia t\u00fa quebrantas<br \/>\r\n&nbsp;Si se humilla tu heredad&nbsp;<\/p>\r\n\r\n<p>[C]<br \/>\r\n&nbsp;De los montes a los valles&nbsp;<br \/>\r\n&nbsp;Ya se escucha el clamor&nbsp;<br \/>\r\n&nbsp;De los cielos a los pueblos<br \/>\r\n&nbsp;Ya te cantan con amor<\/p>\r\n\r\n<p>[C2]<br \/>\r\n&nbsp;--<br \/>\r\n&nbsp;De los montes a los valles&nbsp;<br \/>\r\n&nbsp;Ya se escucha el clamor&nbsp;<br \/>\r\n&nbsp;De los cielos a los pueblos<br \/>\r\n&nbsp;Ya te cantan con amor||<br \/>\r\n&nbsp;-<br \/>\r\n&nbsp;De los montes a los valles&nbsp;<br \/>\r\n&nbsp;Ya se escucha el clamor&nbsp;<br \/>\r\n&nbsp;De los cielos a los pueblos<br \/>\r\n&nbsp;Ya te cantan con amor<\/p>\r\n\r\n<p>[C3]<br \/>\r\n&nbsp;---<br \/>\r\n&nbsp;De los montes a los valles&nbsp;<br \/>\r\n&nbsp;Ya se escucha el clamor&nbsp;<br \/>\r\n&nbsp;De los cielos a los pueblos<br \/>\r\n&nbsp;Ya te cantan con amor||<br \/>\r\n&nbsp;--<br \/>\r\n&nbsp;De los montes a los valles&nbsp;<br \/>\r\n&nbsp;Ya se escucha el clamor&nbsp;<br \/>\r\n&nbsp;De los cielos a los pueblos<br \/>\r\n&nbsp;Ya te cantan con amor||<br \/>\r\n&nbsp;-<br \/>\r\n&nbsp;De los montes a los valles&nbsp;<br \/>\r\n&nbsp;Ya se escucha el clamor&nbsp;<br \/>\r\n&nbsp;De los cielos a los pueblos<br \/>\r\n&nbsp;Ya te cantan con amor<\/p>\r\n\r\n<p>[V2]<br \/>\r\n&nbsp;Tu luz vence las tinieblas&nbsp;<br \/>\r\n&nbsp;Al andar ante la Cruz&nbsp;<br \/>\r\n&nbsp;Llena tu gloria la tierra<br \/>\r\n&nbsp;Como el mar en plenitud<\/p>\r\n\r\n<p>[B]<br \/>\r\n&nbsp;--<br \/>\r\n&nbsp;Aleluya, Aleluya,<br \/>\r\n&nbsp;Aleluya, Aleluya|<\/p>\r\n\r\n<p>&nbsp;Aleluya, Aleluya,<br \/>\r\n&nbsp;Aleluya, Aleluya||<br \/>\r\n&nbsp;-<br \/>\r\n&nbsp;Aleluya, Aleluya,<br \/>\r\n&nbsp;Aleluya, Aleluya|<\/p>\r\n\r\n<p>&nbsp;Aleluya, Aleluya,<br \/>\r\n&nbsp;Aleluya, Aleluya<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/open?id=1i_goRznoMbSHf93Lsj58pJ2OQgtNAxa0",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "R\u00e1pida"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Masculina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "309c3d5b-0c9a-4e8b-8f89-4042ba4f5fd1"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=KqcCj3501Ww"
+        }
+    ]
+}

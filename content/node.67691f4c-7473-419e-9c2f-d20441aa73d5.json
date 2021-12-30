@@ -1,0 +1,130 @@
+{
+    "uuid": [
+        {
+            "value": "67691f4c-7473-419e-9c2f-d20441aa73d5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-10-27T15:43:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Rey de Reyes"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-02-19T19:33:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-10-27T15:43:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/daniela-barrientos\/rey-de-reyes",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ea9128cf-b09b-42b2-b141-8e4c13722e58"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p>Rey de reyes<br \/>\r\nTe adoramos<br \/>\r\nTu grandeza proclamamos<br \/>\r\nRey de reyes<br \/>\r\nSoberano<br \/>\r\nTu victoria celebramos<\/p>\r\n\r\n<p>Eres Jes\u00fas<br \/>\r\nEl que dio vida a nuestro coraz\u00f3n<br \/>\r\nEres Jes\u00fas<br \/>\r\nDigno de recibir toda adoraci\u00f3n<\/p>\r\n\r\n<p>Rey de reyes<br \/>\r\nTe exaltamos<br \/>\r\nPoderoso en majestad<br \/>\r\nEres el camino y la verdad<\/p>\r\n\r\n<p>Rey de reyes<br \/>\r\nTe adoramos<br \/>\r\nTu grandeza proclamamos<br \/>\r\nRey de reyes<br \/>\r\nSoberano<br \/>\r\nY tu victoria celebramos<\/p>\r\n\r\n<p>Eres Jes\u00fas<br \/>\r\nEl que dio vida a nuestro coraz\u00f3n<br \/>\r\nEres Jes\u00fas<br \/>\r\nDigno de recibir toda adoraci\u00f3n<\/p>\r\n\r\n<p>Rey de reyes<br \/>\r\nTe exaltamos<br \/>\r\nPoderoso en majestad<br \/>\r\nEres el camino y la verdad<br \/>\r\nRey de reyes<br \/>\r\nTe exaltamos<br \/>\r\nPoderoso en majestad<br \/>\r\nEres el camino y la verdad<\/p>\r\n\r\n<p>Rey de reyes<br \/>\r\nPor siempre te exaltamos<\/p>\r\n\r\n<p>No<br \/>\r\nNadie jam\u00e1s se podr\u00e1 igualar<br \/>\r\nA tu poder\u00edo y tu majestad<br \/>\r\nEres principio y eres final<br \/>\r\nY para siempre t\u00fa reinas<\/p>\r\n\r\n<p>No<br \/>\r\nNadie jam\u00e1s se podr\u00e1 igualar<br \/>\r\nA tu poder\u00edo y tu majestad<br \/>\r\nEres principio y eres final<br \/>\r\nY para siempre t\u00fa reinas<\/p>\r\n\r\n<p>No<br \/>\r\nNadie jam\u00e1s se podr\u00e1 igualar<br \/>\r\nA tu poder\u00edo y tu majestad<br \/>\r\nEres principio y eres final<br \/>\r\nY para siempre t\u00fa reinas<\/p>\r\n\r\n<p>No<br \/>\r\nNadie jam\u00e1s se podr\u00e1 igualar<br \/>\r\nA tu poder\u00edo y tu majestad<br \/>\r\nEres principio y eres final<br \/>\r\nY para siempre t\u00fa reinas<\/p>\r\n\r\n<p>Rey de reyes<br \/>\r\nTe exaltamos<br \/>\r\nPoderoso en majestad<br \/>\r\nEres el camino y la verdad<br \/>\r\nRey de reyes<br \/>\r\nTe exaltamos<br \/>\r\nPoderoso en majestad<br \/>\r\nEres el camino y la verdad<\/p>\r\n\r\n<p>No<br \/>\r\nNadie jam\u00e1s se podr\u00e1 igualar<br \/>\r\nA tu poder\u00edo y tu majestad<br \/>\r\nEres principio y eres final<br \/>\r\nY para siempre t\u00fa reinas<\/p>\r\n\r\n<p>No<br \/>\r\nNadie jam\u00e1s se podr\u00e1 igualar<br \/>\r\nA tu poder\u00edo y tu majestad<br \/>\r\nEres principio y eres final<br \/>\r\nY para siempre t\u00fa reinar\u00e1s<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/file\/d\/1XBFF_u4-Fn-vp_au4w2WtHqcEDGKFIrb\/view?usp=sharing",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "R\u00e1pida"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Femenina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "309c3d5b-0c9a-4e8b-8f89-4042ba4f5fd1"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=vevT6wvt-4U&feature=youtu.be&ab_channel=MarcoBarrientos-Topic"
+        }
+    ]
+}

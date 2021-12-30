@@ -1,0 +1,130 @@
+{
+    "uuid": [
+        {
+            "value": "5af9674b-42ba-4428-8437-42b227224143"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-05-12T01:45:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Creo en ti"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-12-24T00:46:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-05-12T01:45:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/julio-melgar\/creo-en-ti",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "efcb8d0d-fb61-4865-9ec9-501ecf858796"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p>Quiero levantar a Ti<br \/>\r\nMis manos<br \/>\r\nMaravilloso Jes\u00fas<br \/>\r\nMilagroso Se\u00f1or<br \/>\r\nS\u00f3lo llena este lugar de tu presencia<\/p>\r\n\r\n<p>Y has descender tu poder<br \/>\r\nA los que estamos aqu\u00ed<br \/>\r\nQuiero levantar a Ti<br \/>\r\nMis manos<\/p>\r\n\r\n<p>Maravilloso Jes\u00fas<br \/>\r\nMilagroso Se\u00f1or<br \/>\r\nLlena este lugar de tu<br \/>\r\nPresencia<br \/>\r\nY has descender tu poder<\/p>\r\n\r\n<p>A los que estamos aqu\u00ed<br \/>\r\nCreo en ti Jes\u00fas<br \/>\r\nY en lo que har\u00e1s en m\u00ed<\/p>\r\n\r\n<p>Creo en ti Jes\u00fas<br \/>\r\nY en lo que har\u00e1s en m\u00ed<br \/>\r\nEn m\u00ed<\/p>\r\n\r\n<p>En m\u00ed<br \/>\r\nRecibe toda la gloria<br \/>\r\nRecibe toda la honra<br \/>\r\nPrecioso Hijo de Dios<\/p>\r\n\r\n<p>Recibe toda la gloria<br \/>\r\nRecibe toda la honra<br \/>\r\nPrecioso Hijo de Dios<br \/>\r\nQuiero levantar a Ti mis manos<br \/>\r\nMaravilloso Jes\u00fas<\/p>\r\n\r\n<p>Milagroso Se\u00f1or<br \/>\r\nS\u00f3lo llena este lugar de tu presencia<br \/>\r\nY has descender tu poder<\/p>\r\n\r\n<p>A los que estamos aqu\u00ed<br \/>\r\nCreo en ti Jes\u00fas<br \/>\r\nY en lo que har\u00e1s en m\u00ed<\/p>\r\n\r\n<p>Creo en ti Jes\u00fas<br \/>\r\nY en lo que har\u00e1s en m\u00ed<br \/>\r\nEn m\u00ed<\/p>\r\n\r\n<p>En m\u00ed<br \/>\r\nRecibe toda la gloria<br \/>\r\nRecibe toda la honra<br \/>\r\nPrecioso Hijo de Dios<\/p>\r\n\r\n<p>Recibe toda la gloria<br \/>\r\nRecibe toda la honra<br \/>\r\nPrecioso Hijo de Dios<br \/>\r\nRecibe toda la gloria<br \/>\r\nRecibe toda la honra<br \/>\r\nPrecioso Hijo de Dios<br \/>\r\nRecibe toda la gloria<br \/>\r\nRecibe toda la honra<br \/>\r\nPrecioso Hijo de Dios<br \/>\r\nHijo de Dios<br \/>\r\nPrecioso Hijo de Dios<br \/>\r\nHijo de Dios<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/file\/d\/1QfUD6ER-QqumonxuDOA-xRJBEbhULfWl\/view?usp=sharing",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "Lenta"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Masculina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0a5b8921-5d5c-4fe9-ac5d-e49a9215074a"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=KaNsqrxZo40"
+        }
+    ]
+}

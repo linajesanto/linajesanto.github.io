@@ -1,0 +1,130 @@
+{
+    "uuid": [
+        {
+            "value": "5d470381-e484-4b64-a684-2d70503ffba3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion",
+            "target_type": "node_type",
+            "target_uuid": "28b6703e-a729-4c5a-afca-0fe5c2df3b65"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-05-12T02:08:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+        }
+    ],
+    "title": [
+        {
+            "value": "D\u00edas de El\u00edas"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-01-16T01:22:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-05-12T02:08:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/canciones\/paul-wilbur\/dias-de-elias",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_artista": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6917017c-bc0b-4b20-bd07-4e0bb0fdb6f6"
+        }
+    ],
+    "field_bpm": [],
+    "field_descripcion": [],
+    "field_letra": [
+        {
+            "value": "<p><strong>Orden:&nbsp;T V C V2 C2 B B2<\/strong><\/p>\r\n\r\n<p>[V]<br \/>\r\n&nbsp;D\u00edas son estos de El\u00edas,&nbsp;<br \/>\r\n&nbsp;declaran palabra de Dios&nbsp;<br \/>\r\n&nbsp;Y d\u00edas tambi\u00e9n de Mois\u00e9s tu siervo,&nbsp;<br \/>\r\n&nbsp;justicia reinando otra vez||&nbsp;<br \/>\r\n&nbsp;Y aunque libremos batallas,&nbsp;<br \/>\r\n&nbsp;hambruna, carencia y dolor&nbsp;<br \/>\r\n&nbsp;A\u00fan se oye voz que en desierto clama,&nbsp;<br \/>\r\n&nbsp;prepara el camino al Se\u00f1or<\/p>\r\n\r\n<p>[C]<br \/>\r\n&nbsp;He aqu\u00ed Yesh\u00faa viene ya&nbsp;<br \/>\r\n&nbsp;Brillando como el Sol&nbsp;<br \/>\r\n&nbsp;En el cielo lo ver\u00e1s||&nbsp;<br \/>\r\n&nbsp;Declara hoy el a\u00f1o del Se\u00f1or&nbsp;<br \/>\r\n&nbsp;Desde Si\u00f3n lleg\u00f3 la salvaci\u00f3n<\/p>\r\n\r\n<p><br \/>\r\n[V2]<br \/>\r\n&nbsp;D\u00edas de Ezequiel tambi\u00e9n llegan,&nbsp;<br \/>\r\n&nbsp;los huesos se llenan de piel&nbsp;<br \/>\r\n&nbsp;Y d\u00edas tambi\u00e9n de David tu siervo,&nbsp;<br \/>\r\n&nbsp;tu pueblo te alaba a doquier||&nbsp;<br \/>\r\n&nbsp;Son d\u00edas de gran cosecha,&nbsp;<br \/>\r\n&nbsp;los campos ya listos est\u00e1n&nbsp;<br \/>\r\n&nbsp;Somos los obreros de tu vi\u00f1a,&nbsp;<br \/>\r\n&nbsp;declaramos hoy tu verdad&nbsp;<\/p>\r\n\r\n<p>[B]<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir!<br \/>\r\n&nbsp;(x8)||<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir!<br \/>\r\n&nbsp;(x7)||<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir!<br \/>\r\n&nbsp;(x6)||<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir!<br \/>\r\n&nbsp;(x5)||<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir!<br \/>\r\n&nbsp;(x4)||<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir!<br \/>\r\n&nbsp;(x3)||<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir!<br \/>\r\n&nbsp;(x2)||<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir!<\/p>\r\n\r\n<p>[B2]<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir&nbsp;<br \/>\r\n&nbsp;Venir, veniiiiiir!<\/p>\r\n\r\n<p>[T]<br \/>\r\n&nbsp;\u266a\u266b\u266c<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/open?id=1dKebs4oPLs_Moa1fajCeqkCTk-lBwBJW",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_tipo": [
+        {
+            "value": "R\u00e1pida"
+        }
+    ],
+    "field_tipo_de_voz": [
+        {
+            "value": "Masculina"
+        }
+    ],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8013cbe0-9b82-4d9c-ae72-f766292c49e9"
+        }
+    ],
+    "field_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=_Zw_ML0Vu3A"
+        }
+    ]
+}
