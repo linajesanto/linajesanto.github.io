@@ -14,4 +14,4 @@ features:
 logo:
   path: ''
   url: ''
-  use_default: false
+  use_default: true
