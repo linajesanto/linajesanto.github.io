@@ -56,13 +56,7 @@
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
-    "roles": [
-        {
-            "target_id": "miembro",
-            "target_type": "user_role",
-            "target_uuid": "83e24ee9-fe29-4099-b1fb-f813ecac5db9"
-        }
-    ],
+    "roles": [],
     "default_langcode": [
         {
             "value": true

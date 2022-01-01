@@ -22,5 +22,5 @@ if (is_readable($ddev_settings) && getenv('IS_DDEV_PROJECT') == 'true') {
 
 $settings['tome_files_directory'] = '../files';
 $settings['tome_content_directory'] = '../content';
-$settings['tome_static_directory'] = '../html';
+$settings['tome_static_directory'] = '../docs';
 $settings['config_sync_directory'] = '../config';
