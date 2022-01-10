@@ -28,13 +28,27 @@
   &lt;/div&gt;
 
 
+&lt;div class="block block-layout-builder block-field-blocknodecoleccionfield-descripcion"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+            &lt;div class="text-content field field--name-field-descripcion field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Voces:&lt;br /&gt;
+Darling: Ven, de gloria,&lt;br /&gt;
+Esther: Levanto..por siempre..&lt;br /&gt;
+Aaron: Los muros,cuan grande,por siempre&lt;/p&gt;&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
 &lt;div class="block block-layout-builder block-field-blocknodecoleccionfield-canciones"&gt;
   
     
       &lt;div class="block__content"&gt;
       
       &lt;div class="field field--name-field-canciones field--type-entity-reference field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-c5f214a1c0c6d38bbd3b82051aaa3a4893a09fa92b4d2fecfb4eeb792972c433"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-03ba98cfad7b10d196e9e701ebc45ad66643a829059ac650e2c73ecf3911f407"&gt;
   
     
       
@@ -72,11 +86,11 @@
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;3          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--5" class="views-field views-field-title"&gt;&lt;a href="http://default/canciones/marco-barrientos/rey-de-gloria" hreflang="es"&gt;Rey de gloria&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--5" class="views-field views-field-title"&gt;&lt;a href="http://default/canciones/marco-barrientos/de-gloria-en-gloria" hreflang="es"&gt;De gloria en gloria&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--4" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--2" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-table-column--2" class="views-field views-field-field-tono"&gt;E          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--2" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-table-column--2" class="views-field views-field-field-tono"&gt;A#          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--2" class="views-field views-field-field-secuencia"&gt;&lt;a href="https://drive.google.com/file/d/1DBoGUq5BGTwRPh9W2vWOYtvhQumxwm8X/view?usp=sharing "&gt;Ver&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td class="views-field views-field-operations"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
@@ -416,7 +430,7 @@ Eli'as: 4,5&lt;/p&gt;
       &lt;div class="block__content"&gt;
       
       &lt;div class="field field--name-field-canciones field--type-entity-reference field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-2d9e030345867ec9043eb1e40c73efcaadaeceef27ef034e59b9881b292a5ddf"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-d85213f7c22a87409b5bb9b423909c0c26cd67295e872f0f79777714563c9089"&gt;
   
     
       
@@ -850,7 +864,7 @@ Precioso Jesús&lt;/p&gt;
       &lt;div class="block__content"&gt;
       
       &lt;div class="field field--name-field-canciones field--type-entity-reference field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-81b37958776671ed1097062a9258a3a89d7dceba543b4fe060726f5cf4e34797"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-5769b4aa2e15a081880cbc9335c116dec395f2697f16624bf9d6fbee64ede99d"&gt;
   
     
       

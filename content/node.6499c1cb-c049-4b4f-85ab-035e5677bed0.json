@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-01-10T02:22:56+00:00",
+            "value": "2022-01-10T02:33:06+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-01-10T02:22:56+00:00",
+            "value": "2022-01-10T02:33:06+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -95,7 +95,7 @@
         },
         {
             "target_type": "node",
-            "target_uuid": "295367f8-2276-4486-a48c-f404ff70165e"
+            "target_uuid": "705d6fbf-8d4f-4854-85c6-4b456f50e6ba"
         },
         {
             "target_type": "node",
@@ -110,7 +110,13 @@
             "target_uuid": "92488059-0338-4fbe-80c3-f05fd690bb66"
         }
     ],
-    "field_descripcion": [],
+    "field_descripcion": [
+        {
+            "value": "<p>Voces:<br \/>\r\nDarling: Ven, de gloria,<br \/>\r\nEsther: Levanto..por siempre..<br \/>\r\nAaron: Los muros,cuan grande,por siempre<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
     "field_fecha_y_hora": [
         {
             "value": "2022-01-16T09:00:00-06:00"
