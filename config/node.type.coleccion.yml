@@ -15,4 +15,4 @@ description: 'Crea una colección de canciones para un evento en específico'
 help: ''
 new_revision: true
 preview_mode: 1
-display_submitted: true
+display_submitted: false
