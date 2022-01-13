@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-01-12T22:55:22+00:00",
+            "value": "2022-01-13T00:25:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-01-12T22:55:22+00:00",
+            "value": "2022-01-13T00:25:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -112,7 +112,7 @@
     ],
     "field_descripcion": [
         {
-            "value": "<p>Voces:<br \/>\r\nDarling: Ven, de gloria,<br \/>\r\nEsther: Levanto..por siempre..<br \/>\r\nAaron: Los muros,cuan grande,por siempre<\/p>\r\n",
+            "value": "<p>Voces:<br \/>\r\nDarling: Ven, de gloria...,<br \/>\r\nEsther: Que se llene..., Revelacio'n.<br \/>\r\nAaron: Los muros,cuan grande...<\/p>\r\n",
             "format": "basic_html",
             "summary": ""
         }

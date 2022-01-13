@@ -34,9 +34,9 @@
       &lt;div class="block__content"&gt;
       
             &lt;div class="text-content field field--name-field-descripcion field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Voces:&lt;br /&gt;
-Darling: Ven, de gloria,&lt;br /&gt;
-Esther: Levanto..por siempre..&lt;br /&gt;
-Aaron: Los muros,cuan grande,por siempre&lt;/p&gt;&lt;/div&gt;
+Darling: Ven, de gloria...,&lt;br /&gt;
+Esther: Que se llene..., Revelacio'n.&lt;br /&gt;
+Aaron: Los muros,cuan grande...&lt;/p&gt;&lt;/div&gt;
       
     &lt;/div&gt;
   &lt;/div&gt;
@@ -48,7 +48,7 @@ Aaron: Los muros,cuan grande,por siempre&lt;/p&gt;&lt;/div&gt;
       &lt;div class="block__content"&gt;
       
       &lt;div class="field field--name-field-canciones field--type-entity-reference field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-511ff6f21413a7f4227bfb67f0b029d9ca8021f3e9de0594757adff1ad213732"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-3c198334b1bb1ef1718c83638b3dfa7039abb9c89ee480d473a0058479bd0038"&gt;
   
     
       
@@ -441,7 +441,7 @@ Eli'as: 4,5&lt;/p&gt;
       &lt;div class="block__content"&gt;
       
       &lt;div class="field field--name-field-canciones field--type-entity-reference field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-29fc5dbb1c8ad75337a64cd261cfea1841556d40cfe2044505abce0a834e8492"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-2b2a633e219d4410e90305d7ff308f6ef9811684a0be48bc4825f4086d6be8b5"&gt;
   
     
       
@@ -875,7 +875,7 @@ Precioso Jesús&lt;/p&gt;
       &lt;div class="block__content"&gt;
       
       &lt;div class="field field--name-field-canciones field--type-entity-reference field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-6fdb6575a7b570fe2bb8a92dc47157fb1e17601bb4dd63f61a24361734a784c5"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-9fdbefb384fa2ef9d5dccedfe0706553f460f0cc883747c2ad217d73318abfbf"&gt;
   
     
       
