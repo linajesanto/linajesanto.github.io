@@ -36,7 +36,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "scripts": {
-        "push": "git add . && git ci -m'Deploy latest changes' && git push"
+        "deploy": "git add . && git ci -m'Deploy latest changes' && git push"
     },
     "extra": {
         "patches": {
