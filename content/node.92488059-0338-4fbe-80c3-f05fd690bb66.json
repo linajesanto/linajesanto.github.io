@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-01-10T01:58:07+00:00",
+            "value": "2022-01-13T00:06:34+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-01-10T01:58:07+00:00",
+            "value": "2022-01-13T00:06:34+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -91,7 +91,13 @@
         }
     ],
     "field_bpm": [],
-    "field_descripcion": [],
+    "field_descripcion": [
+        {
+            "value": "<p><a href=\"https:\/\/mega.nz\/folder\/BuA0BbKD#AoHDwDXrHRzQLkTan5wwjg\/folder\/oyIlxQqZ\">Podemos usar este multitrack<\/a><\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
     "field_letra": [],
     "field_secuencia": [],
     "field_tags": [],
@@ -113,7 +119,7 @@
     ],
     "field_video": [
         {
-            "value": "https:\/\/www.youtube.com\/watch?v=oIXa7FzmXFE"
+            "value": "https:\/\/www.youtube.com\/watch?v=mg_2rNQ8kNQ"
         }
     ]
 }
