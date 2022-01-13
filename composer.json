@@ -36,7 +36,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "scripts": {
-        "deploy": "git add . && git ci -m'Deploy latest changes' && git push"
+        "start": "drush runserver",
+        "deploy": "drush tome:export -y && drush tome:static -y && git add . && git ci -m'Deploy latest changes' && git push"
     },
     "extra": {
         "patches": {
