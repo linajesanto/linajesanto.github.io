@@ -129,3 +129,7 @@ upstream/web/
 
 # Ignore .env files as they are personal
 /.env
+
+/html
+/drush
+gh-pages

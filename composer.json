@@ -38,7 +38,7 @@
     "scripts": {
         "start": "drush runserver",
         "export": "drush tome:export -y",
-        "deploy": "drush tome:export -y && drush tome:static -y && git add . && git ci -m'Deploy latest changes' && git push"
+        "deploy": "./scripts/deploy.sh"
     },
     "extra": {
         "patches": {
