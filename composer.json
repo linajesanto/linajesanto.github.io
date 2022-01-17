@@ -37,7 +37,7 @@
     "prefer-stable": true,
     "scripts": {
         "start": "drush runserver",
-        "export": "drush tome:export -y",
+        "export": "./scripts/export.sh",
         "deploy": "./scripts/deploy.sh"
     },
     "extra": {
