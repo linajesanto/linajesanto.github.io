@@ -11,5 +11,5 @@ $databases['default']['default'] = array (
 
 $settings['tome_files_directory'] = '../files';
 $settings['tome_content_directory'] = '../content';
-$settings['tome_static_directory'] = '../docs';
+$settings['tome_static_directory'] = '../html';
 $settings['config_sync_directory'] = '../config';
