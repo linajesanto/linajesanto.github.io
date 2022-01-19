@@ -38,7 +38,8 @@
     "scripts": {
         "start": "drush runserver",
         "export": "./scripts/export.sh",
-        "deploy": "./scripts/deploy.sh"
+        "deploy": "./scripts/deploy.sh",
+        "drush": "drush"
     },
     "extra": {
         "patches": {
