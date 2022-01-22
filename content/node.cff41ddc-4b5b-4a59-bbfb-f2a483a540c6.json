@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-01-19T01:18:35+00:00",
+            "value": "2022-01-22T18:22:12+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-01-19T01:18:35+00:00",
+            "value": "2022-01-22T18:22:12+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -87,11 +87,11 @@
     "field_canciones": [
         {
             "target_type": "node",
-            "target_uuid": "2670cc87-77c4-4a57-8e53-e7930fcc3f75"
+            "target_uuid": "6cd9df8a-b969-4ae5-a224-d8df2c14be58"
         },
         {
             "target_type": "node",
-            "target_uuid": "8a1fc4e6-8461-4266-bd1f-d1cfd12f7091"
+            "target_uuid": "2670cc87-77c4-4a57-8e53-e7930fcc3f75"
         },
         {
             "target_type": "node",
@@ -103,7 +103,7 @@
         },
         {
             "target_type": "node",
-            "target_uuid": "6cd9df8a-b969-4ae5-a224-d8df2c14be58"
+            "target_uuid": "8a1fc4e6-8461-4266-bd1f-d1cfd12f7091"
         },
         {
             "target_type": "node",
@@ -112,7 +112,7 @@
     ],
     "field_descripcion": [
         {
-            "value": "<p>Aaron: Increi'ble,Te doy gloria.<br \/>\r\nIvette: Gloria en lo alto,Gracia sublime<br \/>\r\nEsther: Rey, si tu presencia,<\/p>\r\n\r\n<p>Darling a descanzar.<\/p>\r\n",
+            "value": "<p>Aaron: Increi'ble,Te doy gloria.<br \/>\r\nIvette: Gloria en lo alto,Gracia sublime<br \/>\r\nDarling: Rey, si tu presencia,<\/p>\r\n\r\n<p>Darling a descanzar.<\/p>\r\n",
             "format": "basic_html",
             "summary": ""
         }
