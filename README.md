@@ -1,5 +1,5 @@
 # LinajeSanto website
-https://linajesanto.github.io/
+https://edysmp.github.io/linajesanto
 
 Built with:
 * Drupal.org
