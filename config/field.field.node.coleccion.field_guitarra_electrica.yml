@@ -1,0 +1,33 @@
+uuid: b19fc838-90e9-4e42-80c5-14c56cea84b1
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_guitarra_electrica
+    - node.type.coleccion
+  content:
+    - 'user:user:5abe7d29-b959-4c2f-bdcc-073fa45a4be7'
+id: node.coleccion.field_guitarra_electrica
+field_name: field_guitarra_electrica
+entity_type: node
+bundle: coleccion
+label: 'Guitarra eléctrica'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    target_uuid: 5abe7d29-b959-4c2f-bdcc-073fa45a4be7
+default_value_callback: ''
+settings:
+  handler: 'default:user'
+  handler_settings:
+    target_bundles: null
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    filter:
+      type: _none
+    include_anonymous: true
+field_type: entity_reference

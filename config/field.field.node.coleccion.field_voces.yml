@@ -1,0 +1,39 @@
+uuid: f6c6f4f1-5893-4360-8e55-4e2e0a220d59
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_voces
+    - node.type.coleccion
+  content:
+    - 'user:user:0f5dfe20-fa66-4598-89b1-2d2be44e05b8'
+    - 'user:user:6a85fb9a-da67-4f0f-8ee9-8308af1bbc3f'
+    - 'user:user:a23fa1e5-57ee-45a4-aeaf-70192f440ed3'
+id: node.coleccion.field_voces
+field_name: field_voces
+entity_type: node
+bundle: coleccion
+label: Voces
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    target_uuid: 0f5dfe20-fa66-4598-89b1-2d2be44e05b8
+  -
+    target_uuid: a23fa1e5-57ee-45a4-aeaf-70192f440ed3
+  -
+    target_uuid: 6a85fb9a-da67-4f0f-8ee9-8308af1bbc3f
+default_value_callback: ''
+settings:
+  handler: 'default:user'
+  handler_settings:
+    target_bundles: null
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    filter:
+      type: _none
+    include_anonymous: true
+field_type: entity_reference

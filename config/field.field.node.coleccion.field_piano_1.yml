@@ -1,0 +1,33 @@
+uuid: 9cb05bba-d4cb-4240-9625-9d812b55d93f
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_piano_1
+    - node.type.coleccion
+  content:
+    - 'user:user:415a351d-f9df-46e2-95af-29359e049249'
+id: node.coleccion.field_piano_1
+field_name: field_piano_1
+entity_type: node
+bundle: coleccion
+label: 'Piano 1'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    target_uuid: 415a351d-f9df-46e2-95af-29359e049249
+default_value_callback: ''
+settings:
+  handler: 'default:user'
+  handler_settings:
+    target_bundles: null
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    filter:
+      type: _none
+    include_anonymous: true
+field_type: entity_reference

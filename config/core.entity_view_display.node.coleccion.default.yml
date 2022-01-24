@@ -3,9 +3,16 @@ langcode: es
 status: true
 dependencies:
   config:
-    - field.field.node.coleccion.field_canciones
+    - field.field.node.coleccion.field_bajo
+    - field.field.node.coleccion.field_bateria
     - field.field.node.coleccion.field_descripcion
     - field.field.node.coleccion.field_fecha_y_hora
+    - field.field.node.coleccion.field_guitarra_acustica
+    - field.field.node.coleccion.field_guitarra_electrica
+    - field.field.node.coleccion.field_item
+    - field.field.node.coleccion.field_piano_1
+    - field.field.node.coleccion.field_piano_2
+    - field.field.node.coleccion.field_voces
     - node.type.coleccion
   module:
     - datetime
@@ -24,23 +31,13 @@ third_party_settings:
           label: ''
           context_mapping: {  }
         components:
-          c8c679cd-43e3-463e-9c63-e0a192ba31e6:
-            uuid: c8c679cd-43e3-463e-9c63-e0a192ba31e6
-            region: content
-            configuration:
-              id: 'extra_field_block:node:coleccion:links'
-              label_display: '0'
-              context_mapping:
-                entity: layout_builder.entity
-            weight: 0
-            additional: {  }
           d74c9bd3-653a-4f99-a8e8-a26f7e6b83bc:
             uuid: d74c9bd3-653a-4f99-a8e8-a26f7e6b83bc
             region: content
             configuration:
               id: 'field_block:node:coleccion:field_descripcion'
-              label: Descripción
-              label_display: '0'
+              label: Notas
+              label_display: visible
               provider: layout_builder
               context_mapping:
                 entity: layout_builder.entity
@@ -50,14 +47,14 @@ third_party_settings:
                 label: hidden
                 settings: {  }
                 third_party_settings: {  }
-            weight: 1
+            weight: -9
             additional: {  }
-          d76f454b-a3ee-4880-9cdf-dfe4254743ef:
-            uuid: d76f454b-a3ee-4880-9cdf-dfe4254743ef
+          f6b5bc01-8678-4363-9115-b73c274244b8:
+            uuid: f6b5bc01-8678-4363-9115-b73c274244b8
             region: content
             configuration:
-              id: 'field_block:node:coleccion:field_canciones'
-              label: Canciones
+              id: 'field_block:node:coleccion:field_item'
+              label: Item
               label_display: '0'
               provider: layout_builder
               context_mapping:
@@ -67,14 +64,14 @@ third_party_settings:
                 type: views_field_formatter
                 label: hidden
                 settings:
-                  view: 'canciones_para_coleccion::block_1'
+                  view: 'coleccion::default'
                   arguments:
-                    entity_id:
-                      checked: '1'
-                      weight: '0'
                     field_value:
                       weight: '0'
                       checked: 0
+                    entity_id:
+                      checked: '1'
+                      weight: '0'
                     delta:
                       weight: '0'
                       checked: 0
@@ -85,7 +82,150 @@ third_party_settings:
                   multiple: 0
                   implode_character: ''
                 third_party_settings: {  }
-            weight: 5
+            weight: -1
+            additional: {  }
+          0fff01c6-46cc-4331-9477-4f489f71801f:
+            uuid: 0fff01c6-46cc-4331-9477-4f489f71801f
+            region: content
+            configuration:
+              id: 'field_block:node:coleccion:field_voces'
+              label: Voces
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: entity_reference_label
+                label: above
+                settings:
+                  link: false
+                third_party_settings: {  }
+            weight: -8
+            additional: {  }
+          de9448f4-3d3c-481c-949d-57c937235f8f:
+            uuid: de9448f4-3d3c-481c-949d-57c937235f8f
+            region: content
+            configuration:
+              id: 'field_block:node:coleccion:field_bateria'
+              label: Batería
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: entity_reference_label
+                label: above
+                settings:
+                  link: false
+                third_party_settings: {  }
+            weight: -7
+            additional: {  }
+          d931d773-be79-4c1a-9e71-00a1159d1828:
+            uuid: d931d773-be79-4c1a-9e71-00a1159d1828
+            region: content
+            configuration:
+              id: 'field_block:node:coleccion:field_bajo'
+              label: Bajo
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: entity_reference_label
+                label: above
+                settings:
+                  link: false
+                third_party_settings: {  }
+            weight: -6
+            additional: {  }
+          842a718d-5447-4655-9da9-ea6f6896e4c1:
+            uuid: 842a718d-5447-4655-9da9-ea6f6896e4c1
+            region: content
+            configuration:
+              id: 'field_block:node:coleccion:field_piano_1'
+              label: 'Piano 1'
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: entity_reference_label
+                label: above
+                settings:
+                  link: false
+                third_party_settings: {  }
+            weight: -5
+            additional: {  }
+          807a51b8-2d96-4870-b47d-ae817fa6710e:
+            uuid: 807a51b8-2d96-4870-b47d-ae817fa6710e
+            region: content
+            configuration:
+              id: 'field_block:node:coleccion:field_piano_2'
+              label: 'Piano 2'
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: entity_reference_label
+                label: above
+                settings:
+                  link: false
+                third_party_settings: {  }
+            weight: -4
+            additional: {  }
+          7abbd1f3-3160-45d1-8393-4e7a44a0cdb6:
+            uuid: 7abbd1f3-3160-45d1-8393-4e7a44a0cdb6
+            region: content
+            configuration:
+              id: 'field_block:node:coleccion:field_guitarra_electrica'
+              label: 'Guitarra eléctrica'
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: entity_reference_label
+                label: above
+                settings:
+                  link: false
+                third_party_settings: {  }
+            weight: -3
+            additional: {  }
+          4806ec17-476b-48bb-be7b-03d2b950de93:
+            uuid: 4806ec17-476b-48bb-be7b-03d2b950de93
+            region: content
+            configuration:
+              id: 'field_block:node:coleccion:field_guitarra_acustica'
+              label: 'Guitarra acústica'
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: entity_reference_label
+                label: above
+                settings:
+                  link: false
+                third_party_settings: {  }
+            weight: -2
+            additional: {  }
+          c8c679cd-43e3-463e-9c63-e0a192ba31e6:
+            uuid: c8c679cd-43e3-463e-9c63-e0a192ba31e6
+            region: content
+            configuration:
+              id: 'extra_field_block:node:coleccion:links'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+            weight: -10
             additional: {  }
         third_party_settings: {  }
 id: node.coleccion.default
@@ -93,13 +233,21 @@ targetEntityType: node
 bundle: coleccion
 mode: default
 content:
-  field_canciones:
+  field_bajo:
     type: entity_reference_label
     label: above
     settings:
       link: true
     third_party_settings: {  }
-    weight: 103
+    weight: 108
+    region: content
+  field_bateria:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 107
     region: content
   field_descripcion:
     type: text_default
@@ -116,6 +264,54 @@ content:
       format_type: medium
     third_party_settings: {  }
     weight: 104
+    region: content
+  field_guitarra_acustica:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 112
+    region: content
+  field_guitarra_electrica:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 111
+    region: content
+  field_item:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 105
+    region: content
+  field_piano_1:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 109
+    region: content
+  field_piano_2:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 110
+    region: content
+  field_voces:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 106
     region: content
   links:
     settings: {  }

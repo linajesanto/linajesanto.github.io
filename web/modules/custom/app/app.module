@@ -1,0 +1,26 @@
+<?php
+
+
+
+/**
+ * Implements hook_library_info_alter().
+ */
+function app_library_info_alter(array &$libraries, string $extension): void {
+  if ($extension === 'gin') {
+    $module_path = \Drupal::service('module_handler')->getModule('app')->getPath();
+    $libraries['gin']['css']['theme']["/$module_path/css/gin.css"] = [];
+  }
+}
+
+/**
+ * Implements hook_css_alter().
+ */
+function app_css_alter(array &$css): void {
+  $module_path = \Drupal::service('module_handler')->getModule('app')->getPath();
+  $css_path = $module_path . '/css/gin.css';
+  if (\array_key_exists($css_path, $css)) {
+    // Set CSS on top of Gin CSS file.
+    // @see gin_css_alter()
+    $css[$css_path]['group'] = 250;
+  }
+}

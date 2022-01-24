@@ -1,0 +1,11 @@
+uuid: b8c9a7d8-1bd2-4893-b309-defabad7d6d1
+langcode: es
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.encargado_de_la_actividad
+id: taxonomy_term.encargado_de_la_actividad
+target_entity_type_id: taxonomy_term
+target_bundle: encargado_de_la_actividad
+default_langcode: site_default
+language_alterable: false

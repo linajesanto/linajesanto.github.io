@@ -1,0 +1,8 @@
+uuid: 216fd9a3-7790-4772-97d5-0c9e1600d7e2
+langcode: es
+status: true
+dependencies: {  }
+name: 'Encargado de la actividad'
+vid: encargado_de_la_actividad
+description: ''
+weight: 0

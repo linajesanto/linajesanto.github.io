@@ -1,0 +1,47 @@
+uuid: e6f66efe-fc23-440c-9f1a-3c3643721c12
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.field.node.cancion_item.field_cancion
+    - field.field.node.cancion_item.field_encargado
+    - field.field.node.cancion_item.field_override_tono
+    - node.type.cancion_item
+  module:
+    - user
+id: node.cancion_item.default
+targetEntityType: node
+bundle: cancion_item
+mode: default
+content:
+  field_cancion:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 103
+    region: content
+  field_encargado:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 102
+    region: content
+  field_override_tono:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 104
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  langcode: true

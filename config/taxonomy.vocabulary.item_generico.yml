@@ -1,0 +1,8 @@
+uuid: 7b3d8568-96a8-4c7f-844c-b292a5198c70
+langcode: es
+status: true
+dependencies: {  }
+name: 'Ìtem genérico'
+vid: item_generico
+description: ''
+weight: 0

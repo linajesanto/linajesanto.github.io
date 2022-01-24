@@ -3,14 +3,46 @@ langcode: es
 status: true
 dependencies:
   config:
-    - field.field.node.coleccion.field_canciones
+    - core.entity_form_mode.node.ief
+    - field.field.node.coleccion.field_bajo
+    - field.field.node.coleccion.field_bateria
     - field.field.node.coleccion.field_descripcion
     - field.field.node.coleccion.field_fecha_y_hora
+    - field.field.node.coleccion.field_guitarra_acustica
+    - field.field.node.coleccion.field_guitarra_electrica
+    - field.field.node.coleccion.field_item
+    - field.field.node.coleccion.field_piano_1
+    - field.field.node.coleccion.field_piano_2
+    - field.field.node.coleccion.field_voces
     - node.type.coleccion
   module:
     - datetime
+    - field_group
+    - inline_entity_form
     - path
     - text
+third_party_settings:
+  field_group:
+    group_asignaciones:
+      children:
+        - field_voces
+        - field_bateria
+        - field_bajo
+        - field_piano_1
+        - field_piano_2
+        - field_guitarra_electrica
+        - field_guitarra_acustica
+      label: Asignaciones
+      region: content
+      parent_name: ''
+      weight: 9
+      format_type: fieldset
+      format_settings:
+        classes: ''
+        show_empty_fields: false
+        id: ''
+        description: ''
+        required_fields: true
 id: node.coleccion.default
 targetEntityType: node
 bundle: coleccion
@@ -18,13 +50,23 @@ mode: default
 content:
   created:
     type: datetime_timestamp
-    weight: 10
+    weight: 3
     region: content
     settings: {  }
     third_party_settings: {  }
-  field_canciones:
+  field_bajo:
     type: entity_reference_autocomplete
-    weight: 123
+    weight: 15
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_bateria:
+    type: entity_reference_autocomplete
+    weight: 13
     region: content
     settings:
       match_operator: CONTAINS
@@ -34,7 +76,7 @@ content:
     third_party_settings: {  }
   field_descripcion:
     type: text_textarea_with_summary
-    weight: 122
+    weight: 8
     region: content
     settings:
       rows: 9
@@ -44,47 +86,114 @@ content:
     third_party_settings: {  }
   field_fecha_y_hora:
     type: datetime_default
-    weight: 124
+    weight: 11
     region: content
     settings: {  }
     third_party_settings: {  }
+  field_guitarra_acustica:
+    type: entity_reference_autocomplete
+    weight: 19
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_guitarra_electrica:
+    type: entity_reference_autocomplete
+    weight: 18
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_item:
+    type: inline_entity_form_complex
+    weight: 10
+    region: content
+    settings:
+      form_mode: ief
+      override_labels: false
+      label_singular: ''
+      label_plural: ''
+      allow_new: true
+      allow_existing: false
+      match_operator: CONTAINS
+      allow_duplicate: false
+      collapsible: false
+      collapsed: false
+      revision: false
+    third_party_settings: {  }
+  field_piano_1:
+    type: entity_reference_autocomplete
+    weight: 16
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_piano_2:
+    type: entity_reference_autocomplete
+    weight: 17
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_voces:
+    type: entity_reference_autocomplete
+    weight: 12
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
   langcode:
     type: language_select
-    weight: 2
+    weight: 1
     region: content
     settings:
       include_locked: true
     third_party_settings: {  }
   path:
     type: path
-    weight: 30
+    weight: 6
     region: content
     settings: {  }
     third_party_settings: {  }
   promote:
     type: boolean_checkbox
-    weight: 15
+    weight: 4
     region: content
     settings:
       display_label: true
     third_party_settings: {  }
   status:
     type: boolean_checkbox
-    weight: 120
+    weight: 7
     region: content
     settings:
       display_label: true
     third_party_settings: {  }
   sticky:
     type: boolean_checkbox
-    weight: 16
+    weight: 5
     region: content
     settings:
       display_label: true
     third_party_settings: {  }
   title:
     type: string_textfield
-    weight: -5
+    weight: 0
     region: content
     settings:
       size: 60
@@ -92,7 +201,7 @@ content:
     third_party_settings: {  }
   uid:
     type: entity_reference_autocomplete
-    weight: 5
+    weight: 2
     region: content
     settings:
       match_operator: CONTAINS

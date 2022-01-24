@@ -1,0 +1,9 @@
+status: 3
+pattern: '[node:field_actividad:entity:name] por: [node:field_encargado_de_actividad:entity:name]'
+escape: false
+preserve_titles: false
+dependencies:
+  config:
+    - node.type.item_colleccion
+save: 0
+chunk: '50'

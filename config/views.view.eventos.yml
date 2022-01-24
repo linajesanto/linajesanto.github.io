@@ -476,8 +476,7 @@ display:
             format: basic_html
           tokenize: false
       display_extenders: {  }
-      displays:
-        page_1: page_1
+      displays: {  }
       attachment_position: after
     cache_metadata:
       max-age: -1

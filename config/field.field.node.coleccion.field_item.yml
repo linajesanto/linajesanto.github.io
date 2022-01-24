@@ -1,0 +1,31 @@
+uuid: d5874060-1073-43ed-8a1e-a4822ee2e8c7
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_item
+    - node.type.cancion_item
+    - node.type.coleccion
+    - node.type.item_colleccion
+id: node.coleccion.field_item
+field_name: field_item
+entity_type: node
+bundle: coleccion
+label: Actividades
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      cancion_item: cancion_item
+      item_colleccion: item_colleccion
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: cancion_item
+field_type: entity_reference

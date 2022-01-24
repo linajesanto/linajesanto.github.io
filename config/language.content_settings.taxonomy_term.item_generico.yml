@@ -1,0 +1,11 @@
+uuid: dcc94de4-3a6b-4e65-bf10-58b98e3a5fe8
+langcode: es
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.item_generico
+id: taxonomy_term.item_generico
+target_entity_type_id: taxonomy_term
+target_bundle: item_generico
+default_langcode: site_default
+language_alterable: false

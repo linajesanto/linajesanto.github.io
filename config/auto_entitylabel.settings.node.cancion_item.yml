@@ -1,0 +1,9 @@
+status: 3
+pattern: 'CANCION: [node:field_cancion:entity:title] por: [node:field_encargado:entity:name]'
+escape: false
+preserve_titles: false
+dependencies:
+  config:
+    - node.type.cancion_item
+save: 1
+chunk: '50'

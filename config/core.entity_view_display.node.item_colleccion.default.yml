@@ -1,0 +1,38 @@
+uuid: 468d058a-a840-424d-b9e7-85c6cf107874
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.field.node.item_colleccion.field_actividad
+    - field.field.node.item_colleccion.field_encargado_de_actividad
+    - node.type.item_colleccion
+  module:
+    - user
+id: node.item_colleccion.default
+targetEntityType: node
+bundle: item_colleccion
+mode: default
+content:
+  field_actividad:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 104
+    region: content
+  field_encargado_de_actividad:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 106
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  langcode: true
