@@ -104,7 +104,7 @@ display:
           group_type: group
           admin_label: ''
           plugin_id: field
-          label: Canción
+          label: Actividad
           exclude: false
           alter:
             alter_text: false

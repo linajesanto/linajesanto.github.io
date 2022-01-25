@@ -11,7 +11,7 @@ id: node.coleccion.field_descripcion
 field_name: field_descripcion
 entity_type: node
 bundle: coleccion
-label: Descripción
+label: Notas
 description: ''
 required: false
 translatable: true
