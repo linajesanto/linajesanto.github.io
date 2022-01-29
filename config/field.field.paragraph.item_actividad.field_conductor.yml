@@ -1,0 +1,19 @@
+uuid: 9032b147-0686-4afc-8265-41f554f45cc6
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_conductor
+    - paragraphs.paragraphs_type.item_actividad
+id: paragraph.item_actividad.field_conductor
+field_name: field_conductor
+entity_type: paragraph
+bundle: item_actividad
+label: Conductor
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

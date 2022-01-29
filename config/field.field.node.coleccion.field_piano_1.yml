@@ -5,8 +5,6 @@ dependencies:
   config:
     - field.storage.node.field_piano_1
     - node.type.coleccion
-  content:
-    - 'user:user:415a351d-f9df-46e2-95af-29359e049249'
 id: node.coleccion.field_piano_1
 field_name: field_piano_1
 entity_type: node
@@ -15,9 +13,7 @@ label: 'Piano 1'
 description: ''
 required: false
 translatable: false
-default_value:
-  -
-    target_uuid: 415a351d-f9df-46e2-95af-29359e049249
+default_value: {  }
 default_value_callback: ''
 settings:
   handler: 'default:user'

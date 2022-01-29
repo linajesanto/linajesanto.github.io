@@ -1,0 +1,29 @@
+uuid: a2ccf79e-60bb-49b9-a23f-e60c1b481807
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_tono
+    - paragraphs.paragraphs_type.cancion_item
+    - taxonomy.vocabulary.tono
+id: paragraph.cancion_item.field_tono
+field_name: field_tono
+entity_type: paragraph
+bundle: cancion_item
+label: Tono
+description: 'Si configurado, se usará en vez del tono original.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      tono: tono
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

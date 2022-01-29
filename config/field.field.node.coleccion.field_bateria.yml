@@ -5,8 +5,6 @@ dependencies:
   config:
     - field.storage.node.field_bateria
     - node.type.coleccion
-  content:
-    - 'user:user:a846337d-0457-4ba5-b1c3-71589f4c6846'
 id: node.coleccion.field_bateria
 field_name: field_bateria
 entity_type: node
@@ -15,9 +13,7 @@ label: Batería
 description: ''
 required: false
 translatable: false
-default_value:
-  -
-    target_uuid: a846337d-0457-4ba5-b1c3-71589f4c6846
+default_value: {  }
 default_value_callback: ''
 settings:
   handler: 'default:user'

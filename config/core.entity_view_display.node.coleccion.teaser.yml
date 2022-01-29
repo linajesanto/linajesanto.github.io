@@ -4,13 +4,13 @@ status: true
 dependencies:
   config:
     - core.entity_view_mode.node.teaser
+    - field.field.node.coleccion.field_actividades
     - field.field.node.coleccion.field_bajo
     - field.field.node.coleccion.field_bateria
     - field.field.node.coleccion.field_descripcion
     - field.field.node.coleccion.field_fecha_y_hora
     - field.field.node.coleccion.field_guitarra_acustica
     - field.field.node.coleccion.field_guitarra_electrica
-    - field.field.node.coleccion.field_item
     - field.field.node.coleccion.field_piano_1
     - field.field.node.coleccion.field_piano_2
     - field.field.node.coleccion.field_voces
@@ -37,12 +37,12 @@ content:
     weight: 1
     region: content
 hidden:
+  field_actividades: true
   field_bajo: true
   field_bateria: true
   field_fecha_y_hora: true
   field_guitarra_acustica: true
   field_guitarra_electrica: true
-  field_item: true
   field_piano_1: true
   field_piano_2: true
   field_voces: true

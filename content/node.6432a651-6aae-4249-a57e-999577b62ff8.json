@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-01-25T18:04:15+00:00",
+            "value": "2022-01-29T20:18:10+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-01-25T18:04:15+00:00",
+            "value": "2022-01-29T20:18:10+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -82,6 +82,56 @@
             "alias": "\/coleccion\/sunday-january-30-del-2022",
             "langcode": "es",
             "pathauto": 1
+        }
+    ],
+    "field_actividades": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "fd5dc701-7e7d-4b0b-8d17-0914fbfcf75c"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "41a6b208-c94b-4e76-a196-186ecf40071f"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "cde4327b-ca8e-4a3a-8916-95bf14cfde5f"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "7cb6f7fc-e206-4373-8aac-6947dfe58d1d"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "c7bf04ff-47db-4713-b947-c6bceaa9cd7f"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "36afffbd-eecf-4637-ba31-a3af87c566b1"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "acf2923a-61bd-4e80-8caf-2b1670adbe97"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "1352a30b-87a7-4c13-a118-026a62a0d783"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "6f2a1050-0309-44c6-bd8d-aa8b897f21a1"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "70e5a688-0de8-413c-b3e5-6b5bb645a4ba"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "401b55e3-daf9-4176-9c27-bfb34e7801de"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "e533c29a-8d16-4bfb-bc98-f6721de0dce3"
         }
     ],
     "field_bajo": [
@@ -113,56 +163,6 @@
         {
             "target_type": "user",
             "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
-        }
-    ],
-    "field_item": [
-        {
-            "target_type": "node",
-            "target_uuid": "94e4365e-9876-48e2-88dc-60f90c2d964b"
-        },
-        {
-            "target_type": "node",
-            "target_uuid": "9656e614-701c-4c59-a889-d6a4fef471f5"
-        },
-        {
-            "target_type": "node",
-            "target_uuid": "12b225e3-47c8-4d68-9de2-dac8d5244772"
-        },
-        {
-            "target_type": "node",
-            "target_uuid": "e216a4f9-e2df-42e6-8acb-bebb59ad14dd"
-        },
-        {
-            "target_type": "node",
-            "target_uuid": "dc89d2dc-b37d-4ed4-83e1-b4013a6b8139"
-        },
-        {
-            "target_type": "node",
-            "target_uuid": "11740657-e3bf-47e9-9526-86b034fa4c2c"
-        },
-        {
-            "target_type": "node",
-            "target_uuid": "56d537f7-d13a-45ff-b54a-51ed7350d633"
-        },
-        {
-            "target_type": "node",
-            "target_uuid": "eb27aac8-df46-4883-8671-360e894ec804"
-        },
-        {
-            "target_type": "node",
-            "target_uuid": "4d968a0f-6956-4572-a3fd-04c71061861e"
-        },
-        {
-            "target_type": "node",
-            "target_uuid": "19853b3d-ac21-4f22-8f29-465629c9e574"
-        },
-        {
-            "target_type": "node",
-            "target_uuid": "19a3a7dd-cd86-4ec5-a1f3-8b31b009704c"
-        },
-        {
-            "target_type": "node",
-            "target_uuid": "70b0baf3-9723-4c7e-a695-716b3b29ae6c"
         }
     ],
     "field_piano_1": [

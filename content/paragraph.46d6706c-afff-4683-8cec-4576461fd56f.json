@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "46d6706c-afff-4683-8cec-4576461fd56f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "item_actividad",
+            "target_type": "paragraphs_type",
+            "target_uuid": "44eb1b89-15eb-46b5-9138-c70c1ee2b8f7"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-01-29T18:36:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_actividad": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "feed3cfb-e8ab-482d-9b89-53a7645ccd0f"
+        }
+    ],
+    "field_conductor": [
+        {
+            "value": "badriuegolitruprotrephomushauuslisheguhiswotacrotrespibiphathijoslafranadeclashislocestuclopewrudotricibrathosomiluheswaclostiwrakidretoswoslephicrechoclam"
+        }
+    ]
+}

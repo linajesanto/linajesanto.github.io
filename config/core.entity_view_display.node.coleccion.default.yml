@@ -3,19 +3,20 @@ langcode: es
 status: true
 dependencies:
   config:
+    - field.field.node.coleccion.field_actividades
     - field.field.node.coleccion.field_bajo
     - field.field.node.coleccion.field_bateria
     - field.field.node.coleccion.field_descripcion
     - field.field.node.coleccion.field_fecha_y_hora
     - field.field.node.coleccion.field_guitarra_acustica
     - field.field.node.coleccion.field_guitarra_electrica
-    - field.field.node.coleccion.field_item
     - field.field.node.coleccion.field_piano_1
     - field.field.node.coleccion.field_piano_2
     - field.field.node.coleccion.field_voces
     - node.type.coleccion
   module:
     - datetime
+    - entity_reference_revisions
     - layout_builder
     - layout_discovery
     - text
@@ -31,41 +32,6 @@ third_party_settings:
           label: ''
           context_mapping: {  }
         components:
-          f6b5bc01-8678-4363-9115-b73c274244b8:
-            uuid: f6b5bc01-8678-4363-9115-b73c274244b8
-            region: content
-            configuration:
-              id: 'field_block:node:coleccion:field_item'
-              label: Item
-              label_display: '0'
-              provider: layout_builder
-              context_mapping:
-                entity: layout_builder.entity
-                view_mode: view_mode
-              formatter:
-                type: views_field_formatter
-                label: hidden
-                settings:
-                  view: 'coleccion::default'
-                  arguments:
-                    field_value:
-                      weight: '0'
-                      checked: 0
-                    entity_id:
-                      checked: '1'
-                      weight: '0'
-                    delta:
-                      weight: '0'
-                      checked: 0
-                    entity_revision_id:
-                      weight: '0'
-                      checked: 0
-                  hide_empty: 0
-                  multiple: 0
-                  implode_character: ''
-                third_party_settings: {  }
-            weight: -2
-            additional: {  }
           0fff01c6-46cc-4331-9477-4f489f71801f:
             uuid: 0fff01c6-46cc-4331-9477-4f489f71801f
             region: content
@@ -227,12 +193,56 @@ third_party_settings:
                 third_party_settings: {  }
             weight: -1
             additional: {  }
+          8d5222a8-0ec0-4aad-84b7-a4f78fa7c57d:
+            uuid: 8d5222a8-0ec0-4aad-84b7-a4f78fa7c57d
+            region: content
+            configuration:
+              id: 'field_block:node:coleccion:field_actividades'
+              label: Actividades
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: views_field_formatter
+                label: above
+                settings:
+                  view: 'actividades_para_coleccion::default'
+                  arguments:
+                    entity_revision_id:
+                      weight: '0'
+                      checked: 0
+                    field_value:
+                      weight: '0'
+                      checked: 0
+                    entity_id:
+                      checked: '1'
+                      weight: '0'
+                    delta:
+                      weight: '0'
+                      checked: 0
+                  hide_empty: 0
+                  multiple: 0
+                  implode_character: ''
+                third_party_settings: {  }
+            weight: 0
+            additional: {  }
         third_party_settings: {  }
 id: node.coleccion.default
 targetEntityType: node
 bundle: coleccion
 mode: default
 content:
+  field_actividades:
+    type: entity_reference_revisions_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 113
+    region: content
   field_bajo:
     type: entity_reference_label
     label: above
@@ -280,14 +290,6 @@ content:
       link: true
     third_party_settings: {  }
     weight: 111
-    region: content
-  field_item:
-    type: entity_reference_label
-    label: above
-    settings:
-      link: true
-    third_party_settings: {  }
-    weight: 105
     region: content
   field_piano_1:
     type: entity_reference_label

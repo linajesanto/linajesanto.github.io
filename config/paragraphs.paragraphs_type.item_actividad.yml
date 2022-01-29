@@ -1,0 +1,10 @@
+uuid: 44eb1b89-15eb-46b5-9138-c70c1ee2b8f7
+langcode: es
+status: true
+dependencies: {  }
+id: item_actividad
+label: 'Ítem Actividad'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

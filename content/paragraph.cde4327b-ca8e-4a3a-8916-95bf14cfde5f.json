@@ -1,0 +1,52 @@
+{
+    "uuid": [
+        {
+            "value": "cde4327b-ca8e-4a3a-8916-95bf14cfde5f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "item_actividad",
+            "target_type": "paragraphs_type",
+            "target_uuid": "44eb1b89-15eb-46b5-9138-c70c1ee2b8f7"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-01-29T18:26:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "field_actividad": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9a73757c-820a-47ba-8c4d-9a36bcf64d16"
+        }
+    ],
+    "field_conductor": [
+        {
+            "value": "Ivette"
+        }
+    ]
+}

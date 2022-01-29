@@ -1,15 +1,15 @@
-uuid: f6c6f4f1-5893-4360-8e55-4e2e0a220d59
+uuid: e5c6f926-c4de-4502-8d84-54c91601ebdb
 langcode: es
 status: true
 dependencies:
   config:
-    - field.storage.node.field_voces
-    - node.type.coleccion
-id: node.coleccion.field_voces
-field_name: field_voces
-entity_type: node
-bundle: coleccion
-label: Voces
+    - field.storage.paragraph.field_encargado
+    - paragraphs.paragraphs_type.cancion_item
+id: paragraph.cancion_item.field_encargado
+field_name: field_encargado
+entity_type: paragraph
+bundle: cancion_item
+label: Encargado
 description: ''
 required: false
 translatable: false

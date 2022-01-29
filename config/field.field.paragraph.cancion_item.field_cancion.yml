@@ -1,0 +1,29 @@
+uuid: 957ecf8f-b217-438b-87d7-e6429126214b
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_cancion
+    - node.type.cancion
+    - paragraphs.paragraphs_type.cancion_item
+id: paragraph.cancion_item.field_cancion
+field_name: field_cancion
+entity_type: paragraph
+bundle: cancion_item
+label: Canción
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      cancion: cancion
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

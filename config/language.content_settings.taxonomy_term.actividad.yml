@@ -1,0 +1,11 @@
+uuid: 359bb4fb-d8ff-4f73-ab0c-b22a9adcfc71
+langcode: es
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.actividad
+id: taxonomy_term.actividad
+target_entity_type_id: taxonomy_term
+target_bundle: actividad
+default_langcode: site_default
+language_alterable: false

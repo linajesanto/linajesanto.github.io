@@ -1,0 +1,32 @@
+uuid: f45ed0c2-4fb8-4402-9e57-30532a4bdf42
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_actividades
+    - node.type.coleccion
+  module:
+    - entity_reference_revisions
+id: node.coleccion.field_actividades
+field_name: field_actividades
+entity_type: node
+bundle: coleccion
+label: Actividades
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    target_bundles: null
+    negate: 0
+    target_bundles_drag_drop:
+      cancion_item:
+        weight: 3
+        enabled: false
+      item_actividad:
+        weight: 4
+        enabled: false
+field_type: entity_reference_revisions

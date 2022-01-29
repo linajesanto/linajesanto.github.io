@@ -1,0 +1,39 @@
+uuid: 9e983434-0860-40b7-9c2d-89f5c6de4fd2
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.cancion_item.field_cancion
+    - field.field.paragraph.cancion_item.field_encargado
+    - field.field.paragraph.cancion_item.field_tono
+    - paragraphs.paragraphs_type.cancion_item
+id: paragraph.cancion_item.default
+targetEntityType: paragraph
+bundle: cancion_item
+mode: default
+content:
+  field_cancion:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_encargado:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_tono:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 2
+    region: content
+hidden: {  }

@@ -3,14 +3,13 @@ langcode: es
 status: true
 dependencies:
   config:
-    - core.entity_form_mode.node.ief
+    - field.field.node.coleccion.field_actividades
     - field.field.node.coleccion.field_bajo
     - field.field.node.coleccion.field_bateria
     - field.field.node.coleccion.field_descripcion
     - field.field.node.coleccion.field_fecha_y_hora
     - field.field.node.coleccion.field_guitarra_acustica
     - field.field.node.coleccion.field_guitarra_electrica
-    - field.field.node.coleccion.field_item
     - field.field.node.coleccion.field_piano_1
     - field.field.node.coleccion.field_piano_2
     - field.field.node.coleccion.field_voces
@@ -18,7 +17,7 @@ dependencies:
   module:
     - datetime
     - field_group
-    - inline_entity_form
+    - paragraphs
     - path
     - text
 third_party_settings:
@@ -35,7 +34,7 @@ third_party_settings:
       label: Asignaciones
       region: content
       parent_name: ''
-      weight: 9
+      weight: 8
       format_type: fieldset
       format_settings:
         classes: ''
@@ -53,6 +52,25 @@ content:
     weight: 3
     region: content
     settings: {  }
+    third_party_settings: {  }
+  field_actividades:
+    type: paragraphs
+    weight: 9
+    region: content
+    settings:
+      title: Paragraph
+      title_plural: Paragraphs
+      edit_mode: closed_expand_nested
+      closed_mode: summary
+      autocollapse: none
+      closed_mode_threshold: 0
+      add_mode: dropdown
+      form_display_mode: default
+      default_paragraph_type: _none
+      features:
+        add_above: '0'
+        collapse_edit_all: collapse_edit_all
+        duplicate: duplicate
     third_party_settings: {  }
   field_bajo:
     type: entity_reference_autocomplete
@@ -76,7 +94,7 @@ content:
     third_party_settings: {  }
   field_descripcion:
     type: text_textarea_with_summary
-    weight: 8
+    weight: 10
     region: content
     settings:
       rows: 9
@@ -109,23 +127,6 @@ content:
       match_limit: 10
       size: 60
       placeholder: ''
-    third_party_settings: {  }
-  field_item:
-    type: inline_entity_form_complex
-    weight: 10
-    region: content
-    settings:
-      form_mode: ief
-      override_labels: false
-      label_singular: ''
-      label_plural: ''
-      allow_new: true
-      allow_existing: false
-      match_operator: CONTAINS
-      allow_duplicate: false
-      collapsible: false
-      collapsed: false
-      revision: false
     third_party_settings: {  }
   field_piano_1:
     type: entity_reference_autocomplete
