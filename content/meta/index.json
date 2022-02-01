@@ -918,7 +918,7 @@
         "paragraph.1e9639e8-8c3a-4a2d-90de-c3748d9ff931",
         "paragraph.fa00aeae-62ff-404d-9e06-8a37629a1d61",
         "paragraph.3266887f-e400-48af-99d2-79dc37cd59dd",
-        "paragraph.67ebf886-58d7-41de-9a58-8d1f262a0f21",
+        "paragraph.0043bfe1-2b34-4b71-a9e2-6299ac04e1ec",
         "paragraph.351d2d85-43a8-4070-bba6-b13f8ea21e29",
         "paragraph.dd406719-54fd-4e49-bebb-a8ff3ff52685",
         "paragraph.97559e87-e79f-4279-bac6-1aa97cf14ee1",
@@ -1594,6 +1594,10 @@
         "node.81912793-37a6-4484-bef6-20000c032afc",
         "user.ea0909ff-136d-4cf8-8392-9a28ffb2ceb2"
     ],
+    "paragraph.67ebf886-58d7-41de-9a58-8d1f262a0f21": [
+        "taxonomy_term.dfe061c3-6acf-4fee-a2c4-eab933cfceee",
+        "user.0f5dfe20-fa66-4598-89b1-2d2be44e05b8"
+    ],
     "paragraph.76912536-784a-454a-888a-bc51ab94ea56": [
         "taxonomy_term.e50f9c8e-b04b-46d3-b2bc-76baaaf4b036",
         "user.6a85fb9a-da67-4f0f-8ee9-8308af1bbc3f"
@@ -1610,8 +1614,8 @@
         "node.705d6fbf-8d4f-4854-85c6-4b456f50e6ba",
         "user.2b3a8a6e-8b1e-4771-9103-860e6fde10dd"
     ],
-    "paragraph.67ebf886-58d7-41de-9a58-8d1f262a0f21": [
-        "taxonomy_term.dfe061c3-6acf-4fee-a2c4-eab933cfceee",
+    "paragraph.0043bfe1-2b34-4b71-a9e2-6299ac04e1ec": [
+        "taxonomy_term.31a7b855-c841-481f-9b45-83d4fb0bcf6b",
         "user.0f5dfe20-fa66-4598-89b1-2d2be44e05b8"
     ],
     "paragraph.351d2d85-43a8-4070-bba6-b13f8ea21e29": [
