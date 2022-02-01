@@ -160,10 +160,7 @@
     ],
     "field_guitarra_acustica": [],
     "field_guitarra_electrica": [
-        {
-            "target_type": "user",
-            "target_uuid": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
-        }
+        []
     ],
     "field_piano_1": [
         {

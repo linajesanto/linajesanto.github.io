@@ -1,12 +1,12 @@
 {
     "uid": [
         {
-            "value": 24
+            "value": 66
         }
     ],
     "uuid": [
         {
-            "value": "5abe7d29-b959-4c2f-bdcc-073fa45a4be7"
+            "value": "2b3a8a6e-8b1e-4771-9103-860e6fde10dd"
         }
     ],
     "langcode": [
@@ -21,17 +21,17 @@
     ],
     "preferred_admin_langcode": [
         {
-            "value": "en"
+            "value": "es"
         }
     ],
     "name": [
         {
-            "value": "Edys Meza"
+            "value": "Felipe"
         }
     ],
     "mail": [
         {
-            "value": "edysmeza@gmail.com"
+            "value": "felipe@linajesanto.com"
         }
     ],
     "timezone": [
@@ -46,23 +46,17 @@
     ],
     "created": [
         {
-            "value": "2020-01-06T02:52:47+00:00",
+            "value": "2022-02-01T01:10:33+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2020-01-12T21:11:24+00:00",
+            "value": "2022-02-01T01:10:33+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
-    "roles": [
-        {
-            "target_id": "administrator",
-            "target_type": "user_role",
-            "target_uuid": "efe2a844-2455-4088-99b1-5bff02a709fc"
-        }
-    ],
+    "roles": [],
     "default_langcode": [
         {
             "value": true
@@ -76,14 +70,5 @@
             "pathauto": 0
         }
     ],
-    "user_picture": [
-        {
-            "alt": "",
-            "title": "",
-            "width": 518,
-            "height": 619,
-            "target_type": "file",
-            "target_uuid": "f3271bfb-dd38-49d7-9034-bd2aa3323b48"
-        }
-    ]
+    "user_picture": []
 }
