@@ -2,6 +2,7 @@
 
 set -e
 
+drush cr
 drush tome:static -y -l https://edysmp.github.io/linajesanto
 rm -rf gh-pages
 git clone git@github.com:edysmp/linajesanto gh-pages
