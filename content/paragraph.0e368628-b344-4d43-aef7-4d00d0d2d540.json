@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "cde4327b-ca8e-4a3a-8916-95bf14cfde5f"
+            "value": "0e368628-b344-4d43-aef7-4d00d0d2d540"
         }
     ],
     "langcode": [
@@ -11,9 +11,9 @@
     ],
     "type": [
         {
-            "target_id": "item_actividad",
+            "target_id": "cancion_item",
             "target_type": "paragraphs_type",
-            "target_uuid": "44eb1b89-15eb-46b5-9138-c70c1ee2b8f7"
+            "target_uuid": "a4209aaa-0ef2-4455-9f5a-7fcaa9ac3adf"
         }
     ],
     "status": [
@@ -23,7 +23,7 @@
     ],
     "created": [
         {
-            "value": "2022-01-29T18:26:23+00:00",
+            "value": "2022-01-31T22:55:14+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -38,11 +38,17 @@
         }
     ],
     "revision_translation_affected": [],
-    "field_actividad": [
+    "field_cancion": [
         {
-            "target_type": "taxonomy_term",
-            "target_uuid": "9a73757c-820a-47ba-8c4d-9a36bcf64d16"
+            "target_type": "node",
+            "target_uuid": "fcc0b157-5064-40c1-8c8a-50b417183a21"
         }
     ],
-    "field_encargado": []
+    "field_encargado": [
+        {
+            "target_type": "user",
+            "target_uuid": "6a85fb9a-da67-4f0f-8ee9-8308af1bbc3f"
+        }
+    ],
+    "field_tono": []
 }

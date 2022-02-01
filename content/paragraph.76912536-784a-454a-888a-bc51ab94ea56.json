@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "cde4327b-ca8e-4a3a-8916-95bf14cfde5f"
+            "value": "76912536-784a-454a-888a-bc51ab94ea56"
         }
     ],
     "langcode": [
@@ -23,7 +23,7 @@
     ],
     "created": [
         {
-            "value": "2022-01-29T18:26:23+00:00",
+            "value": "2022-01-31T23:54:40+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -41,8 +41,13 @@
     "field_actividad": [
         {
             "target_type": "taxonomy_term",
-            "target_uuid": "9a73757c-820a-47ba-8c4d-9a36bcf64d16"
+            "target_uuid": "e50f9c8e-b04b-46d3-b2bc-76baaaf4b036"
         }
     ],
-    "field_encargado": []
+    "field_encargado": [
+        {
+            "target_type": "user",
+            "target_uuid": "6a85fb9a-da67-4f0f-8ee9-8308af1bbc3f"
+        }
+    ]
 }

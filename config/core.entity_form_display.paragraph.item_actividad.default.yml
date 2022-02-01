@@ -4,7 +4,7 @@ status: true
 dependencies:
   config:
     - field.field.paragraph.item_actividad.field_actividad
-    - field.field.paragraph.item_actividad.field_conductor
+    - field.field.paragraph.item_actividad.field_encargado
     - paragraphs.paragraphs_type.item_actividad
 id: paragraph.item_actividad.default
 targetEntityType: paragraph
@@ -21,11 +21,13 @@ content:
       size: 60
       placeholder: ''
     third_party_settings: {  }
-  field_conductor:
-    type: string_textfield
-    weight: 1
+  field_encargado:
+    type: entity_reference_autocomplete
+    weight: 2
     region: content
     settings:
+      match_operator: CONTAINS
+      match_limit: 10
       size: 60
       placeholder: ''
     third_party_settings: {  }

@@ -4,7 +4,7 @@ status: true
 dependencies:
   config:
     - field.field.paragraph.item_actividad.field_actividad
-    - field.field.paragraph.item_actividad.field_conductor
+    - field.field.paragraph.item_actividad.field_encargado
     - paragraphs.paragraphs_type.item_actividad
 id: paragraph.item_actividad.default
 targetEntityType: paragraph
@@ -19,12 +19,12 @@ content:
     third_party_settings: {  }
     weight: 0
     region: content
-  field_conductor:
-    type: string
+  field_encargado:
+    type: entity_reference_label
     label: above
     settings:
-      link_to_entity: false
+      link: true
     third_party_settings: {  }
-    weight: 1
+    weight: 2
     region: content
 hidden: {  }

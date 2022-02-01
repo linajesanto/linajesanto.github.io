@@ -1,30 +1,27 @@
-uuid: 4b6e2191-30ae-4abb-8412-cbb275170078
+uuid: 91aa3f3a-3421-4072-81f8-3ea791c7e2be
 langcode: es
 status: true
 dependencies:
   config:
     - field.storage.node.field_secuencia
-    - field.storage.node.field_tipo
     - field.storage.node.field_tono
     - field.storage.paragraph.field_actividad
     - field.storage.paragraph.field_cancion
-    - field.storage.paragraph.field_conductor
     - field.storage.paragraph.field_encargado
     - field.storage.paragraph.field_tono
-    - paragraphs.paragraphs_type.cancion_item
-    - paragraphs.paragraphs_type.item_actividad
+    - node.type.coleccion
   module:
     - link
     - node
-    - options
     - paragraphs
+    - user
 id: actividades_para_coleccion
 label: 'Actividades para colección'
 module: views
 description: ''
 tag: ''
-base_table: paragraphs_item_field_data
-base_field: id
+base_table: node_field_data
+base_field: nid
 display:
   default:
     id: default
@@ -37,14 +34,14 @@ display:
           id: field_cancion
           table: paragraph__field_cancion
           field: field_cancion
-          relationship: none
+          relationship: field_actividades
           group_type: group
           admin_label: ''
           plugin_id: field
-          label: Canción
+          label: Actividad
           exclude: true
           alter:
-            alter_text: true
+            alter_text: false
             text: ''
             make_link: false
             path: ''
@@ -74,11 +71,11 @@ display:
           element_class: ''
           element_label_type: ''
           element_label_class: ''
-          element_label_colon: true
+          element_label_colon: false
           element_wrapper_type: ''
           element_wrapper_class: ''
           element_default_classes: true
-          empty: '{{ field_actividad }}'
+          empty: ''
           hide_empty: false
           empty_zero: false
           hide_alter_empty: true
@@ -100,14 +97,14 @@ display:
           id: field_actividad
           table: paragraph__field_actividad
           field: field_actividad
-          relationship: none
+          relationship: field_actividades
           group_type: group
           admin_label: ''
           plugin_id: field
           label: Actividad
           exclude: false
           alter:
-            alter_text: true
+            alter_text: false
             text: ''
             make_link: false
             path: ''
@@ -163,12 +160,12 @@ display:
           id: field_encargado
           table: paragraph__field_encargado
           field: field_encargado
-          relationship: none
+          relationship: field_actividades
           group_type: group
           admin_label: ''
           plugin_id: field
           label: Encargado
-          exclude: true
+          exclude: false
           alter:
             alter_text: false
             text: ''
@@ -211,7 +208,7 @@ display:
           click_sort_column: target_id
           type: entity_reference_label
           settings:
-            link: true
+            link: false
           group_column: target_id
           group_columns: {  }
           group_rows: true
@@ -222,70 +219,8 @@ display:
           multi_type: separator
           separator: ', '
           field_api_classes: false
-        field_conductor:
-          id: field_conductor
-          table: paragraph__field_conductor
-          field: field_conductor
-          relationship: none
-          group_type: group
-          admin_label: ''
-          plugin_id: field
-          label: Conductor
-          exclude: false
-          alter:
-            alter_text: true
-            text: ''
-            make_link: false
-            path: ''
-            absolute: false
-            external: false
-            replace_spaces: false
-            path_case: none
-            trim_whitespace: false
-            alt: ''
-            rel: ''
-            link_class: ''
-            prefix: ''
-            suffix: ''
-            target: ''
-            nl2br: false
-            max_length: 0
-            word_boundary: true
-            ellipsis: true
-            more_link: false
-            more_link_text: ''
-            more_link_path: ''
-            strip_tags: false
-            trim: false
-            preserve_tags: ''
-            html: false
-          element_type: ''
-          element_class: ''
-          element_label_type: ''
-          element_label_class: ''
-          element_label_colon: true
-          element_wrapper_type: ''
-          element_wrapper_class: ''
-          element_default_classes: true
-          empty: '{{ field_encargado }} '
-          hide_empty: false
-          empty_zero: false
-          hide_alter_empty: true
-          click_sort_column: value
-          type: string
-          settings: {  }
-          group_column: value
-          group_columns: {  }
-          group_rows: true
-          delta_limit: 0
-          delta_offset: 0
-          delta_reversed: false
-          delta_first_last: false
-          multi_type: separator
-          separator: ', '
-          field_api_classes: false
-        field_tono_1:
-          id: field_tono_1
+        field_tono:
+          id: field_tono
           table: node__field_tono
           field: field_tono
           relationship: field_cancion
@@ -347,11 +282,11 @@ display:
           multi_type: separator
           separator: ', '
           field_api_classes: false
-        field_tono:
-          id: field_tono
+        field_tono_1:
+          id: field_tono_1
           table: paragraph__field_tono
           field: field_tono
-          relationship: none
+          relationship: field_actividades
           group_type: group
           admin_label: ''
           plugin_id: field
@@ -392,7 +327,7 @@ display:
           element_wrapper_type: ''
           element_wrapper_class: ''
           element_default_classes: true
-          empty: '{{ field_tono_1 }}'
+          empty: '{{ field_tono }}'
           hide_empty: false
           empty_zero: false
           hide_alter_empty: true
@@ -401,68 +336,6 @@ display:
           settings:
             link: true
           group_column: target_id
-          group_columns: {  }
-          group_rows: true
-          delta_limit: 0
-          delta_offset: 0
-          delta_reversed: false
-          delta_first_last: false
-          multi_type: separator
-          separator: ', '
-          field_api_classes: false
-        field_tipo:
-          id: field_tipo
-          table: node__field_tipo
-          field: field_tipo
-          relationship: field_cancion
-          group_type: group
-          admin_label: ''
-          plugin_id: field
-          label: Ritmo
-          exclude: false
-          alter:
-            alter_text: false
-            text: ''
-            make_link: false
-            path: ''
-            absolute: false
-            external: false
-            replace_spaces: false
-            path_case: none
-            trim_whitespace: false
-            alt: ''
-            rel: ''
-            link_class: ''
-            prefix: ''
-            suffix: ''
-            target: ''
-            nl2br: false
-            max_length: 0
-            word_boundary: true
-            ellipsis: true
-            more_link: false
-            more_link_text: ''
-            more_link_path: ''
-            strip_tags: false
-            trim: false
-            preserve_tags: ''
-            html: false
-          element_type: ''
-          element_class: ''
-          element_label_type: ''
-          element_label_class: ''
-          element_label_colon: true
-          element_wrapper_type: ''
-          element_wrapper_class: ''
-          element_default_classes: true
-          empty: ''
-          hide_empty: false
-          empty_zero: false
-          hide_alter_empty: true
-          click_sort_column: value
-          type: list_default
-          settings: {  }
-          group_column: value
           group_columns: {  }
           group_rows: true
           delta_limit: 0
@@ -540,9 +413,26 @@ display:
           separator: ', '
           field_api_classes: false
       pager:
-        type: none
+        type: full
         options:
           offset: 0
+          items_per_page: 50
+          total_pages: null
+          id: 0
+          tags:
+            next: 'Next ›'
+            previous: '‹ Previous'
+            first: '« First'
+            last: 'Last »'
+          expose:
+            items_per_page: false
+            items_per_page_label: 'Items per page'
+            items_per_page_options: '5, 10, 25, 50'
+            items_per_page_options_all: false
+            items_per_page_options_all_label: '- All -'
+            offset: false
+            offset_label: Offset
+          quantity: 9
       exposed_form:
         type: basic
         options:
@@ -554,40 +444,42 @@ display:
           sort_asc_label: Asc
           sort_desc_label: Desc
       access:
-        type: none
-        options: {  }
+        type: perm
+        options:
+          perm: 'access content'
       cache:
         type: tag
         options: {  }
       empty: {  }
       sorts:
-        revision_id:
-          id: revision_id
-          table: paragraphs_item_field_data
-          field: revision_id
+        created:
+          id: created
+          table: node_field_data
+          field: created
           relationship: none
           group_type: group
           admin_label: ''
-          entity_type: paragraph
-          entity_field: revision_id
-          plugin_id: standard
-          order: ASC
+          entity_type: node
+          entity_field: created
+          plugin_id: date
+          order: DESC
           expose:
             label: ''
             field_identifier: ''
           exposed: false
+          granularity: second
       arguments:
-        parent_id:
-          id: parent_id
-          table: paragraphs_item_field_data
-          field: parent_id
+        nid:
+          id: nid
+          table: node_field_data
+          field: nid
           relationship: none
           group_type: group
           admin_label: ''
-          entity_type: paragraph
-          entity_field: parent_id
-          plugin_id: string
-          default_action: default
+          entity_type: node
+          entity_field: nid
+          plugin_id: node_nid
+          default_action: ignore
           exception:
             value: all
             title_enable: false
@@ -611,18 +503,14 @@ display:
             type: none
             fail: 'not found'
           validate_options: {  }
-          glossary: false
-          limit: 0
-          case: none
-          path_case: none
-          transform_dash: false
           break_phrase: false
+          not: false
       filters:
         status:
           id: status
-          table: paragraphs_item_field_data
+          table: node_field_data
           field: status
-          entity_type: paragraph
+          entity_type: node
           entity_field: status
           plugin_id: boolean
           value: '1'
@@ -633,18 +521,17 @@ display:
             operator_list: {  }
         type:
           id: type
-          table: paragraphs_item_field_data
+          table: node_field_data
           field: type
           relationship: none
           group_type: group
           admin_label: ''
-          entity_type: paragraph
+          entity_type: node
           entity_field: type
           plugin_id: bundle
           operator: in
           value:
-            cancion_item: cancion_item
-            item_actividad: item_actividad
+            coleccion: coleccion
           group: 1
           exposed: false
           expose:
@@ -681,10 +568,10 @@ display:
           row_class: ''
           default_row_class: true
           columns:
-            id: id
+            field_cancion: field_cancion
           default: '-1'
           info:
-            id:
+            field_cancion:
               sortable: false
               default_sort_order: asc
               align: ''
@@ -713,11 +600,20 @@ display:
           replica: false
           query_tags: {  }
       relationships:
+        field_actividades:
+          id: field_actividades
+          table: node__field_actividades
+          field: field_actividades
+          relationship: none
+          group_type: group
+          admin_label: 'field_actividades: Paragraph'
+          plugin_id: standard
+          required: false
         field_cancion:
           id: field_cancion
           table: paragraph__field_cancion
           field: field_cancion
-          relationship: none
+          relationship: field_actividades
           group_type: group
           admin_label: 'field_cancion: Content'
           plugin_id: standard
@@ -731,12 +627,13 @@ display:
         - 'languages:language_content'
         - 'languages:language_interface'
         - url
+        - url.query_args
+        - 'user.node_grants:view'
+        - user.permissions
       tags:
         - 'config:field.storage.node.field_secuencia'
-        - 'config:field.storage.node.field_tipo'
         - 'config:field.storage.node.field_tono'
         - 'config:field.storage.paragraph.field_actividad'
         - 'config:field.storage.paragraph.field_cancion'
-        - 'config:field.storage.paragraph.field_conductor'
         - 'config:field.storage.paragraph.field_encargado'
         - 'config:field.storage.paragraph.field_tono'
