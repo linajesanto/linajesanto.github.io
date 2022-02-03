@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-02-01T01:15:04+00:00",
+            "value": "2022-02-03T21:07:49+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-01T01:15:04+00:00",
+            "value": "2022-02-03T21:07:49+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -92,7 +92,12 @@
     ],
     "field_bpm": [],
     "field_descripcion": [],
-    "field_letra": [],
+    "field_letra": [
+        {
+            "value": "<p>Mi Cristo, mi Rey<br \/>\r\nNadie es como T\u00fa<br \/>\r\nToda mi vida<br \/>\r\nQuiero exaltar<br \/>\r\nLas maravillas de Tu amor<\/p>\r\n\r\n<p>Consuelo, refugio<br \/>\r\nTorre de fuerza y poder<br \/>\r\nTodo mi ser, lo que yo soy<br \/>\r\nNunca cese de adorar<\/p>\r\n\r\n<p>Cante al Se\u00f1or toda la creaci\u00f3n<br \/>\r\nHonra y poder, majestad sea al Rey<br \/>\r\nMontes caer\u00e1n y el mar rugir\u00e1<br \/>\r\nAl sonar de Tu nombre<\/p>\r\n\r\n<p>Canto con gozo al mirar Tu poder<br \/>\r\nPor siempre yo te amar\u00e9 y dir\u00e9<br \/>\r\nIncomparables promesas me das, Se\u00f1or<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
     "field_secuencia": [
         {
             "uri": "https:\/\/drive.google.com\/file\/d\/12jGT0TmdH84f6GhZpX78Wj3Lw3B-HW5m\/view?usp=sharing",

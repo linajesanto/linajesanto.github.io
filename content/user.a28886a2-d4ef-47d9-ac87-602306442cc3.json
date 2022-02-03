@@ -1,0 +1,74 @@
+{
+    "uid": [
+        {
+            "value": 67
+        }
+    ],
+    "uuid": [
+        {
+            "value": "a28886a2-d4ef-47d9-ac87-602306442cc3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "name": [
+        {
+            "value": "Israel"
+        }
+    ],
+    "mail": [
+        {
+            "value": "israel@linajesanto.com"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/Managua"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-02-03T21:11:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-02-03T21:11:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "es",
+            "pathauto": 0
+        }
+    ],
+    "user_picture": []
+}

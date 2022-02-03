@@ -569,11 +569,47 @@ display:
           default_row_class: true
           columns:
             field_cancion: field_cancion
+            field_actividad: field_actividad
+            field_encargado: field_encargado
+            field_tono: field_tono
+            field_tono_1: field_tono_1
+            field_secuencia: field_secuencia
           default: '-1'
           info:
             field_cancion:
               sortable: false
               default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            field_actividad:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            field_encargado:
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            field_tono:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            field_tono_1:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            field_secuencia:
               align: ''
               separator: ''
               empty_column: false
