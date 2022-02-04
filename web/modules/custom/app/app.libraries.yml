@@ -1,4 +1,0 @@
-gin:
-  css:
-    theme:
-      css/gin.css: {}

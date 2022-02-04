@@ -1,6 +1,0 @@
-status: 1
-pattern: '[node:field_fecha_y_hora:date:custom:l], [node:field_fecha_y_hora:date:custom:F] [node:field_fecha_y_hora:date:custom:j] del [node:field_fecha_y_hora:date:custom:Y]'
-escape: false
-dependencies:
-  config:
-    - node.type.coleccion
