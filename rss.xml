@@ -118,7 +118,7 @@
 &lt;span&gt;Mon, 31/01/2022 - 16:53&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-e6b98c2bbe61804e9fd303e228e76934f55f0f6083cabfc4757daef4dd4af0a7"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-41d9644edda58311976e7a82aaa9f44a61ffd5977c4ae592c73c6e2e56015b4e"&gt;
   
     
       
@@ -182,7 +182,8 @@
                                                                                         &lt;td headers="view-field-actividad-table-column--2" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/paul-baloche/abre-mis-ojos" hreflang="es"&gt;Abre mis ojos&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-encargado-table-column--2" class="views-field views-field-field-encargado"&gt;Darling          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-1-table-column--2" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/26" hreflang="es"&gt;E&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--2" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--2" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/12bu4bji2ALO4-NfoLUqFp9QbDb1vvSyU/view?usp=sharing"&gt;Original&lt;/a&gt;
+          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td headers="view-field-actividad-table-column--2" class="views-field views-field-field-actividad"&gt;Adoración          &lt;/td&gt;
@@ -262,7 +263,7 @@
 &lt;span&gt;Mon, 24/01/2022 - 16:03&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-e36fc7b962124a87a801fe404a00eed211c73a2666d0f188d2ac2f3bb9e34e22"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-1707a30bf17d8c3ca2ed9929d382d4b065a09b8fe3dc2815925c19cf8a57bca7"&gt;
   
     
       
