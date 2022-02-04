@@ -159,9 +159,7 @@
         }
     ],
     "field_guitarra_acustica": [],
-    "field_guitarra_electrica": [
-        []
-    ],
+    "field_guitarra_electrica": [],
     "field_piano_1": [
         {
             "target_type": "user",

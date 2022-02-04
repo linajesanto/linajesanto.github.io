@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "bf1e9aac-43ac-4fa9-9ad7-05aa1c47601b"
+            "value": "cb314ae8-6065-4262-975e-82f064256c44"
         }
     ],
     "langcode": [
@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2020-02-28T03:09:44+00:00",
+            "value": "2022-02-04T23:07:16+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,18 +42,18 @@
     ],
     "title": [
         {
-            "value": "Te doy gloria"
+            "value": "Medley Proezas"
         }
     ],
     "created": [
         {
-            "value": "2019-12-30T04:20:40+00:00",
+            "value": "2022-02-04T23:06:44+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2020-02-28T03:09:44+00:00",
+            "value": "2022-02-04T23:07:16+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/canciones\/marco-barrientos\/te-doy-gloria",
+            "alias": "\/canciones\/miel-san-marcos\/medley-proezas",
             "langcode": "es",
             "pathauto": 1
         }
@@ -87,19 +87,13 @@
     "field_artista": [
         {
             "target_type": "taxonomy_term",
-            "target_uuid": "875a318a-78da-4faf-852d-c4f904121db3"
+            "target_uuid": "46cd937f-3b87-4cff-8593-268247b1e784"
         }
     ],
     "field_bpm": [],
     "field_descripcion": [],
     "field_letra": [],
-    "field_secuencia": [
-        {
-            "uri": "https:\/\/drive.google.com\/open?id=1gBMxNsVwGb2yT2W_S9ZkiPCtZzu7hBSl",
-            "title": "",
-            "options": []
-        }
-    ],
+    "field_secuencia": [],
     "field_tags": [],
     "field_tipo": [
         {
@@ -114,7 +108,7 @@
     "field_tono": [],
     "field_video": [
         {
-            "value": "https:\/\/www.youtube.com\/watch?v=7bB-JgRyu1o"
+            "value": "https:\/\/www.youtube.com\/watch?v=LjffPO71TJs"
         }
     ]
 }

@@ -68,8 +68,7 @@
     ],
     "path": [
         {
-            "alias": null,
-            "pid": null,
+            "alias": "\/propuestas",
             "langcode": "es",
             "pathauto": 0
         }

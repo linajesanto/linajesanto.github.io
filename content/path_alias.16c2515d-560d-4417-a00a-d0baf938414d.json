@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "16c2515d-560d-4417-a00a-d0baf938414d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/86"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/propuestas"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
