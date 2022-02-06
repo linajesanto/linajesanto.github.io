@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "6993af34-7a78-412a-9d40-e3f3715ca2d3"
+            "value": "a77c80fa-f4d9-49e8-b7b1-44c1f1e6e25d"
         }
     ],
     "langcode": [
@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-02-06T17:31:04+00:00",
+            "value": "2022-02-06T17:13:44+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,24 +42,24 @@
     ],
     "title": [
         {
-            "value": "Saturday, February 12 del 2022"
+            "value": "Sunday, February 13 del 2022"
         }
     ],
     "created": [
         {
-            "value": "2022-02-03T21:08:43+00:00",
+            "value": "2022-02-06T17:00:50+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2022-02-06T17:31:04+00:00",
+            "value": "2022-02-06T17:13:44+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "promote": [
         {
-            "value": false
+            "value": true
         }
     ],
     "sticky": [
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/coleccion\/saturday-february-12-del-2022",
+            "alias": "\/coleccion\/sunday-february-13-del-2022",
             "langcode": "es",
             "pathauto": 1
         }
@@ -87,39 +87,27 @@
     "field_actividades": [
         {
             "target_type": "paragraph",
-            "target_uuid": "7fe8f04a-ae8b-4645-87f4-076e8e633d85"
+            "target_uuid": "f9bfeffb-f3cd-4b91-b140-0e73f9bfd34e"
         },
         {
             "target_type": "paragraph",
-            "target_uuid": "4c354845-1ec4-4fbc-9d26-442e1f73980b"
+            "target_uuid": "69ee3edd-98f7-4466-bdbb-8d7d855e1f51"
         },
         {
             "target_type": "paragraph",
-            "target_uuid": "b27af1bd-a399-4294-be0f-cba88b2ae45c"
+            "target_uuid": "29736b5d-0ea1-401a-bdee-cec70040dde7"
         },
         {
             "target_type": "paragraph",
-            "target_uuid": "f8e594b1-0598-49f4-ad52-56f58a85bfe4"
+            "target_uuid": "2da20790-3f2c-49c1-b456-753cd35ab991"
         },
         {
             "target_type": "paragraph",
-            "target_uuid": "320bb08c-1d1d-4531-8feb-2e56a4626a8f"
+            "target_uuid": "80a28595-99c7-4278-b6b8-9b4d4773554b"
         },
         {
             "target_type": "paragraph",
-            "target_uuid": "52111442-05d6-4e9c-b285-a8df600feba8"
-        },
-        {
-            "target_type": "paragraph",
-            "target_uuid": "b780a010-9a62-43c7-ac08-aa3d223dad88"
-        },
-        {
-            "target_type": "paragraph",
-            "target_uuid": "ddf5e3c0-6537-4de8-862d-9df714ab5bce"
-        },
-        {
-            "target_type": "paragraph",
-            "target_uuid": "a5f91733-8aa6-43de-86c1-8f73cc6e827a"
+            "target_uuid": "c4efc167-dcca-46af-8e84-cbf4e52ce834"
         }
     ],
     "field_bajo": [
@@ -131,19 +119,13 @@
     "field_bateria": [
         {
             "target_type": "user",
-            "target_uuid": "a28886a2-d4ef-47d9-ac87-602306442cc3"
+            "target_uuid": "a846337d-0457-4ba5-b1c3-71589f4c6846"
         }
     ],
-    "field_descripcion": [
-        {
-            "value": "<p>Culto Unido de J\u00f3venes!<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>Programa 12 de Febrero 2022<br \/>\r\nOraci\u00f3n de inicio<br \/>\r\n-2 alabanzas<br \/>\r\nLectura B\u00edblica: Claudia Torres<br \/>\r\n-1 alabanza<br \/>\r\nBienvenida a las Iglesias&nbsp;<br \/>\r\n-Iglesia Enmanuel: Luz y Vida<br \/>\r\n-Iglesia Una Zarza Ardiendo<br \/>\r\n-Iglesia Luz del Mundo&nbsp;<br \/>\r\n-Iglesia Jeric\u00f3&nbsp;<br \/>\r\n-Iglesia Roca Eterna<br \/>\r\n-Iglesia Casa de Paz<br \/>\r\n-Iglesia Arca de No\u00e9&nbsp;<br \/>\r\n-Iglesia Comunidad Cristiana-Telica<br \/>\r\n-Iglesia Comunidad Cristiana-Leon<br \/>\r\nEspeciales<br \/>\r\n-1er especial: Coreograf\u00eda (ICC-Leon)<br \/>\r\n-2do especial: Alabanza (Roca Eterna)<br \/>\r\n-3er especial: Drama (ICC-Telica)&nbsp;<br \/>\r\n-Oraci\u00f3n por las ofrendas (Chelsea Parajon)<br \/>\r\n-Alabanza para recoger ofrendas.<br \/>\r\n-2 alabanzas de adoraci\u00f3n (suaves)&nbsp;<br \/>\r\nSerm\u00f3n.<\/p>\r\n",
-            "format": "basic_html",
-            "summary": ""
-        }
-    ],
+    "field_descripcion": [],
     "field_fecha_y_hora": [
         {
-            "value": "2022-02-12T06:00:00-06:00"
+            "value": "2022-02-13T09:00:00-06:00"
         }
     ],
     "field_guitarra_acustica": [],
@@ -163,15 +145,15 @@
     "field_voces": [
         {
             "target_type": "user",
-            "target_uuid": "ea0909ff-136d-4cf8-8392-9a28ffb2ceb2"
+            "target_uuid": "0f5dfe20-fa66-4598-89b1-2d2be44e05b8"
+        },
+        {
+            "target_type": "user",
+            "target_uuid": "2b3a8a6e-8b1e-4771-9103-860e6fde10dd"
         },
         {
             "target_type": "user",
             "target_uuid": "6a85fb9a-da67-4f0f-8ee9-8308af1bbc3f"
-        },
-        {
-            "target_type": "user",
-            "target_uuid": "0f5dfe20-fa66-4598-89b1-2d2be44e05b8"
         }
     ]
 }
