@@ -17,7 +17,7 @@
 &lt;span&gt;Sun, 06/02/2022 - 11:00&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-de581b49c8c6fba667e952cd2b5bfe21e103609234916c41e53796e484dd4a88"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-04fdfc6eea767763553b415be71eb02a2814faf5ca6da749e937f4f89ffbf428"&gt;
   
     
       
@@ -25,52 +25,52 @@
       &lt;table class="views-table cols-4"&gt;
         &lt;thead&gt;
       &lt;tr&gt;
-                                                  &lt;th id="view-field-actividad-table-column--2" class="views-field views-field-field-actividad" scope="col"&gt;Actividad&lt;/th&gt;
-                                                  &lt;th id="view-field-encargado-table-column--2" class="views-field views-field-field-encargado" scope="col"&gt;Encargado&lt;/th&gt;
-                                                  &lt;th id="view-field-tono-1-table-column--2" class="views-field views-field-field-tono-1" scope="col"&gt;Tono&lt;/th&gt;
-                                                  &lt;th id="view-field-secuencia-table-column--2" class="views-field views-field-field-secuencia" scope="col"&gt;Secuencia&lt;/th&gt;
+                                                  &lt;th id="view-field-actividad-table-column--3" class="views-field views-field-field-actividad" scope="col"&gt;Actividad&lt;/th&gt;
+                                                  &lt;th id="view-field-encargado-table-column--3" class="views-field views-field-field-encargado" scope="col"&gt;Encargado&lt;/th&gt;
+                                                  &lt;th id="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1" scope="col"&gt;Tono&lt;/th&gt;
+                                                  &lt;th id="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia" scope="col"&gt;Secuencia&lt;/th&gt;
               &lt;/tr&gt;
     &lt;/thead&gt;
     &lt;tbody&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--2" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/marco-barrientos/la-cosecha" hreflang="es"&gt;La cosecha&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--2" class="views-field views-field-field-encargado"&gt;Felipe          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--2" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/73" hreflang="es"&gt;Am&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--2" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/marco-barrientos/la-cosecha" hreflang="es"&gt;La cosecha&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Felipe          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/73" hreflang="es"&gt;Am&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--2" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/daniela-barrientos/rey-de-reyes" hreflang="es"&gt;Rey de Reyes&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--2" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--2" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/23" hreflang="es"&gt;D&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--2" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1XBFF_u4-Fn-vp_au4w2WtHqcEDGKFIrb/view?usp=sharing"&gt;Original&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/daniela-barrientos/rey-de-reyes" hreflang="es"&gt;Rey de Reyes&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/23" hreflang="es"&gt;D&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1XBFF_u4-Fn-vp_au4w2WtHqcEDGKFIrb/view?usp=sharing"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--2" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/miel-san-marcos/danzo-en-el-rio" hreflang="es"&gt;Danzo en el rio&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--2" class="views-field views-field-field-encargado"&gt;Felipe          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--2" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/23" hreflang="es"&gt;D&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--2" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1wlTtPV84J6RkSYyWpTXNqfrwLdS2lqAP/view?usp=sharing"&gt;Original&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/miel-san-marcos/danzo-en-el-rio" hreflang="es"&gt;Danzo en el rio&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Felipe          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/23" hreflang="es"&gt;D&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1wlTtPV84J6RkSYyWpTXNqfrwLdS2lqAP/view?usp=sharing"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--2" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/planetshakers/por-siempre-te-alabare" hreflang="es"&gt;Por siempre te alabaré&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--2" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--2" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/60" hreflang="es"&gt;C#m&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--2" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/open?id=1HpdX8sjSy0CaTXhgYtPsAAATJByVkkWs"&gt;Original&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/planetshakers/por-siempre-te-alabare" hreflang="es"&gt;Por siempre te alabaré&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/60" hreflang="es"&gt;C#m&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/open?id=1HpdX8sjSy0CaTXhgYtPsAAATJByVkkWs"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--2" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/danny-berrios/el-rey-te-mando-llamar" hreflang="es"&gt;El rey te mandó a llamar&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--2" class="views-field views-field-field-encargado"&gt;Felipe          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--2" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--2" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/open?id=1EleCnyrNaSRssNczg3UeIFsrL7o--LRI"&gt;Original&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/danny-berrios/el-rey-te-mando-llamar" hreflang="es"&gt;El rey te mandó a llamar&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Felipe          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/open?id=1EleCnyrNaSRssNczg3UeIFsrL7o--LRI"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--2" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/christine-dclario/gloria-en-lo-alto" hreflang="es"&gt;Gloria en lo alto&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--2" class="views-field views-field-field-encargado"&gt;Darling          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--2" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/44" hreflang="es"&gt;D#&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--2" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1cwMLF5v9t7ewYVaJPyuUa_EOquORwZXG/view?usp=sharing"&gt;Original&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/christine-dclario/gloria-en-lo-alto" hreflang="es"&gt;Gloria en lo alto&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Darling          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/44" hreflang="es"&gt;D#&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1cwMLF5v9t7ewYVaJPyuUa_EOquORwZXG/view?usp=sharing"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
       &lt;/tbody&gt;
@@ -219,6 +219,165 @@
     <guid isPermaLink="false">157 at https://linajesanto.github.io</guid>
     </item>
 <item>
+  <title>Saturday, February 12 del 2022</title>
+  <link>https://linajesanto.github.io/coleccion/saturday-february-12-del-2022</link>
+  <description>
+&lt;span&gt;Saturday, February 12 del 2022&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Edys&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;Thu, 03/02/2022 - 15:08&lt;/span&gt;
+
+      &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-3900502962ae6f6e8c0c225621d083005da95d6177e6f6070e5ebae8feab7050"&gt;
+  
+    
+      
+      &lt;div class="view-content"&gt;
+      &lt;table class="views-table cols-4"&gt;
+        &lt;thead&gt;
+      &lt;tr&gt;
+                                                  &lt;th id="view-field-actividad-table-column--4" class="views-field views-field-field-actividad" scope="col"&gt;Actividad&lt;/th&gt;
+                                                  &lt;th id="view-field-encargado-table-column--4" class="views-field views-field-field-encargado" scope="col"&gt;Encargado&lt;/th&gt;
+                                                  &lt;th id="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1" scope="col"&gt;Tono&lt;/th&gt;
+                                                  &lt;th id="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia" scope="col"&gt;Secuencia&lt;/th&gt;
+              &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+          &lt;tr&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/darlene-zschech/en-el-nombre-de-jesus" hreflang="es"&gt;En el nombre de Jesus&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/23" hreflang="es"&gt;D&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1qYGMInSBpCtKiHMVy5IG4BeNQv2tqZRi/view?usp=sharing"&gt;Original&lt;/a&gt;
+          &lt;/td&gt;
+              &lt;/tr&gt;
+          &lt;tr&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/phil-wickham/gracia-sublime" hreflang="es"&gt;Gracia sublime&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;Jordan          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/42" hreflang="es"&gt;A#&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1lb4YfK4OB1F6r05PBPyE18a7UCZKQpiV/view?usp=sharing"&gt;Original&lt;/a&gt;
+          &lt;/td&gt;
+              &lt;/tr&gt;
+          &lt;tr&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;Lectura bíblica          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+              &lt;/tr&gt;
+          &lt;tr&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/planetshakers/por-siempre-te-alabare" hreflang="es"&gt;Por siempre te alabaré&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/60" hreflang="es"&gt;C#m&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/open?id=1HpdX8sjSy0CaTXhgYtPsAAATJByVkkWs"&gt;Original&lt;/a&gt;
+          &lt;/td&gt;
+              &lt;/tr&gt;
+          &lt;tr&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;Bienvenida          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+              &lt;/tr&gt;
+          &lt;tr&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;Oración por las ofrendas          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+              &lt;/tr&gt;
+          &lt;tr&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/miel-san-marcos/medley-proezas" hreflang="es"&gt;Medley Proezas&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;Jordan          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+              &lt;/tr&gt;
+          &lt;tr&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/hillsong-worship/hosanna" hreflang="es"&gt;Hosanna&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/26" hreflang="es"&gt;E&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1TjnqzsHeyaNjTs5rTYBkL9T74kcCUHnn/view?usp=sharing"&gt;Original&lt;/a&gt;
+          &lt;/td&gt;
+              &lt;/tr&gt;
+          &lt;tr&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/julio-melgar/ya-no-soy-esclavo-del-temor" hreflang="es"&gt;Ya no soy esclavo del temor&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;Jordan          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/42" hreflang="es"&gt;A#&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1ZoZAW1p77qkCt91Yhamt-s5506FiFE4T/view?usp=sharing"&gt;Original&lt;/a&gt;
+          &lt;/td&gt;
+              &lt;/tr&gt;
+      &lt;/tbody&gt;
+&lt;/table&gt;
+
+    &lt;/div&gt;
+  
+      
+          &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  
+            &lt;div class="text-content field field--name-field-descripcion field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Culto Unido de Jóvenes!&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Programa 12 de Febrero 2022&lt;br /&gt;
+Oración de inicio&lt;br /&gt;
+-2 alabanzas&lt;br /&gt;
+Lectura Bíblica: Claudia Torres&lt;br /&gt;
+-1 alabanza&lt;br /&gt;
+Bienvenida a las Iglesias &lt;br /&gt;
+-Iglesia Enmanuel: Luz y Vida&lt;br /&gt;
+-Iglesia Una Zarza Ardiendo&lt;br /&gt;
+-Iglesia Luz del Mundo &lt;br /&gt;
+-Iglesia Jericó &lt;br /&gt;
+-Iglesia Roca Eterna&lt;br /&gt;
+-Iglesia Casa de Paz&lt;br /&gt;
+-Iglesia Arca de Noé &lt;br /&gt;
+-Iglesia Comunidad Cristiana-Telica&lt;br /&gt;
+-Iglesia Comunidad Cristiana-Leon&lt;br /&gt;
+Especiales&lt;br /&gt;
+-1er especial: Coreografía (ICC-Leon)&lt;br /&gt;
+-2do especial: Alabanza (Roca Eterna)&lt;br /&gt;
+-3er especial: Drama (ICC-Telica) &lt;br /&gt;
+-Oración por las ofrendas (Chelsea Parajon)&lt;br /&gt;
+-Alabanza para recoger ofrendas.&lt;br /&gt;
+-2 alabanzas de adoración (suaves) &lt;br /&gt;
+Sermón.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-voces field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Voces&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;Jordan&lt;/div&gt;
+          &lt;div class="field__item"&gt;Paola&lt;/div&gt;
+          &lt;div class="field__item"&gt;Darling&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-bateria field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Batería&lt;/div&gt;
+              &lt;div class="field__item"&gt;Israel&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-bajo field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Bajo&lt;/div&gt;
+              &lt;div class="field__item"&gt;Secuencia&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-piano-1 field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Piano 1&lt;/div&gt;
+              &lt;div class="field__item"&gt;Luis&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-guitarra-electrica field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Guitarra eléctrica&lt;/div&gt;
+              &lt;div class="field__item"&gt;Edys&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 03 Feb 2022 21:08:43 +0000</pubDate>
+    <dc:creator>Edys</dc:creator>
+    <guid isPermaLink="false">156 at https://linajesanto.github.io</guid>
+    </item>
+<item>
   <title>Sunday, February 6 del 2022</title>
   <link>https://linajesanto.github.io/coleccion/sunday-february-6-del-2022</link>
   <description>
@@ -229,7 +388,7 @@
 &lt;span&gt;Mon, 31/01/2022 - 16:53&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-1045f0ae7934c54264983db17bb9a5420052349b0f1d0d18c1f45329bee59bbe"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-c09ed4c84948d12382b7d13a9a9eb52fd60534a6891c64865fb5d282b8e0ccba"&gt;
   
     
       
@@ -237,83 +396,83 @@
       &lt;table class="views-table cols-4"&gt;
         &lt;thead&gt;
       &lt;tr&gt;
-                                                  &lt;th id="view-field-actividad-table-column--3" class="views-field views-field-field-actividad" scope="col"&gt;Actividad&lt;/th&gt;
-                                                  &lt;th id="view-field-encargado-table-column--3" class="views-field views-field-field-encargado" scope="col"&gt;Encargado&lt;/th&gt;
-                                                  &lt;th id="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1" scope="col"&gt;Tono&lt;/th&gt;
-                                                  &lt;th id="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia" scope="col"&gt;Secuencia&lt;/th&gt;
+                                                  &lt;th id="view-field-actividad-table-column--5" class="views-field views-field-field-actividad" scope="col"&gt;Actividad&lt;/th&gt;
+                                                  &lt;th id="view-field-encargado-table-column--5" class="views-field views-field-field-encargado" scope="col"&gt;Encargado&lt;/th&gt;
+                                                  &lt;th id="view-field-tono-1-table-column--5" class="views-field views-field-field-tono-1" scope="col"&gt;Tono&lt;/th&gt;
+                                                  &lt;th id="view-field-secuencia-table-column--5" class="views-field views-field-field-secuencia" scope="col"&gt;Secuencia&lt;/th&gt;
               &lt;/tr&gt;
     &lt;/thead&gt;
     &lt;tbody&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;Bienvenida          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--5" class="views-field views-field-field-actividad"&gt;Bienvenida          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--5" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--5" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--5" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/darlene-zschech/en-el-nombre-de-jesus" hreflang="es"&gt;En el nombre de Jesus&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/23" hreflang="es"&gt;D&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1qYGMInSBpCtKiHMVy5IG4BeNQv2tqZRi/view?usp=sharing"&gt;Original&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--5" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/darlene-zschech/en-el-nombre-de-jesus" hreflang="es"&gt;En el nombre de Jesus&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--5" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--5" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/23" hreflang="es"&gt;D&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--5" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1qYGMInSBpCtKiHMVy5IG4BeNQv2tqZRi/view?usp=sharing"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;Saludo          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Felipe          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--5" class="views-field views-field-field-actividad"&gt;Saludo          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--5" class="views-field views-field-field-encargado"&gt;Felipe          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--5" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--5" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/marco-barrientos/de-gloria-en-gloria" hreflang="es"&gt;De gloria en gloria&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Felipe          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/42" hreflang="es"&gt;A#&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1DBoGUq5BGTwRPh9W2vWOYtvhQumxwm8X/view?usp=sharing"&gt;Original&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--5" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/marco-barrientos/de-gloria-en-gloria" hreflang="es"&gt;De gloria en gloria&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--5" class="views-field views-field-field-encargado"&gt;Felipe          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--5" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/42" hreflang="es"&gt;A#&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--5" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1DBoGUq5BGTwRPh9W2vWOYtvhQumxwm8X/view?usp=sharing"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;Lectura bíblica          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Darling          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--5" class="views-field views-field-field-actividad"&gt;Lectura bíblica          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--5" class="views-field views-field-field-encargado"&gt;Darling          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--5" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--5" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/art-aguilera/hay-libertad" hreflang="es"&gt;Hay libertad&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Felipe          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/62" hreflang="es"&gt;Dm&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1JKUSfLyD5iyFle4Jf2sr_yJNIQyMNWIv/view?usp=sharing"&gt;Original&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--5" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/art-aguilera/hay-libertad" hreflang="es"&gt;Hay libertad&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--5" class="views-field views-field-field-encargado"&gt;Felipe          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--5" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/62" hreflang="es"&gt;Dm&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--5" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1JKUSfLyD5iyFle4Jf2sr_yJNIQyMNWIv/view?usp=sharing"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;Oración por las ofrendas          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Darling          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--5" class="views-field views-field-field-actividad"&gt;Oración por las ofrendas          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--5" class="views-field views-field-field-encargado"&gt;Darling          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--5" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--5" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/paul-baloche/abre-mis-ojos" hreflang="es"&gt;Abre mis ojos&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Darling          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/26" hreflang="es"&gt;E&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/12bu4bji2ALO4-NfoLUqFp9QbDb1vvSyU/view?usp=sharing"&gt;Original&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--5" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/paul-baloche/abre-mis-ojos" hreflang="es"&gt;Abre mis ojos&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--5" class="views-field views-field-field-encargado"&gt;Darling          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--5" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/26" hreflang="es"&gt;E&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--5" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/12bu4bji2ALO4-NfoLUqFp9QbDb1vvSyU/view?usp=sharing"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;Adoración          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--5" class="views-field views-field-field-actividad"&gt;Adoración          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--5" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--5" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--5" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/natalie-billini/quien-como-el" hreflang="es"&gt;Quién como Él&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/47" hreflang="es"&gt;G&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1j6h5Cup-jbNNIIcwjf-kNJJHTn1X9osA/view?usp=sharing"&gt;Original&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--5" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/natalie-billini/quien-como-el" hreflang="es"&gt;Quién como Él&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--5" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--5" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/47" hreflang="es"&gt;G&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--5" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1j6h5Cup-jbNNIIcwjf-kNJJHTn1X9osA/view?usp=sharing"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--3" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/ingrid-rosario/canta-al-senor" hreflang="es"&gt;Canta al Señor&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--3" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--3" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/21" hreflang="es"&gt;A&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--3" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/12jGT0TmdH84f6GhZpX78Wj3Lw3B-HW5m/view?usp=sharing"&gt;Original&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--5" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/ingrid-rosario/canta-al-senor" hreflang="es"&gt;Canta al Señor&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--5" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--5" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/21" hreflang="es"&gt;A&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--5" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/12jGT0TmdH84f6GhZpX78Wj3Lw3B-HW5m/view?usp=sharing"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
       &lt;/tbody&gt;
@@ -374,7 +533,7 @@
 &lt;span&gt;Mon, 24/01/2022 - 16:03&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-bd7e9e13b780c8e0944023dfea798060e1bd6b65f8f6c5d881f292d0153e3e36"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-12865b00abeb846515cc2fa33b07e9de02bac1a7e55e42b1ec09ddfc6b4df614"&gt;
   
     
       
@@ -382,89 +541,89 @@
       &lt;table class="views-table cols-4"&gt;
         &lt;thead&gt;
       &lt;tr&gt;
-                                                  &lt;th id="view-field-actividad-table-column--4" class="views-field views-field-field-actividad" scope="col"&gt;Actividad&lt;/th&gt;
-                                                  &lt;th id="view-field-encargado-table-column--4" class="views-field views-field-field-encargado" scope="col"&gt;Encargado&lt;/th&gt;
-                                                  &lt;th id="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1" scope="col"&gt;Tono&lt;/th&gt;
-                                                  &lt;th id="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia" scope="col"&gt;Secuencia&lt;/th&gt;
+                                                  &lt;th id="view-field-actividad-table-column--6" class="views-field views-field-field-actividad" scope="col"&gt;Actividad&lt;/th&gt;
+                                                  &lt;th id="view-field-encargado-table-column--6" class="views-field views-field-field-encargado" scope="col"&gt;Encargado&lt;/th&gt;
+                                                  &lt;th id="view-field-tono-1-table-column--6" class="views-field views-field-field-tono-1" scope="col"&gt;Tono&lt;/th&gt;
+                                                  &lt;th id="view-field-secuencia-table-column--6" class="views-field views-field-field-secuencia" scope="col"&gt;Secuencia&lt;/th&gt;
               &lt;/tr&gt;
     &lt;/thead&gt;
     &lt;tbody&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;Bienvenida          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--6" class="views-field views-field-field-actividad"&gt;Bienvenida          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--6" class="views-field views-field-field-encargado"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--6" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--6" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/rojo/no-me-soltaras" hreflang="es"&gt;No me soltarás&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;Darling          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/31" hreflang="es"&gt;B&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--6" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/rojo/no-me-soltaras" hreflang="es"&gt;No me soltarás&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--6" class="views-field views-field-field-encargado"&gt;Darling          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--6" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/31" hreflang="es"&gt;B&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--6" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;Saludo          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--6" class="views-field views-field-field-actividad"&gt;Saludo          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--6" class="views-field views-field-field-encargado"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--6" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--6" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/danilo-montero/te-alabare-mi-buen-jesus" hreflang="es"&gt;Te Alabaré Mi Buen Jesús&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;Ivette          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/39" hreflang="es"&gt;C&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt;  &lt;a href="https://drive.google.com/file/d/1ogyhUoQCF63vH9ROlT2Vauy1J3Ihv0-T/view?usp=sharing"&gt;C&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--6" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/danilo-montero/te-alabare-mi-buen-jesus" hreflang="es"&gt;Te Alabaré Mi Buen Jesús&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--6" class="views-field views-field-field-encargado"&gt;Ivette          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--6" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/39" hreflang="es"&gt;C&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--6" class="views-field views-field-field-secuencia"&gt;  &lt;a href="https://drive.google.com/file/d/1ogyhUoQCF63vH9ROlT2Vauy1J3Ihv0-T/view?usp=sharing"&gt;C&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/danilo-montero/bueno-es-alabarte-senor" hreflang="es"&gt;Bueno es alabarte señor&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;Ivette          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/44" hreflang="es"&gt;D#&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt;  &lt;a href="https://drive.google.com/file/d/19PO0r4p80xJMQhrJ9it9-XktQ9LeDUgG/view?usp=sharing"&gt;Original&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--6" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/danilo-montero/bueno-es-alabarte-senor" hreflang="es"&gt;Bueno es alabarte señor&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--6" class="views-field views-field-field-encargado"&gt;Ivette          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--6" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/44" hreflang="es"&gt;D#&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--6" class="views-field views-field-field-secuencia"&gt;  &lt;a href="https://drive.google.com/file/d/19PO0r4p80xJMQhrJ9it9-XktQ9LeDUgG/view?usp=sharing"&gt;Original&lt;/a&gt;
 ,   &lt;a href="https://drive.google.com/file/d/1A-dbgDWW0fVOA4vHRdggU0RSU0G5SNER/view?usp=sharing"&gt;D#&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;Lectura bíblica          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--6" class="views-field views-field-field-actividad"&gt;Lectura bíblica          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--6" class="views-field views-field-field-encargado"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--6" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--6" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/en-espiritu-y-en-verdad/somos-libres" hreflang="es"&gt;Somos libres&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;Aaron          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/42" hreflang="es"&gt;A#&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--6" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/en-espiritu-y-en-verdad/somos-libres" hreflang="es"&gt;Somos libres&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--6" class="views-field views-field-field-encargado"&gt;Aaron          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--6" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/42" hreflang="es"&gt;A#&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--6" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;Oración por las ofrendas          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--6" class="views-field views-field-field-actividad"&gt;Oración por las ofrendas          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--6" class="views-field views-field-field-encargado"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--6" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--6" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/miel-san-marcos/bienvenido-espiritu-santo" hreflang="es"&gt;Bienvenido espíritu santo&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;Aaron          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/39" hreflang="es"&gt;C&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/10gBUXTdV48A6MZI7QC4pQzouHGLSxsOc/view?usp=sharing"&gt;Original&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--6" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/miel-san-marcos/bienvenido-espiritu-santo" hreflang="es"&gt;Bienvenido espíritu santo&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--6" class="views-field views-field-field-encargado"&gt;Aaron          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--6" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/39" hreflang="es"&gt;C&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--6" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/10gBUXTdV48A6MZI7QC4pQzouHGLSxsOc/view?usp=sharing"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;Adoración          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--6" class="views-field views-field-field-actividad"&gt;Adoración          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--6" class="views-field views-field-field-encargado"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--6" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--6" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/julio-melgar/ya-no-soy-esclavo-del-temor" hreflang="es"&gt;Ya no soy esclavo del temor&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;Aaron          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/42" hreflang="es"&gt;A#&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1ZoZAW1p77qkCt91Yhamt-s5506FiFE4T/view?usp=sharing"&gt;Original&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--6" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/julio-melgar/ya-no-soy-esclavo-del-temor" hreflang="es"&gt;Ya no soy esclavo del temor&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--6" class="views-field views-field-field-encargado"&gt;Aaron          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--6" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/42" hreflang="es"&gt;A#&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--6" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1ZoZAW1p77qkCt91Yhamt-s5506FiFE4T/view?usp=sharing"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
-                                                                                        &lt;td headers="view-field-actividad-table-column--4" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/marco-barrientos-feat-yvonne-munoz-y-marcos-brunet/digno" hreflang="es"&gt;Digno&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column--4" class="views-field views-field-field-encargado"&gt;Darling, Aaron          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column--4" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/26" hreflang="es"&gt;E&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column--4" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/open?id=1PgMsMjmS7Gl-H8rZmghut5EicbIGNFH4"&gt;Original&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-actividad-table-column--6" class="views-field views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/marco-barrientos-feat-yvonne-munoz-y-marcos-brunet/digno" hreflang="es"&gt;Digno&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column--6" class="views-field views-field-field-encargado"&gt;Darling, Aaron          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column--6" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/26" hreflang="es"&gt;E&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column--6" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/open?id=1PgMsMjmS7Gl-H8rZmghut5EicbIGNFH4"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
       &lt;/tbody&gt;
@@ -1178,195 +1337,6 @@ Grande es&lt;/p&gt;&lt;/div&gt;
   <pubDate>Sun, 19 Dec 2021 22:12:52 +0000</pubDate>
     <dc:creator>Anonymous</dc:creator>
     <guid isPermaLink="false">128 at https://linajesanto.github.io</guid>
-    </item>
-<item>
-  <title>Vaso frágil</title>
-  <link>https://linajesanto.github.io/canciones/yuri/vaso-fragil</link>
-  <description>
-&lt;span&gt;Vaso frágil&lt;/span&gt;
-
-&lt;span&gt;&lt;span&gt;Anonymous (not verified)&lt;/span&gt;&lt;/span&gt;
-
-&lt;span&gt;Wed, 15/12/2021 - 20:07&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--50-50"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        
-
-&lt;div class="block block-layout-builder block-field-blocknodecancionfield-tono"&gt;
-  
-    
-      &lt;div class="block__content"&gt;
-      
-  &lt;div class="field field--name-field-tono field--type-entity-reference field--label-inline clearfix"&gt;
-    &lt;div class="field__label"&gt;Tono original&lt;/div&gt;
-              &lt;div class="field__item"&gt;C#&lt;/div&gt;
-          &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-
-&lt;div class="block block-layout-builder block-field-blocknodecancionfield-artista"&gt;
-  
-    
-      &lt;div class="block__content"&gt;
-      
-  &lt;div class="field field--name-field-artista field--type-entity-reference field--label-inline clearfix"&gt;
-    &lt;div class="field__label"&gt;Artista&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/98" hreflang="es"&gt;Yuri&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      
-
-&lt;div class="block block-layout-builder block-field-blocknodecancionfield-video"&gt;
-  
-    
-      &lt;div class="block__content"&gt;
-      
-            &lt;div class="field field--name-field-video field--type-video-embed-field field--label-hidden field__item"&gt;&lt;div class="video-embed-field-provider-youtube video-embed-field-responsive-video"&gt;&lt;iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/6lAUOQL2YWk?autoplay=0&amp;start=0&amp;rel=0"&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--50-50"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        
-
-&lt;div class="block block-layout-builder block-field-blocknodecancionfield-tipo-de-voz"&gt;
-  
-    
-      &lt;div class="block__content"&gt;
-      
-  &lt;div class="field field--name-field-tipo-de-voz field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Tipo de voz&lt;/div&gt;
-              &lt;div class="field__item"&gt;Ambas&lt;/div&gt;
-          &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-
-&lt;div class="block block-layout-builder block-field-blocknodecancionfield-tipo"&gt;
-  
-    
-      &lt;div class="block__content"&gt;
-      
-  &lt;div class="field field--name-field-tipo field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ritmo&lt;/div&gt;
-              &lt;div class="field__item"&gt;Lenta&lt;/div&gt;
-          &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      
-
-&lt;div class="block block-layout-builder block-field-blocknodecancionfield-letra"&gt;
-  
-    
-      &lt;div class="block__content"&gt;
-      
-  &lt;div class="text-content field field--name-field-letra field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Letra&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;p&gt;[V1]&lt;br /&gt;
-Hoy que estamos juntos, no es casualidad&lt;br /&gt;
-Fueron las plegarias, en mi soledad&lt;br /&gt;
-Fuero malabares, con un fuego interno&lt;br /&gt;
-Y esperar paciente me dieras un sí&lt;/p&gt;
-
-&lt;p&gt;[V2]&lt;br /&gt;
-Tú mi complemento, toda mi ilusión&lt;br /&gt;
-El latir más fuerte de mi corazón&lt;br /&gt;
-Hice el equilibrio en mi propio circo&lt;br /&gt;
-Para no soltarme de tu corazón&lt;/p&gt;
-
-&lt;p&gt;V3&lt;br /&gt;
-Hoy que estamos juntos, no es casualidad&lt;br /&gt;
-Fueron las plegarias, en mi soledad&lt;br /&gt;
-Hice el equilibrio en mi propio circo&lt;br /&gt;
-Para no soltarme de tu corazón&lt;/p&gt;
-
-&lt;p&gt;[PC]&lt;br /&gt;
-Vaso frágil necesito tus caricias y tus besos&lt;br /&gt;
-Son eternos los minutos, esperando tu regreso&lt;br /&gt;
-El Romeo queda corto comparado con mi vida&lt;br /&gt;
-De seguro, Julieta se entregaba como yo te doy mi vida&lt;/p&gt;
-
-&lt;p&gt;[C1]&lt;br /&gt;
-Vaso frágil hoy que estamos juntos&lt;br /&gt;
-Lucharé sin tregua a defender lo nuestro&lt;br /&gt;
-Quemaré mis barcos, no hay ningún regreso&lt;br /&gt;
-Y si emprendo vuelo, junto a mí te quiero&lt;/p&gt;
-
-&lt;p&gt;[C2]&lt;br /&gt;
-Tengo fuego nada me reservo&lt;br /&gt;
-Fundirá sortijas en un mismo acuerdo&lt;br /&gt;
-Seguiré tus pasos sentirás mi abrazo&lt;br /&gt;
-Si se nubla el cielo junto a mí te quiero&lt;/p&gt;
-
-&lt;p&gt;[C3]&lt;br /&gt;
-Vaso frágil hoy que estamos juntos&lt;br /&gt;
-Lucharé sin tregua a defender lo nuestro&lt;br /&gt;
-Tengo fuego nada me reservo&lt;br /&gt;
-Fundirá sortijas en un mismo acuerdo&lt;/p&gt;
-
-&lt;p&gt;[C4]&lt;br /&gt;
-Quemaré mis barcos, no hay ningún regreso&lt;br /&gt;
-Y si emprendo vuelo, junto a mí te quiero&lt;br /&gt;
-Seguiré tus pasos sentirás mi abrazo&lt;br /&gt;
-Si se nubla el cielo junto a mí te quiero&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-V1    C#&lt;br /&gt;
-V2    C#&lt;br /&gt;
-PC    C#&lt;br /&gt;
-C1    C#&lt;br /&gt;
-C2    E&lt;br /&gt;
-I    C#&lt;br /&gt;
-V3    E&lt;br /&gt;
-PC    C#&lt;br /&gt;
-C3    C# E&lt;br /&gt;
-C4    C# E&lt;br /&gt;
-O1    C# E&lt;br /&gt;
-O2    C#&lt;/p&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-</description>
-  <pubDate>Thu, 16 Dec 2021 02:07:41 +0000</pubDate>
-    <dc:creator>Anonymous</dc:creator>
-    <guid isPermaLink="false">127 at https://linajesanto.github.io</guid>
     </item>
 
   </channel>
