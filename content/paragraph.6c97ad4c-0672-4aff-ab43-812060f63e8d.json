@@ -37,12 +37,21 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
     "field_actividad": [
         {
             "target_type": "taxonomy_term",
             "target_uuid": "f43af24a-c60b-4327-a7a8-3c897f48fadb"
         }
     ],
-    "field_encargado": []
+    "field_encargado": [
+        {
+            "target_type": "user",
+            "target_uuid": "6a85fb9a-da67-4f0f-8ee9-8308af1bbc3f"
+        }
+    ]
 }
