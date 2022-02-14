@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-02-14T00:44:29+00:00",
+            "value": "2022-02-14T00:49:39+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-14T00:44:29+00:00",
+            "value": "2022-02-14T00:49:39+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -148,7 +148,7 @@
     ],
     "field_descripcion": [
         {
-            "value": "<p>Invitado especial:&nbsp;Ivanna Abigail<\/p>\r\n",
+            "value": "<p>Invitado especial:&nbsp;Ivanna Abigail<\/p>\r\n\r\n<p>La lista fue propuesta por Jordan sin derecho a rectificaci\u00f3n. Un \u00faltimo capricho en honor a su despedida \ud83d\ude25. Le vamos a extra\u00f1ar hermano.<\/p>\r\n",
             "format": "basic_html",
             "summary": ""
         }
