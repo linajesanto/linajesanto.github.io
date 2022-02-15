@@ -31,6 +31,69 @@ display:
     position: 0
     display_options:
       fields:
+        field_cancion:
+          id: field_cancion
+          table: paragraph__field_cancion
+          field: field_cancion
+          relationship: field_actividades
+          group_type: group
+          admin_label: ''
+          plugin_id: field
+          label: Canción
+          exclude: false
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: false
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: target_id
+          type: entity_reference_label
+          settings:
+            link: true
+          group_column: target_id
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
         field_artista:
           id: field_artista
           table: node__field_artista
@@ -40,7 +103,7 @@ display:
           admin_label: ''
           plugin_id: field
           label: Artista
-          exclude: true
+          exclude: false
           alter:
             alter_text: false
             text: ''
@@ -84,69 +147,6 @@ display:
           type: entity_reference_label
           settings:
             link: false
-          group_column: target_id
-          group_columns: {  }
-          group_rows: true
-          delta_limit: 0
-          delta_offset: 0
-          delta_reversed: false
-          delta_first_last: false
-          multi_type: separator
-          separator: ', '
-          field_api_classes: false
-        field_cancion:
-          id: field_cancion
-          table: paragraph__field_cancion
-          field: field_cancion
-          relationship: field_actividades
-          group_type: group
-          admin_label: ''
-          plugin_id: field
-          label: Actividad
-          exclude: true
-          alter:
-            alter_text: true
-            text: '{{ field_cancion }} | {{ field_artista }}'
-            make_link: false
-            path: ''
-            absolute: false
-            external: false
-            replace_spaces: false
-            path_case: none
-            trim_whitespace: false
-            alt: ''
-            rel: ''
-            link_class: ''
-            prefix: ''
-            suffix: ''
-            target: ''
-            nl2br: false
-            max_length: 0
-            word_boundary: true
-            ellipsis: true
-            more_link: false
-            more_link_text: ''
-            more_link_path: ''
-            strip_tags: false
-            trim: false
-            preserve_tags: ''
-            html: false
-          element_type: ''
-          element_class: ''
-          element_label_type: ''
-          element_label_class: ''
-          element_label_colon: false
-          element_wrapper_type: ''
-          element_wrapper_class: ''
-          element_default_classes: true
-          empty: ''
-          hide_empty: false
-          empty_zero: false
-          hide_alter_empty: true
-          click_sort_column: target_id
-          type: entity_reference_label
-          settings:
-            link: true
           group_column: target_id
           group_columns: {  }
           group_rows: true
@@ -202,7 +202,7 @@ display:
           element_wrapper_type: ''
           element_wrapper_class: ''
           element_default_classes: true
-          empty: '{{ field_cancion }}'
+          empty: ''
           hide_empty: false
           empty_zero: false
           hide_alter_empty: true
@@ -476,6 +476,70 @@ display:
           multi_type: separator
           separator: ', '
           field_api_classes: false
+        type:
+          id: type
+          table: paragraphs_item_field_data
+          field: type
+          relationship: field_actividades
+          group_type: group
+          admin_label: ''
+          entity_type: paragraph
+          entity_field: type
+          plugin_id: field
+          label: 'Paragraph type'
+          exclude: false
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: target_id
+          type: entity_reference_entity_id
+          settings: {  }
+          group_column: target_id
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
       pager:
         type: full
         options:
@@ -629,18 +693,27 @@ display:
         type: table
         options:
           grouping: {  }
-          row_class: ''
+          row_class: '{{ type }}'
           default_row_class: true
           columns:
-            field_cancion: field_cancion
+            field_cancion: field_actividad
+            field_artista: field_actividad
             field_actividad: field_actividad
             field_encargado: field_encargado
             field_tono: field_tono
             field_tono_1: field_tono_1
             field_secuencia: field_secuencia
+            type: type
           default: '-1'
           info:
             field_cancion:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            field_artista:
               sortable: false
               default_sort_order: asc
               align: ''
@@ -651,7 +724,7 @@ display:
               sortable: false
               default_sort_order: asc
               align: ''
-              separator: ''
+              separator: ' | '
               empty_column: false
               responsive: ''
             field_encargado:
@@ -674,6 +747,13 @@ display:
               empty_column: false
               responsive: ''
             field_secuencia:
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            type:
+              sortable: false
+              default_sort_order: asc
               align: ''
               separator: ''
               empty_column: false

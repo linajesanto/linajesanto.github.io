@@ -1,0 +1,5 @@
+path: 'public://css_editor/olivero.css'
+enabled: true
+css: ".cancion-item {\r\n  background-color: #f2f2ff;\r\n}"
+plaintext_enabled: false
+autopreview_enabled: false

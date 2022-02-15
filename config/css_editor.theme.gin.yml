@@ -1,0 +1,5 @@
+path: 'public://css_editor/gin.css'
+enabled: true
+css: ".paragraph-type--cancion-item {\r\n  background-color: #f2f2ff;\r\n}\r\n.paragraphs-tabs-wrapper tr.paragraph-type--cancion-item:hover {\r\n  background-color: #f2f2ff;\r\n}"
+plaintext_enabled: false
+autopreview_enabled: false

@@ -992,7 +992,6 @@
         "paragraph.d539af5b-d15e-44bb-94d1-bb20f50cc31f",
         "paragraph.f17dabb5-d823-4f35-a412-bf023c4766a3",
         "paragraph.eae82907-e78c-4743-ab75-5037c1d7b4e7",
-        "paragraph.61e33bcf-3cd8-4a5c-9dc5-9981cf12ca63",
         "user.0b9f8294-834a-485b-bca4-ec0372526760",
         "user.ea0909ff-136d-4cf8-8392-9a28ffb2ceb2",
         "user.a846337d-0457-4ba5-b1c3-71589f4c6846",
@@ -1805,13 +1804,15 @@
         "node.0a93bbd9-6348-482f-a26e-42415f2863ed",
         "user.ea0909ff-136d-4cf8-8392-9a28ffb2ceb2"
     ],
+    "paragraph.61e33bcf-3cd8-4a5c-9dc5-9981cf12ca63": [],
     "paragraph.971012ad-04dc-4652-943e-546eba1e7768": [
         "taxonomy_term.e50f9c8e-b04b-46d3-b2bc-76baaaf4b036",
         "user.a5d8b948-5fcb-472e-826c-5e3302057f85"
     ],
     "paragraph.a1bfc308-b50b-47ad-a2b4-521410fbb6cd": [
         "node.13607661-1118-4f43-b50a-e647b19c362a",
-        "user.a5d8b948-5fcb-472e-826c-5e3302057f85"
+        "user.a5d8b948-5fcb-472e-826c-5e3302057f85",
+        "taxonomy_term.8563580d-2168-4ac4-b3cb-58fa67821628"
     ],
     "paragraph.04f98d2d-fe9a-436a-b14a-844b6de9ea9c": [
         "taxonomy_term.9a73757c-820a-47ba-8c4d-9a36bcf64d16",
@@ -1848,6 +1849,5 @@
     "paragraph.eae82907-e78c-4743-ab75-5037c1d7b4e7": [
         "node.36a743bd-8f1d-44de-b644-3429426bdc25",
         "user.6a85fb9a-da67-4f0f-8ee9-8308af1bbc3f"
-    ],
-    "paragraph.61e33bcf-3cd8-4a5c-9dc5-9981cf12ca63": []
+    ]
 }

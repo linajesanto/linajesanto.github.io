@@ -22,3 +22,8 @@ accent_color: ''
 focus_color: ''
 icon_upload: ''
 show_user_theme_settings: true
+css_enabled: 1
+css: ".paragraph-type--cancion-item {\r\n  background-color: #f2f2ff;\r\n}\r\n.paragraphs-tabs-wrapper tr.paragraph-type--cancion-item:hover {\r\n  background-color: #f2f2ff;\r\n}"
+plaintext_enabled: 0
+autopreview_enabled: 0
+preview_path: ''
