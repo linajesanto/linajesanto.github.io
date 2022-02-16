@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2021-05-01T01:48:13+00:00",
+            "value": "2022-02-16T03:44:53+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -68,7 +68,8 @@
     ],
     "path": [
         {
-            "alias": "\/propuestas",
+            "alias": null,
+            "pid": null,
             "langcode": "es",
             "pathauto": 0
         }

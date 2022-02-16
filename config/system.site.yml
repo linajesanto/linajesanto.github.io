@@ -1,5 +1,8 @@
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
+langcode: es
 uuid: 58709d5c-c5a8-47c4-91ae-96558c28f32a
-name: Bloodline
+name: LinajeSanto
 mail: bloodlinenic@gmail.com
 slogan: 'Somos Linaje Santo'
 page:
@@ -8,8 +11,5 @@ page:
   front: /proximo-evento
 admin_compact_mode: false
 weight_select_max: 100
-langcode: es
 default_langcode: es
-_core:
-  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
 mail_notification: ''

@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "30123333-f756-439a-8d9d-818aa3be1bde"
+            "value": "2e19da6b-13a8-4670-b2dc-0ae3d6296cb5"
         }
     ],
     "langcode": [
@@ -9,66 +9,50 @@
             "value": "es"
         }
     ],
-    "bundle": [
+    "vid": [
         {
-            "value": "menu_link_content"
+            "target_id": "artista",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "2c188dfa-e938-4446-88c9-7cb4817b4fa1"
         }
     ],
     "revision_created": [
         {
-            "value": "2021-12-30T19:46:59+00:00",
+            "value": "2022-02-16T03:48:44+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_user": [],
     "revision_log_message": [],
-    "enabled": [
+    "status": [
         {
             "value": true
         }
     ],
-    "title": [
+    "name": [
         {
-            "value": "Canciones"
+            "value": "Brandon Lake"
         }
     ],
-    "description": [],
-    "menu_name": [
+    "description": [
         {
-            "value": "main"
-        }
-    ],
-    "link": [
-        {
-            "uri": "internal:\/canciones",
-            "title": "",
-            "options": []
-        }
-    ],
-    "external": [
-        {
-            "value": false
-        }
-    ],
-    "rediscover": [
-        {
-            "value": true
+            "value": null,
+            "format": null
         }
     ],
     "weight": [
         {
-            "value": -50
+            "value": 0
         }
     ],
-    "expanded": [
+    "parent": [
         {
-            "value": false
+            "target_id": null
         }
     ],
-    "parent": [],
     "changed": [
         {
-            "value": "2021-12-30T19:47:11+00:00",
+            "value": "2022-02-16T03:48:44+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -80,6 +64,14 @@
     "revision_translation_affected": [
         {
             "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "es",
+            "pathauto": 1
         }
     ]
 }

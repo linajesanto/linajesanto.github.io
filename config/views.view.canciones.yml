@@ -7,9 +7,14 @@ dependencies:
     - field.storage.node.field_tipo
     - field.storage.node.field_tipo_de_voz
     - node.type.cancion
+    - system.menu.main
+    - taxonomy.vocabulary.tags
+  content:
+    - 'taxonomy_term:tags:767bd925-00b3-42f1-ad8a-a6f44f388ad1'
   module:
     - node
     - options
+    - taxonomy
 id: canciones
 label: Canciones
 module: views
@@ -446,15 +451,18 @@ display:
     display_plugin: page
     position: 1
     display_options:
+      title: Repertorio
+      defaults:
+        title: false
       display_description: ''
       exposed_block: true
       display_extenders: {  }
       path: canciones
       menu:
-        type: 'default tab'
-        title: Canciones
+        type: normal
+        title: Repertorio
         description: ''
-        weight: -49
+        weight: -50
         expanded: false
         menu_name: main
         parent: ''
@@ -481,6 +489,7 @@ display:
     display_plugin: page
     position: 2
     display_options:
+      title: 'Canciones Lentas'
       filters:
         status:
           id: status
@@ -555,16 +564,17 @@ display:
         groups:
           1: AND
       defaults:
+        title: false
         filters: false
         filter_groups: false
       display_description: ''
       display_extenders: {  }
       path: canciones/lentas
       menu:
-        type: tab
+        type: normal
         title: Lentas
         description: ''
-        weight: 0
+        weight: -48
         expanded: false
         menu_name: main
         parent: ''
@@ -586,6 +596,7 @@ display:
     display_plugin: page
     position: 2
     display_options:
+      title: 'Canciones Rápidas'
       filters:
         status:
           id: status
@@ -658,16 +669,17 @@ display:
         groups:
           1: AND
       defaults:
+        title: false
         filters: false
         filter_groups: false
       display_description: ''
       display_extenders: {  }
       path: canciones/rapidas
       menu:
-        type: tab
+        type: normal
         title: Rápidas
         description: ''
-        weight: 0
+        weight: -47
         expanded: false
         menu_name: main
         parent: ''
@@ -689,6 +701,7 @@ display:
     display_plugin: page
     position: 2
     display_options:
+      title: 'Canciones para Chicas'
       filters:
         status:
           id: status
@@ -802,16 +815,17 @@ display:
         groups:
           1: AND
       defaults:
+        title: false
         filters: false
         filter_groups: false
       display_description: ''
       display_extenders: {  }
       path: canciones/chicas
       menu:
-        type: tab
+        type: normal
         title: 'Para chicas'
         description: ''
-        weight: 0
+        weight: -46
         expanded: false
         menu_name: main
         parent: ''
@@ -833,6 +847,7 @@ display:
     display_plugin: page
     position: 2
     display_options:
+      title: 'Canciones para Machos'
       filters:
         status:
           id: status
@@ -946,16 +961,17 @@ display:
         groups:
           1: AND
       defaults:
+        title: false
         filters: false
         filter_groups: false
       display_description: ''
       display_extenders: {  }
       path: canciones/machos
       menu:
-        type: tab
+        type: normal
         title: 'Para machos'
         description: ''
-        weight: 0
+        weight: -45
         expanded: false
         menu_name: main
         parent: ''
@@ -977,6 +993,7 @@ display:
     display_plugin: page
     position: 2
     display_options:
+      title: Duos
       filters:
         status:
           id: status
@@ -1049,16 +1066,17 @@ display:
         groups:
           1: AND
       defaults:
+        title: false
         filters: false
         filter_groups: false
       display_description: ''
       display_extenders: {  }
       path: canciones/duos
       menu:
-        type: tab
+        type: normal
         title: Duos
         description: ''
-        weight: 0
+        weight: -44
         expanded: false
         menu_name: main
         parent: ''
@@ -1069,6 +1087,117 @@ display:
         - 'languages:language_content'
         - 'languages:language_interface'
         - url.query_args
+        - 'user.node_grants:view'
+      tags:
+        - 'config:field.storage.node.field_artista'
+        - 'config:field.storage.node.field_tipo'
+        - 'config:field.storage.node.field_tipo_de_voz'
+  page_7:
+    id: page_7
+    display_title: Propuestas
+    display_plugin: page
+    position: 2
+    display_options:
+      title: Propuestas
+      filters:
+        status:
+          id: status
+          table: node_field_data
+          field: status
+          entity_type: node
+          entity_field: status
+          plugin_id: boolean
+          value: '1'
+          group: 1
+          expose:
+            operator: ''
+            operator_limit_selection: false
+            operator_list: {  }
+        type:
+          id: type
+          table: node_field_data
+          field: type
+          entity_type: node
+          entity_field: type
+          plugin_id: bundle
+          value:
+            cancion: cancion
+          expose:
+            operator_limit_selection: false
+            operator_list: {  }
+        field_tags_target_id:
+          id: field_tags_target_id
+          table: node__field_tags
+          field: field_tags_target_id
+          relationship: none
+          group_type: group
+          admin_label: ''
+          plugin_id: taxonomy_index_tid
+          operator: or
+          value:
+            79: 79
+          group: 1
+          exposed: false
+          expose:
+            operator_id: ''
+            label: ''
+            description: ''
+            use_operator: false
+            operator: ''
+            operator_limit_selection: false
+            operator_list: {  }
+            identifier: ''
+            required: false
+            remember: false
+            multiple: false
+            remember_roles:
+              authenticated: authenticated
+            reduce: false
+          is_grouped: false
+          group_info:
+            label: ''
+            description: ''
+            identifier: ''
+            optional: true
+            widget: select
+            multiple: false
+            remember: false
+            default_group: All
+            default_group_multiple: {  }
+            group_items: {  }
+          reduce_duplicates: false
+          vid: tags
+          type: select
+          hierarchy: false
+          limit: true
+          error_message: true
+      filter_groups:
+        operator: AND
+        groups:
+          1: AND
+      defaults:
+        title: false
+        filters: false
+        filter_groups: false
+      display_description: ''
+      display_extenders: {  }
+      path: canciones/propuestas
+      menu:
+        type: normal
+        title: Propuestas
+        description: ''
+        weight: -43
+        expanded: false
+        menu_name: main
+        parent: ''
+        context: '0'
+    cache_metadata:
+      max-age: -1
+      contexts:
+        - 'languages:language_content'
+        - 'languages:language_interface'
+        - url.query_args
+        - user
         - 'user.node_grants:view'
       tags:
         - 'config:field.storage.node.field_artista'
