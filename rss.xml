@@ -17,7 +17,7 @@
 &lt;span&gt;Sun, 13/02/2022 - 18:21&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-5d6db3842a95e9f4b96c3fadf3df70ec63dd0dd582e96c9f9a6c254338fa3466"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-f72d876e00940bd8a6edf7063357a1301438227047c36d6360155ce244ba54c2"&gt;
   
     
       
@@ -52,10 +52,10 @@
                                                                                         &lt;td headers="view-field-secuencia-table-column" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr class="cancion-item "&gt;
-                                                                                                                                            &lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/paul-wilbur/dias-de-elias" hreflang="es"&gt;Días de Elías&lt;/a&gt; | Paul Wilbur          &lt;/td&gt;
+                                                                                                                                            &lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/phil-wickham/gracia-sublime" hreflang="es"&gt;Gracia sublime&lt;/a&gt; | Phil Wickham          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-encargado"&gt;Aaron          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/21" hreflang="es"&gt;A&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/open?id=1dKebs4oPLs_Moa1fajCeqkCTk-lBwBJW"&gt;Original&lt;/a&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/42" hreflang="es"&gt;A#&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1lb4YfK4OB1F6r05PBPyE18a7UCZKQpiV/view?usp=sharing"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr class="item-actividad "&gt;
@@ -90,10 +90,11 @@
                                                                                         &lt;td headers="view-field-secuencia-table-column" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr class="cancion-item "&gt;
-                                                                                                                                            &lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/christine-dclario/el-nos-ama" hreflang="es"&gt;El nos ama&lt;/a&gt; | Christine D'Clario          &lt;/td&gt;
+                                                                                                                                            &lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/hillsong-worship/rey-de-reyes" hreflang="es"&gt;Rey de Reyes&lt;/a&gt; | Hillsong Worship          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/47" hreflang="es"&gt;G&lt;/a&gt;          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-secuencia-table-column" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/23" hreflang="es"&gt;D&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-secuencia-table-column" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1uxCnj0cHbaneIril1kpKk3OfJ9cCKZRU/view?usp=sharing"&gt;Original&lt;/a&gt;
+          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr class="cancion-item "&gt;
                                                                                                                                             &lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/bethel-music/rey-de-mi-corazon" hreflang="es"&gt;Rey de mi corazón&lt;/a&gt; | Bethel Music          &lt;/td&gt;
@@ -166,7 +167,7 @@
 &lt;span&gt;Sun, 06/02/2022 - 11:00&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-76c63cc46aaeb9897ea0dfe05e7c1cffbd5f7b76b1aeff91ffff528102e2068c"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-6d9d2627ae5701e7179125b554d0966cdfc89c656fd2a13d88d999e9fa72863b"&gt;
   
     
       
@@ -406,7 +407,7 @@
 &lt;span&gt;Thu, 03/02/2022 - 15:08&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-756768064baf51fb7622ee1ab32308f5260accb7c5c1997e82988e7edb52fbba"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-c53d5cd096db728756ce866d4f1880ed98ad25d4e4ae25676b500c762b31c94a"&gt;
   
     
       
@@ -562,7 +563,7 @@ Sermón.&lt;/p&gt;&lt;/div&gt;
 &lt;span&gt;Mon, 31/01/2022 - 16:53&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-2be42070f297e056929f1b905507932ec4ed64c8907aca94829c3f77995feeec"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-d476372bc2b4a0a41071ae17ff4e02c93f742d50e9e2f11c4fc9b201a4dc90b4"&gt;
   
     
       
@@ -707,7 +708,7 @@ Sermón.&lt;/p&gt;&lt;/div&gt;
 &lt;span&gt;Mon, 24/01/2022 - 16:03&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-2539cb4b4df2ead0f02d3c5c9eb796e387d7e5564195e72885b82530071936bf"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-a018d2a1156b06ff777aad5f370b1424e4cba7c76e5fb3e73f8af76ed092d1b3"&gt;
   
     
       
