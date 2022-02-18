@@ -37,11 +37,15 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
     "field_cancion": [
         {
             "target_type": "node",
-            "target_uuid": "70a48af1-7943-4bcc-b639-72f126aab3e9"
+            "target_uuid": "70dbea22-87af-4b34-bedc-af794fbcf0a9"
         }
     ],
     "field_encargado": [
