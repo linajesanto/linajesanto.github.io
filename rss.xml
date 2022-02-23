@@ -17,7 +17,7 @@
 &lt;span&gt;Sun, 20/02/2022 - 15:42&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-340c1b6ee205b3f3eb19492c5d720ee8425b1292973dd28c88b50ff5cc9168f4"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-da60534082de3f3d33b72f97962a9994d06a0bcce74ac3a57b6a9b813f7ada31"&gt;
   
     
       
@@ -47,7 +47,7 @@
               &lt;/tr&gt;
           &lt;tr class="item-actividad "&gt;
                                                                                                                                             &lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;Saludo          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-encargado"&gt;Ivette          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-encargado"&gt;Felipe          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-secuencia-table-column" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
@@ -60,20 +60,20 @@
               &lt;/tr&gt;
           &lt;tr class="item-actividad "&gt;
                                                                                                                                             &lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;Lectura bíblica          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-encargado"&gt;Ivette          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-secuencia-table-column" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr class="cancion-item "&gt;
                                                                                                                                             &lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/en-espiritu-y-en-verdad/vamos-cantar" hreflang="es"&gt;Vamos a cantar&lt;/a&gt; | En Espíritu Y En Verdad          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-encargado"&gt;Ivette          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/68" hreflang="es"&gt;F&lt;/a&gt;*          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-secuencia-table-column" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1j6005vyMhgpk-lIsR1S0eVMEMjOnlu7l/view?usp=sharing"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr class="item-actividad "&gt;
                                                                                                                                             &lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;Oración por las ofrendas          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-encargado"&gt;Ivette          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-secuencia-table-column" class="views-field views-field-field-secuencia"&gt;          &lt;/td&gt;
               &lt;/tr&gt;
@@ -86,14 +86,14 @@
               &lt;/tr&gt;
           &lt;tr class="cancion-item "&gt;
                                                                                                                                             &lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/christine-dclario/como-dijiste" hreflang="es"&gt;Como Dijiste&lt;/a&gt; | Christine D'Clario          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-encargado"&gt;Ivette          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/36" hreflang="es"&gt;F#&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-secuencia-table-column" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/18iVBrJTGezrW8-BlFbKDJTWFZSHqxhL6/view?usp=sharing"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
               &lt;/tr&gt;
           &lt;tr class="cancion-item "&gt;
                                                                                                                                             &lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/israel-houghton/tu-presencia-es-el-cielo" hreflang="es"&gt;Tu presencia es el cielo&lt;/a&gt; | Israel Houghton          &lt;/td&gt;
-                                                                                        &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-encargado"&gt;Ivette          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-encargado"&gt;Paola          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/26" hreflang="es"&gt;E&lt;/a&gt;*          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-secuencia-table-column" class="views-field views-field-field-secuencia"&gt; &lt;a href="https://drive.google.com/file/d/1QfO2TiCVxzBQqx_zVhDHjtdNDjsgD5y-/view?usp=sharing"&gt;Original&lt;/a&gt;
           &lt;/td&gt;
@@ -117,9 +117,9 @@
   &lt;div class="field field--name-field-voces field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Voces&lt;/div&gt;
           &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;Ivette&lt;/div&gt;
-          &lt;div class="field__item"&gt;Esther&lt;/div&gt;
+              &lt;div class="field__item"&gt;Paola&lt;/div&gt;
           &lt;div class="field__item"&gt;Felipe&lt;/div&gt;
+          &lt;div class="field__item"&gt;Esther&lt;/div&gt;
           &lt;div class="field__item"&gt;Aaron&lt;/div&gt;
           &lt;div class="field__item"&gt;Darling&lt;/div&gt;
               &lt;/div&gt;
@@ -160,7 +160,7 @@
 &lt;span&gt;Sun, 13/02/2022 - 18:21&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-edf6ecdfec4c2271a8b11e5357a56c0f298957de48b2b8af4f4e2c2b87d703c7"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-e10420ea91c0b63de31b758460a8e27b190af4295c2f883e6967bfa7d593c2fe"&gt;
   
     
       
@@ -313,7 +313,7 @@
 &lt;span&gt;Sun, 06/02/2022 - 11:00&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-6701c2551cc5eaf44849129ad12b85b27974a2bc2c51a63e01369438447325db"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-ec81d3e372ac816eac6ff1840f99200c51a64893e365ef32454b37e38276c64c"&gt;
   
     
       
@@ -556,7 +556,7 @@
 &lt;span&gt;Thu, 03/02/2022 - 15:08&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-951b9b4b6b761ec1a9015513252695fb2dbaf41c616cb7ce39c75fbbdc30a5a4"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-4efb91ce7018d17a3a2671b06bf284982b39e09ff53e8447224644884cf13514"&gt;
   
     
       
@@ -715,7 +715,7 @@ Sermón.&lt;/p&gt;&lt;/div&gt;
 &lt;span&gt;Mon, 31/01/2022 - 16:53&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-a8389c36919da445445f7e84a2e1f57e32d9fe87320e740342632f4195e5c17a"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-746fc1575a5a34886ff6db196c5fd440cab48e07e122504c0be3fd6bc056137f"&gt;
   
     
       
@@ -863,7 +863,7 @@ Sermón.&lt;/p&gt;&lt;/div&gt;
 &lt;span&gt;Mon, 24/01/2022 - 16:03&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-abe672e70b4442f98e5441305ba8a69e6121c8939557a324f2a240325a9f75bb"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-39bfc00e7097f1a4d122df93df9c872268d3b0bb32d3cdeb7c1ded748f4950f4"&gt;
   
     
       
