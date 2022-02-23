@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2021-11-16T02:12:59+00:00",
+            "value": "2022-02-23T12:45:35+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2021-11-16T02:12:59+00:00",
+            "value": "2022-02-23T12:45:35+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -92,7 +92,12 @@
     ],
     "field_bpm": [],
     "field_descripcion": [],
-    "field_letra": [],
+    "field_letra": [
+        {
+            "value": "<p>Poderoso, invencible<br \/>\r\nAdmirable, grande, fuerte Dios<br \/>\r\nRey de reyes, asombroso, incomparable<\/p>\r\n\r\n<p>Eres incre\u00edble<br \/>\r\nTodopoderoso, grande<br \/>\r\nEres Incre\u00edble<br \/>\r\nVenciste las tinieblas<br \/>\r\nCristo exaltado est\u00e1s, (Oh)<\/p>\r\n\r\n<p>You're almagthy<br \/>\r\nNever ending<br \/>\r\nYou are Holy<br \/>\r\nYou are powerfull<br \/>\r\nKing of all kings<br \/>\r\nIncomparable<br \/>\r\nYou are Wonderfull<\/p>\r\n\r\n<p>You are so amazing<br \/>\r\nGod you are almagthy, stronger<br \/>\r\nYou are so amazing<br \/>\r\nDarkness you defeated<br \/>\r\nJesus we lift you high<\/p>\r\n\r\n<p>Incre\u00edble, invencible<br \/>\r\nMi Dios s\u00f3lo t\u00fa, s\u00f3lo t\u00fa<br \/>\r\nT\u00fa eres incre\u00edble, invencible<br \/>\r\nMi Dios s\u00f3lo t\u00fa, s\u00f3lo t\u00fa<br \/>\r\nT\u00fa eres incre\u00edble, invencible<br \/>\r\nMi Dios s\u00f3lo t\u00fa, s\u00f3lo t\u00fa<br \/>\r\nT\u00fa eres incre\u00edble, invencible<br \/>\r\nMi Dios solo t\u00fa, solo t\u00fa<\/p>\r\n\r\n<p>Eres incre\u00edble<br \/>\r\nTodopoderoso, grande<br \/>\r\nEres incre\u00edble<br \/>\r\nVenciste las tinieblas<br \/>\r\nCristo, eres incre\u00edble<br \/>\r\nTodopoderoso, grande<br \/>\r\nEres incre\u00edble<br \/>\r\nVenciste las tinieblas<br \/>\r\nCristo, exaltado est\u00e1s, (Oh)<\/p>\r\n\r\n<p>Mi Dios s\u00f3lo t\u00fa, s\u00f3lo t\u00fa<br \/>\r\nT\u00fa eres incre\u00edble, invencible<br \/>\r\nMi Dios s\u00f3lo t\u00fa, s\u00f3lo t\u00fa<br \/>\r\nT\u00fa eres incre\u00edble, invencible<br \/>\r\nMi Dios s\u00f3lo t\u00fa, s\u00f3lo t\u00fa<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
     "field_secuencia": [
         {
             "uri": "https:\/\/drive.google.com\/file\/d\/1AmjLidRFLxtyuRHXcrrNBbaxJiX7cdxZ\/view?usp=sharing",
