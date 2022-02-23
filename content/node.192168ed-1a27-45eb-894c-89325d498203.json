@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-02-20T22:12:40+00:00",
+            "value": "2022-02-23T12:35:16+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-20T22:12:40+00:00",
+            "value": "2022-02-23T12:35:16+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -167,15 +167,15 @@
     "field_voces": [
         {
             "target_type": "user",
-            "target_uuid": "a23fa1e5-57ee-45a4-aeaf-70192f440ed3"
-        },
-        {
-            "target_type": "user",
-            "target_uuid": "6162d8b4-ced9-4870-856f-d48706125637"
+            "target_uuid": "6a85fb9a-da67-4f0f-8ee9-8308af1bbc3f"
         },
         {
             "target_type": "user",
             "target_uuid": "2b3a8a6e-8b1e-4771-9103-860e6fde10dd"
+        },
+        {
+            "target_type": "user",
+            "target_uuid": "6162d8b4-ced9-4870-856f-d48706125637"
         },
         {
             "target_type": "user",
