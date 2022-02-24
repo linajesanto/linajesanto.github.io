@@ -98,7 +98,7 @@ content:
       hide_empty: 0
       multiple: 0
     third_party_settings: {  }
-    weight: 3
+    weight: 2
     region: content
   field_bajo:
     type: entity_reference_label
@@ -129,7 +129,7 @@ content:
     settings:
       link: false
     third_party_settings: {  }
-    weight: 10
+    weight: 11
     region: content
   field_guitarra_electrica:
     type: entity_reference_label
@@ -137,7 +137,7 @@ content:
     settings:
       link: false
     third_party_settings: {  }
-    weight: 9
+    weight: 10
     region: content
   field_piano_1:
     type: entity_reference_label
@@ -169,5 +169,6 @@ content:
     weight: 0
     region: content
 hidden:
+  display_updated: true
   field_fecha_y_hora: true
   langcode: true
