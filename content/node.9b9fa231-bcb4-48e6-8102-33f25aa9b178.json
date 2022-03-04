@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/christine-dclario\/rey",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/hillsong-united\/desde-mi-interior",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

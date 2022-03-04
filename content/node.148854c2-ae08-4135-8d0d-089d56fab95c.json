@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/marco-barrientos-feat-yvonne-munoz-y-marcos-brunet\/digno",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

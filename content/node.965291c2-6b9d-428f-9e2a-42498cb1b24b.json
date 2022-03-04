@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/ingrid-rosario\/por-siempre-te-alabare-vencio",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

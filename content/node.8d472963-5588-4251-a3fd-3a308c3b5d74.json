@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/brandon-lake\/ti-adoramos",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

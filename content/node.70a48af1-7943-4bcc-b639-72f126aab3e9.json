@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/christine-dclario\/el-nos-ama",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

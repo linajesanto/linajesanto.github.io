@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/miel-san-marcos\/rey-vencedor-fiesta-viene-ya",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

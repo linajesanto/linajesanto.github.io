@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/esperanza-de-vida\/precioso-jesus",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/danilo-montero\/te-alabare-mi-buen-jesus",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

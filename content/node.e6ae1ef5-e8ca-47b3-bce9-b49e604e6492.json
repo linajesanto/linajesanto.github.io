@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/planetshakers\/canta-ya",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

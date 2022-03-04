@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/matt-redman\/10000-razones",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

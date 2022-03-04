@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/marco-barrientos\/espiritu-verdad",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

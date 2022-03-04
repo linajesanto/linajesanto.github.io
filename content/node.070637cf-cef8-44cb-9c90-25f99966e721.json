@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/marcos-witt\/sana-nuestra-tierra",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

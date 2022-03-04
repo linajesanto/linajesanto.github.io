@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/marcos-witt\/hay-poder",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

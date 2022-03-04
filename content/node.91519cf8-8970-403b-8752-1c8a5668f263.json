@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/miel-san-marcos\/los-muros-caeran",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

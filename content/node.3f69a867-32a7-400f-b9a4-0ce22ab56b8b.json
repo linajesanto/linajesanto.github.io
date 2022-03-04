@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/ingrid-rosario\/el-poder-de-tu-amor",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

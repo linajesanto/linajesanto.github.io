@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/israel-houghton\/en-el-nombre-de-jesus",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/natalie-billini\/quien-como-el",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

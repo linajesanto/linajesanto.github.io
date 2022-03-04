@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/belitza-y-ambraham\/contigo",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

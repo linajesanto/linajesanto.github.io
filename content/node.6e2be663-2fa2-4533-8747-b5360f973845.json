@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/elevation-worship\/lo-haras-otra-vez",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

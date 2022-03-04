@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/vino-nuevo\/cristo-yo-te-amo",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

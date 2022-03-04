@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/kari-jobe\/revelation-song",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

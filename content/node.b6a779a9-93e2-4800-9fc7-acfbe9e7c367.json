@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/thalles-roberto\/dios-me-ama",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

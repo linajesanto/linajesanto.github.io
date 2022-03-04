@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/marcos-brunet\/al-que-esta-sentado-en-el-trono",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

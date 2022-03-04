@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/miel-san-marcos\/levantate-senor-vino-celestial",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

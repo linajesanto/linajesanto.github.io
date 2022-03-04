@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/coalo-zamorano\/eres-mi-amigo-fiel",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

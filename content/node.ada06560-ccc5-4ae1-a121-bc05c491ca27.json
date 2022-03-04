@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/juan-carlos-alvarado\/le-llaman-guerrero",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

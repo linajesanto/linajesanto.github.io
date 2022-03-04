@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/marco-barrientos\/hosanna",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

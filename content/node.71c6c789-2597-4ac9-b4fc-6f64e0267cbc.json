@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/en-espiritu-y-en-verdad\/vamos-cantar",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/kary-jobe\/sanador",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

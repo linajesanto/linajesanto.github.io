@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/hillsong-worship\/cuan-hermoso-tu-nombre-es",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

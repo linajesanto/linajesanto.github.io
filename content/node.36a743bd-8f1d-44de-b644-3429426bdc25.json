@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/bethel-music\/rey-de-mi-corazon",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/un-corazon\/jesucristo-basta",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

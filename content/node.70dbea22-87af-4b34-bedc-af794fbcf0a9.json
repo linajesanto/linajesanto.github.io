@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/hillsong-worship\/rey-de-reyes",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/daniela-barrientos\/rey-de-reyes",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

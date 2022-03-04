@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/lowsan-melgar\/cuerdas-de-amor",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

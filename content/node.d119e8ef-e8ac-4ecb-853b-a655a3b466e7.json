@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/danilo-montero\/revelacion",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/bj-putnam\/glorioso",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

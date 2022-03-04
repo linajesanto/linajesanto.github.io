@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/en-espiritu-y-en-verdad\/te-doy-gloria",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

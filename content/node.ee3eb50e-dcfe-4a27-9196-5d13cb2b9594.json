@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/jose-luis-reyes\/esta-cayendo",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

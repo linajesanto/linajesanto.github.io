@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/coalo-zamorano\/senor-eres-fiel",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

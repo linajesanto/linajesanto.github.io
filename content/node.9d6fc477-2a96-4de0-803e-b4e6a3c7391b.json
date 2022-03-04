@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/generacion-12\/dios-incomparable",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

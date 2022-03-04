@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/elevation-worship\/tumbas-jardines",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

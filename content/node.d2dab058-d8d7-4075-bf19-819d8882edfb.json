@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/third-day\/dios-de-maravillas",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

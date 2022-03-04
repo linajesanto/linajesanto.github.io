@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/israel-houghton\/yo-se-quien-soy-yo",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

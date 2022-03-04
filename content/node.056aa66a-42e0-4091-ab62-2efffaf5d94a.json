@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/israel-houghton\/tu-presencia-es-el-cielo",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

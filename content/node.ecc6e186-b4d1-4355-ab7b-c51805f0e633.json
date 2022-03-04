@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/jesus-culture\/tu-amor-nunca-falla",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

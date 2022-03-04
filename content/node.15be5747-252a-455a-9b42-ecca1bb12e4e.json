@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/dante-gebel\/anciano-de-dias",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

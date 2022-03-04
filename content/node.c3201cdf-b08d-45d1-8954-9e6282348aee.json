@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/kalley-heiligenthal\/por-siempre",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

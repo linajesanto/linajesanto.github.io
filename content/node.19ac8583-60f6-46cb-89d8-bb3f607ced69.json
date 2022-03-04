@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/art-aguilera\/hay-libertad",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

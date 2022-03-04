@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/marco-barrientos\/amor-sin-condicion",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

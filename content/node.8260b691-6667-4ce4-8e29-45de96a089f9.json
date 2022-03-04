@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/oasis-ministry\/si-tu-presencia-conmigo-no-va",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

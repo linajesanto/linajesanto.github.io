@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/casting-crowns\/amigo-de-pecadores",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

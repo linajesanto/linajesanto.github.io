@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/blest\/dios-de-esta-ciudad",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

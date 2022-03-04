@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/ingrid-rosario\/que-se-llene-tu-casa",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/christine-dclario\/abrenos-los-cielos",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

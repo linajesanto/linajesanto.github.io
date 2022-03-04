@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/marcela-gandara\/vine-adorarte",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

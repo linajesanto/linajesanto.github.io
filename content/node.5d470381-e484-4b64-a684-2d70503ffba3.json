@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/paul-wilbur\/dias-de-elias",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

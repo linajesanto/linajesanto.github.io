@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/hillsong-worship\/poderoso-para-salvar",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

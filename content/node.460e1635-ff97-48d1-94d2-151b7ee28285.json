@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/hillsong-young-free\/vivo-estas",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

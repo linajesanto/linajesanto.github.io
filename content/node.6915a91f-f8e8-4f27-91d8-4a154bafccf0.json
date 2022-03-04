@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/danny-berrios\/el-rey-te-mando-llamar",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

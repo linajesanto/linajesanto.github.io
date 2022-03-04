@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/julio-melgar\/ya-no-soy-esclavo-del-temor",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

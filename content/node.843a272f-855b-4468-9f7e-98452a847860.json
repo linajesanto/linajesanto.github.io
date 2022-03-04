@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/marcos-witt\/yo-te-busco",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [

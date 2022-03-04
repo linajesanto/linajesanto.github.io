@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/coleccion\/sunday-february-6-del-2022",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_actividades": [

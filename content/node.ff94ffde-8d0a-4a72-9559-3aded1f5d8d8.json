@@ -80,7 +80,8 @@
     "path": [
         {
             "alias": "\/canciones\/ingrid-rosario\/eres-mi-respirar",
-            "langcode": "es"
+            "langcode": "es",
+            "pathauto": 1
         }
     ],
     "field_artista": [
