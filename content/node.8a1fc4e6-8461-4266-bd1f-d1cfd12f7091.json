@@ -80,8 +80,7 @@
     "path": [
         {
             "alias": "\/canciones\/phil-wickham\/gracia-sublime",
-            "langcode": "es",
-            "pathauto": 1
+            "langcode": "es"
         }
     ],
     "field_artista": [

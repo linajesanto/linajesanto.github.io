@@ -70,8 +70,7 @@
         {
             "alias": null,
             "pid": null,
-            "langcode": "es",
-            "pathauto": 0
+            "langcode": "es"
         }
     ]
 }

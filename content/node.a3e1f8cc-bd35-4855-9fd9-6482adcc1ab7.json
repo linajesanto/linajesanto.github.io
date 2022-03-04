@@ -80,8 +80,7 @@
     "path": [
         {
             "alias": "\/canciones\/planetshakers\/por-siempre-te-alabare",
-            "langcode": "es",
-            "pathauto": 1
+            "langcode": "es"
         }
     ],
     "field_artista": [

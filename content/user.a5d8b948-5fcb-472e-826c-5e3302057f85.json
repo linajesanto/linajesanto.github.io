@@ -66,8 +66,7 @@
         {
             "alias": null,
             "pid": null,
-            "langcode": "en",
-            "pathauto": 0
+            "langcode": "en"
         }
     ],
     "user_picture": []

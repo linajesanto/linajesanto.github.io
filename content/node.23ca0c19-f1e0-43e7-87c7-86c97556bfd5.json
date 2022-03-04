@@ -80,8 +80,7 @@
     "path": [
         {
             "alias": "\/canciones\/hillsong-worship\/yo-tambien",
-            "langcode": "es",
-            "pathauto": 1
+            "langcode": "es"
         }
     ],
     "field_artista": [

@@ -80,8 +80,7 @@
     "path": [
         {
             "alias": "\/canciones\/danny-berrios\/el-himno-de-victoria",
-            "langcode": "es",
-            "pathauto": 1
+            "langcode": "es"
         }
     ],
     "field_artista": [

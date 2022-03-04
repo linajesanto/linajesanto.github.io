@@ -80,8 +80,7 @@
     "path": [
         {
             "alias": "\/canciones\/zoary\/como-zaquedo",
-            "langcode": "es",
-            "pathauto": 1
+            "langcode": "es"
         }
     ],
     "field_artista": [

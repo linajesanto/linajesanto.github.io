@@ -80,8 +80,7 @@
     "path": [
         {
             "alias": "\/canciones\/marco-barrientos\/ven-es-hora-de-adorarle",
-            "langcode": "es",
-            "pathauto": 1
+            "langcode": "es"
         }
     ],
     "field_artista": [

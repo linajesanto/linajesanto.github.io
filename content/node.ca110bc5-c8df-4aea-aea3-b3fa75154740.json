@@ -80,8 +80,7 @@
     "path": [
         {
             "alias": "\/canciones\/hillsong-united\/correre",
-            "langcode": "es",
-            "pathauto": 1
+            "langcode": "es"
         }
     ],
     "field_artista": [

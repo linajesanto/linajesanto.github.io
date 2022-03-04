@@ -80,8 +80,7 @@
     "path": [
         {
             "alias": "\/canciones\/chris-tomlin\/cuan-grande-es-dios",
-            "langcode": "es",
-            "pathauto": 1
+            "langcode": "es"
         }
     ],
     "field_artista": [
