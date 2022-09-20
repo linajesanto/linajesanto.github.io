@@ -3,10 +3,11 @@
 set -e
 
 # deploy static html
+git checkout dev
 drush cr
 drush tome:static -y --uri https://linajesanto.github.io
 rm -rf gh-pages
-git clone git@github.com:linajesanto/linajesanto.github.io gh-pages
+git clone https://github.com/linajesanto/linajesanto.github.io.git gh-pages
 cd gh-pages
 git checkout main || git checkout -b main
 cd ..
