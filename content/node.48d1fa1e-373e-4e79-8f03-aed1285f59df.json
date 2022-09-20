@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2020-01-16T00:11:09+00:00",
+            "value": "2022-04-26T04:24:00+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2020-01-16T00:11:09+00:00",
+            "value": "2022-04-26T04:24:00+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -93,6 +93,19 @@
     "field_bpm": [],
     "field_descripcion": [],
     "field_letra": [],
+    "field_multitrack": [],
+    "field_recursos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=nbMwzxKOdfs",
+            "title": "Bajo",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=wBnQdek0sqs",
+            "title": "Voces",
+            "options": []
+        }
+    ],
     "field_secuencia": [
         {
             "uri": "https:\/\/drive.google.com\/open?id=1krqB143v7P5zvWDcoHkaqxca6pr3YGV-",
@@ -114,7 +127,7 @@
     "field_tono": [],
     "field_video": [
         {
-            "value": "https:\/\/www.youtube.com\/watch?v=RzW3vuBeCYA"
+            "value": "https:\/\/www.youtube.com\/watch?v=CnPxcoKhKcY"
         }
     ]
 }

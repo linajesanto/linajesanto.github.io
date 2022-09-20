@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-02-16T03:47:04+00:00",
+            "value": "2022-08-07T01:04:03+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-16T03:47:04+00:00",
+            "value": "2022-08-07T01:04:03+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -93,7 +93,7 @@
     "field_bpm": [],
     "field_descripcion": [
         {
-            "value": "<p>Version <strong>Original<\/strong>:<\/p>\r\n\r\n<p><a href=\"https:\/\/www.youtube.com\/watch?v=sPZtBq_D4bo\">https:\/\/www.youtube.com\/watch?v=sPZtBq_D4bo<\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "value": "<p><strong>ZOARY - COMO ZAQUEO En espa\u00f1ol:<\/strong><br \/>\r\n<a href=\"https:\/\/www.youtube.com\/watch?v=-58rSx2gzYs\">https:\/\/www.youtube.com\/watch?v=-58rSx2gzYs<\/a><\/p>\r\n",
             "format": "basic_html",
             "summary": ""
         }
@@ -104,6 +104,8 @@
             "format": "basic_html"
         }
     ],
+    "field_multitrack": [],
+    "field_recursos": [],
     "field_secuencia": [],
     "field_tags": [],
     "field_tipo": [
@@ -124,7 +126,7 @@
     ],
     "field_video": [
         {
-            "value": "https:\/\/www.youtube.com\/watch?v=-58rSx2gzYs"
+            "value": "https:\/\/www.youtube.com\/watch?v=sPZtBq_D4bo"
         }
     ]
 }

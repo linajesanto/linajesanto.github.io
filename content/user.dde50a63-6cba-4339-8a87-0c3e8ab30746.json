@@ -1,0 +1,74 @@
+{
+    "uid": [
+        {
+            "value": 71
+        }
+    ],
+    "uuid": [
+        {
+            "value": "dde50a63-6cba-4339-8a87-0c3e8ab30746"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "name": [
+        {
+            "value": "Ezequiel"
+        }
+    ],
+    "mail": [
+        {
+            "value": "ezequiel@linajesanto.com"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/Managua"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-04-04T00:10:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-04-04T00:10:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "es",
+            "pathauto": 0
+        }
+    ],
+    "user_picture": []
+}

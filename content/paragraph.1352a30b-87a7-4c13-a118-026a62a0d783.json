@@ -48,5 +48,7 @@
             "target_uuid": "dfe061c3-6acf-4fee-a2c4-eab933cfceee"
         }
     ],
-    "field_encargado": []
+    "field_encargado": [],
+    "field_otra_actividad": [],
+    "field_otro_encargado": []
 }

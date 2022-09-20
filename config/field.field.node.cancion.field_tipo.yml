@@ -6,7 +6,12 @@ dependencies:
     - field.storage.node.field_tipo
     - node.type.cancion
   module:
+    - custom_add_another
     - options
+third_party_settings:
+  custom_add_another:
+    custom_add_another: ''
+    custom_remove: ''
 id: node.cancion.field_tipo
 field_name: field_tipo
 entity_type: node

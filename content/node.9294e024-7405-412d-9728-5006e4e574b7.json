@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2021-10-29T17:25:14+00:00",
+            "value": "2022-04-30T01:50:13+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "45377d3b-f5ac-4d61-9bca-94accc26d36a"
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-01T00:52:46+00:00",
+            "value": "2022-04-30T01:50:13+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -92,7 +92,20 @@
     ],
     "field_bpm": [],
     "field_descripcion": [],
-    "field_letra": [],
+    "field_letra": [
+        {
+            "value": "<p>Pedimos, Se\u00f1or, que abras el cielo sobre nosotros<br \/>\r\nY que te manifiestes en todo tu esplendor<br \/>\r\nEstamos listos, Se\u00f1or (Wooh)<br \/>\r\nEh-yeh-yeh<\/p>\r\n\r\n<p>Nos congregamos hoy<br \/>\r\nCon anticipaci\u00f3n<br \/>\r\nClam\u00e1ndote a ti<\/p>\r\n\r\n<p>Deseamos presenciar<br \/>\r\nTu gloria y majestad<br \/>\r\nRevelada aqu\u00ed<\/p>\r\n\r\n<p>Por ti, estamos aqu\u00ed<br \/>\r\nPor ti, estamos cantando<\/p>\r\n\r\n<p>\u00c1brenos los cielos, queremos verte<br \/>\r\nAbre las compuertas<br \/>\r\nEl r\u00edo glorioso de tu coraz\u00f3n<br \/>\r\nLlenando nuestra adoraci\u00f3n<\/p>\r\n\r\n<p>Ven, Se\u00f1or<\/p>\r\n\r\n<p>Tu gloria puedo ver<br \/>\r\nHoy haz resplandecer<br \/>\r\nLos rostros que hay aqu\u00ed<\/p>\r\n\r\n<p>Desciende a este lugar<br \/>\r\nY muestra tu verdad<br \/>\r\nMiramos hacia ti (Por ti)<\/p>\r\n\r\n<p>Por ti, estamos aqu\u00ed (Oh, por ti)<br \/>\r\nPor ti, estamos cantando<\/p>\r\n\r\n<p>\u00c1brenos los cielos, queremos verte<br \/>\r\nAbre las compuertas<br \/>\r\nEl r\u00edo glorioso de tu coraz\u00f3n<br \/>\r\nLlenando nuestra adoraci\u00f3n (Abre los cielos)<\/p>\r\n\r\n<p>\u00c1brenos los cielos, queremos verte<br \/>\r\nAbre las compuertas<br \/>\r\nEl r\u00edo glorioso de tu coraz\u00f3n<br \/>\r\nLlenando nuestra adoraci\u00f3n<\/p>\r\n\r\n<p>Muestra, muestra tu gloria<br \/>\r\nMuestra, muestra tu fuerza<br \/>\r\nMuestra, muestra tu gloria, Dios (Wooh)<br \/>\r\nMuestra, muestra tu gloria, yeah<br \/>\r\nMuestra, muestra tu fuerza<br \/>\r\nMuestra, muestra tu gloria, Dios<br \/>\r\nVen mu\u00e9strate<br \/>\r\nQueremos ver tu gloria, \u00a1bienvenido!<\/p>\r\n\r\n<p>\u00c1brenos los cielos, queremos verte<br \/>\r\nAbre las compuertas<br \/>\r\nEl r\u00edo glorioso de tu coraz\u00f3n<br \/>\r\nLlenando nuestra adoraci\u00f3n (Yeh-yeh)<\/p>\r\n\r\n<p>\u00c1brenos los cielos, queremos verte<br \/>\r\nAbre las compuertas<br \/>\r\nEl r\u00edo glorioso de tu coraz\u00f3n<br \/>\r\nLlenando nuestra adoraci\u00f3n<\/p>\r\n\r\n<p>Ven, Se\u00f1or<br \/>\r\nTe adoramos, \u00a1oh, rey!<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_multitrack": [],
+    "field_recursos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=djVSmFBY6rg",
+            "title": "Bajo",
+            "options": []
+        }
+    ],
     "field_secuencia": [
         {
             "uri": "https:\/\/drive.google.com\/file\/d\/1kjLxDfuCfjpn5LJ2kUuTyccc2eYb59S2\/view?usp=sharing",

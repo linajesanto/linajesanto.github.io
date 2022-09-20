@@ -1,0 +1,23 @@
+uuid: 723055ee-8177-4db6-93e9-1d64117a7054
+langcode: es
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - stark
+_core:
+  default_config_hash: yEBET0cqDbk8dkWzaJw-8CKft0961VBflsISoSR6Lj8
+id: stark_search_form_narrow
+theme: stark
+region: primary_menu
+weight: -4
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (narrow)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

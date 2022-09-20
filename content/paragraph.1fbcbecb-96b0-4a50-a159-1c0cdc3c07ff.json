@@ -1,0 +1,49 @@
+{
+    "uuid": [
+        {
+            "value": "1fbcbecb-96b0-4a50-a159-1c0cdc3c07ff"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cancion_item",
+            "target_type": "paragraphs_type",
+            "target_uuid": "a4209aaa-0ef2-4455-9f5a-7fcaa9ac3adf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-20T03:09:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "field_cancion": [
+        {
+            "target_type": "node",
+            "target_uuid": "48d1fa1e-373e-4e79-8f03-aed1285f59df"
+        }
+    ],
+    "field_encargado": [],
+    "field_tono": []
+}

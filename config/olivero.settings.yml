@@ -2,12 +2,11 @@ _core:
   default_config_hash: Ylohp6sdrL1dU4v-KcXzXTP-U8BAMgh4NWJA9eGHtO4
 langcode: es
 favicon:
-  path: ''
-  use_default: false
+  use_default: true
 features:
   comment_user_picture: true
   comment_user_verification: true
-  favicon: false
+  favicon: true
   node_user_picture: false
 logo:
   path: ''
@@ -16,7 +15,7 @@ third_party_settings:
   shortcut:
     module_link: true
 mobile_menu_all_widths: 0
-site_branding_bg_color: white
+site_branding_bg_color: default
 css_enabled: 1
 css: ".cancion-item {\r\n  background-color: #f2f2ff;\r\n}"
 plaintext_enabled: 0

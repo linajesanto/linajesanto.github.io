@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1c33fcae-667e-47ae-9317-1de6d1ea705b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/088cbf2c-84df-442f-9b96-ad3774c5c1ee"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/canciones\/danilo-montero\/el-es-el-rey"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

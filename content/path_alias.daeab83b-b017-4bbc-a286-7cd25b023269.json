@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "daeab83b-b017-4bbc-a286-7cd25b023269"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5c600be2-ddd8-483b-a35e-895c91efc14b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/canciones\/abel-zavala\/de-tal-manera"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

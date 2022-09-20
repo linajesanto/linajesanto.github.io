@@ -1,0 +1,136 @@
+{
+    "uuid": [
+        {
+            "value": "0a7cf3e7-45b5-4a56-b640-686a15695cec"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "coleccion",
+            "target_type": "node_type",
+            "target_uuid": "ce153234-b925-4819-98de-11e2767af89e"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-17T04:36:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c77c2a62-9f5e-4f4e-997b-26378e657673"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c77c2a62-9f5e-4f4e-997b-26378e657673"
+        }
+    ],
+    "title": [
+        {
+            "value": "Domingo, Julio 17 del 2022"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-17T03:22:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-17T04:36:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/coleccion\/domingo-julio-17-del-2022-0",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_actividades": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "909c7e63-9d29-470a-9e50-493f5b4249b7"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "03f9ee9a-539e-41d1-ab36-9f6f307f142d"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "3568f0b2-f722-4102-abdf-e91fe41e77db"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "c3698fac-052a-4834-b2f5-6277c8f8f541"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "41882ee2-7c69-45e3-8c47-84720e1a9ef1"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "cd9c0745-f10b-4ada-9da9-697e09614f00"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "fa7e0dd3-ff0e-4b5c-95a6-cde7c22b9b46"
+        }
+    ],
+    "field_bajo": [],
+    "field_bateria": [],
+    "field_descripcion": [
+        {
+            "value": "<p>Para celebrar el gane: <a href=\"https:\/\/dev-linajesanto.pantheonsite.io\/canciones\/marco-barrientos\/cielo-y-tierra\">Cielo y tierra<\/a><\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_fecha_y_hora": [
+        {
+            "value": "2022-07-17T09:00:00-06:00"
+        }
+    ],
+    "field_guitarra_acustica": [],
+    "field_guitarra_electrica": [],
+    "field_piano_1": [],
+    "field_piano_2": [],
+    "field_voces": []
+}

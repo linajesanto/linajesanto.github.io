@@ -1,0 +1,54 @@
+{
+    "uuid": [
+        {
+            "value": "deb665e4-7f30-43ae-81b7-45044d3b4d91"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "item_actividad",
+            "target_type": "paragraphs_type",
+            "target_uuid": "44eb1b89-15eb-46b5-9138-c70c1ee2b8f7"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-09-16T17:11:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "field_actividad": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "feed3cfb-e8ab-482d-9b89-53a7645ccd0f"
+        }
+    ],
+    "field_encargado": [],
+    "field_otra_actividad": [],
+    "field_otro_encargado": [
+        {
+            "value": "Yader Orellana"
+        }
+    ]
+}

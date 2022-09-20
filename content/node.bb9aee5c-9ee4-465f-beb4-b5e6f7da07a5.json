@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2021-06-28T03:12:04+00:00",
+            "value": "2022-04-02T02:48:02+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "45377d3b-f5ac-4d61-9bca-94accc26d36a"
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-01T00:52:46+00:00",
+            "value": "2022-04-02T02:48:02+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -92,7 +92,14 @@
     ],
     "field_bpm": [],
     "field_descripcion": [],
-    "field_letra": [],
+    "field_letra": [
+        {
+            "value": "<p>Lev\u00e1ntate, lev\u00e1ntate Se\u00f1or<br \/>\r\nY que tus enemigos huyan delante de ti<br \/>\r\nLev\u00e1ntate, lev\u00e1ntate Se\u00f1or<br \/>\r\nY que tus enemigos huyan delante de ti<\/p>\r\n\r\n<p>M\u00e1s los justos se alegrar\u00e1n<br \/>\r\nCantar\u00e1n con regocijo<br \/>\r\nEl Se\u00f1or se ha levantado<br \/>\r\nHa triunfado con poder<br \/>\r\nM\u00e1s los justos se alegrar\u00e1n<br \/>\r\nCantar\u00e1n con regocijo<br \/>\r\nEl Se\u00f1or se ha levantado<br \/>\r\nHa triunfado con poder<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>El ha cambiado mi lamento<br \/>\r\nEn alabanza<br \/>\r\nHa ce\u00f1ido mi vida con su Santo Esp\u00edritu<br \/>\r\nHa transformado el agua en vino<br \/>\r\nHa derramado su fresca unci\u00f3n<br \/>\r\nY su Esp\u00edritu ministra vino celestial<\/p>\r\n\r\n<p>Hay vino celestial&nbsp;<br \/>\r\nHay vino celestial&nbsp;<br \/>\r\nHay vino celestial&nbsp;<br \/>\r\nHay vino celestial&nbsp;<br \/>\r\nHay vino celestial&nbsp;<br \/>\r\nHay vino celestial<br \/>\r\nHay vino celestial&nbsp;<\/p>\r\n\r\n<p>Se derrama sobre este lugar<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_multitrack": [],
+    "field_recursos": [],
     "field_secuencia": [],
     "field_tags": [],
     "field_tipo": [

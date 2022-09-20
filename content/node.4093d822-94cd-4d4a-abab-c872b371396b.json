@@ -1,0 +1,135 @@
+{
+    "uuid": [
+        {
+            "value": "4093d822-94cd-4d4a-abab-c872b371396b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "coleccion",
+            "target_type": "node_type",
+            "target_uuid": "ce153234-b925-4819-98de-11e2767af89e"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-05-15T02:10:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c77c2a62-9f5e-4f4e-997b-26378e657673"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c77c2a62-9f5e-4f4e-997b-26378e657673"
+        }
+    ],
+    "title": [
+        {
+            "value": "Domingo, Mayo 15 del 2022"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-14T17:46:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-15T02:10:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/coleccion\/domingo-mayo-15-del-2022-1",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_actividades": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "f082721a-e70b-4e18-92ec-6526442074b2"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "04695d1f-71df-40d7-aabb-54f8dbc169ea"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "a8e5a511-93c7-4c28-b850-5a2de0df2ae9"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "66b547e4-7200-4c2d-a92d-2609bb5c6a48"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "f1b131aa-dcf6-4192-8c60-432ba91b9a3d"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "e59f3841-1f3f-4f37-8cb0-6c10492d4dab"
+        }
+    ],
+    "field_bajo": [],
+    "field_bateria": [],
+    "field_descripcion": [],
+    "field_fecha_y_hora": [
+        {
+            "value": "2022-05-15T09:00:00-06:00"
+        }
+    ],
+    "field_guitarra_acustica": [],
+    "field_guitarra_electrica": [],
+    "field_piano_1": [],
+    "field_piano_2": [],
+    "field_voces": [
+        {
+            "target_type": "user",
+            "target_uuid": "0f5dfe20-fa66-4598-89b1-2d2be44e05b8"
+        },
+        {
+            "target_type": "user",
+            "target_uuid": "2b3a8a6e-8b1e-4771-9103-860e6fde10dd"
+        }
+    ]
+}

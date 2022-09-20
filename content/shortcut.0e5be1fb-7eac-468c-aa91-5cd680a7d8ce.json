@@ -1,0 +1,37 @@
+{
+    "uuid": [
+        {
+            "value": "0e5be1fb-7eac-468c-aa91-5cd680a7d8ce"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "shortcut_set": [
+        {
+            "target_id": "default",
+            "target_type": "shortcut_set",
+            "target_uuid": "bc6dd7e9-7bde-4e5e-ad48-2f4de3b4461a"
+        }
+    ],
+    "title": [
+        {
+            "value": "Jesucristo Basta"
+        }
+    ],
+    "weight": [],
+    "link": [
+        {
+            "uri": "internal:\/node\/149",
+            "title": null,
+            "options": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ]
+}

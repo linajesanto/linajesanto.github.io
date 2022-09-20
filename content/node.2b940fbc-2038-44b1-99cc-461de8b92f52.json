@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2020-02-12T03:52:39+00:00",
+            "value": "2022-06-23T17:19:10+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2020-02-12T03:52:39+00:00",
+            "value": "2022-06-23T17:19:10+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -91,8 +91,16 @@
         }
     ],
     "field_bpm": [],
-    "field_descripcion": [],
+    "field_descripcion": [
+        {
+            "value": "<p>Letra en espa\u00f1ol:&nbsp;<a href=\"https:\/\/www.youtube.com\/watch?v=lND830m9i6Y\">https:\/\/www.youtube.com\/watch?v=lND830m9i6Y<\/a><\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
     "field_letra": [],
+    "field_multitrack": [],
+    "field_recursos": [],
     "field_secuencia": [
         {
             "uri": "https:\/\/drive.google.com\/open?id=1DXhscEVEk99Hl4ZNAmUYoY89jogQklRi",
@@ -111,10 +119,15 @@
             "value": "Masculina"
         }
     ],
-    "field_tono": [],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "b4e5e7ab-a2b9-4771-b6fa-a4446946b246"
+        }
+    ],
     "field_video": [
         {
-            "value": "https:\/\/www.youtube.com\/watch?v=qr1IxeFw_YE"
+            "value": "https:\/\/www.youtube.com\/watch?v=1Bw1QEvimTA"
         }
     ]
 }

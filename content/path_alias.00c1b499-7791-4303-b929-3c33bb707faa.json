@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "00c1b499-7791-4303-b929-3c33bb707faa"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/28d11df5-0f28-43e7-82e5-401c31e48c01"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/canciones\/marcos-witt\/vencio"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

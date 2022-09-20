@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1a1202fd-bd24-40ed-b6ee-682222250e87"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/4550ffd8-76c8-4cc8-b505-3a67e388b6f1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/canciones\/abel-zavala\/palabras-de-verdad"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

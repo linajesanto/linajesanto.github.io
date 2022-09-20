@@ -6,7 +6,12 @@ dependencies:
     - field.storage.node.field_actividades
     - node.type.coleccion
   module:
+    - custom_add_another
     - entity_reference_revisions
+third_party_settings:
+  custom_add_another:
+    custom_add_another: ''
+    custom_remove: ''
 id: node.coleccion.field_actividades
 field_name: field_actividades
 entity_type: node

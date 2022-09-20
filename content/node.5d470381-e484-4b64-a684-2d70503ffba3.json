@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-02-14T00:24:08+00:00",
+            "value": "2022-04-26T04:28:01+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-14T00:24:08+00:00",
+            "value": "2022-04-26T04:28:01+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -96,6 +96,14 @@
         {
             "value": "<p><strong>Orden:&nbsp;T V C V2 C2 B B2<\/strong><\/p>\r\n\r\n<p>[V]<br \/>\r\n&nbsp;D\u00edas son estos de El\u00edas,&nbsp;<br \/>\r\n&nbsp;declaran palabra de Dios&nbsp;<br \/>\r\n&nbsp;Y d\u00edas tambi\u00e9n de Mois\u00e9s tu siervo,&nbsp;<br \/>\r\n&nbsp;justicia reinando otra vez||&nbsp;<br \/>\r\n&nbsp;Y aunque libremos batallas,&nbsp;<br \/>\r\n&nbsp;hambruna, carencia y dolor&nbsp;<br \/>\r\n&nbsp;A\u00fan se oye voz que en desierto clama,&nbsp;<br \/>\r\n&nbsp;prepara el camino al Se\u00f1or<\/p>\r\n\r\n<p>[C]<br \/>\r\n&nbsp;He aqu\u00ed Yesh\u00faa viene ya&nbsp;<br \/>\r\n&nbsp;Brillando como el Sol&nbsp;<br \/>\r\n&nbsp;En el cielo lo ver\u00e1s||&nbsp;<br \/>\r\n&nbsp;Declara hoy el a\u00f1o del Se\u00f1or&nbsp;<br \/>\r\n&nbsp;Desde Si\u00f3n lleg\u00f3 la salvaci\u00f3n<\/p>\r\n\r\n<p><br \/>\r\n[V2]<br \/>\r\n&nbsp;D\u00edas de Ezequiel tambi\u00e9n llegan,&nbsp;<br \/>\r\n&nbsp;los huesos se llenan de piel&nbsp;<br \/>\r\n&nbsp;Y d\u00edas tambi\u00e9n de David tu siervo,&nbsp;<br \/>\r\n&nbsp;tu pueblo te alaba a doquier||&nbsp;<br \/>\r\n&nbsp;Son d\u00edas de gran cosecha,&nbsp;<br \/>\r\n&nbsp;los campos ya listos est\u00e1n&nbsp;<br \/>\r\n&nbsp;Somos los obreros de tu vi\u00f1a,&nbsp;<br \/>\r\n&nbsp;declaramos hoy tu verdad&nbsp;<\/p>\r\n\r\n<p>[B]<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir!<br \/>\r\n&nbsp;(x8)||<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir!<br \/>\r\n&nbsp;(x7)||<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir!<br \/>\r\n&nbsp;(x6)||<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir!<br \/>\r\n&nbsp;(x5)||<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir!<br \/>\r\n&nbsp;(x4)||<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir!<br \/>\r\n&nbsp;(x3)||<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir!<br \/>\r\n&nbsp;(x2)||<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir!<\/p>\r\n\r\n<p>[B2]<br \/>\r\n&nbsp;\u00a1Qui\u00e9n fue y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n es y&nbsp;<br \/>\r\n&nbsp;Qui\u00e9n ha de venir&nbsp;<br \/>\r\n&nbsp;Venir, veniiiiiir!<\/p>\r\n\r\n<p>[T]<br \/>\r\n&nbsp;\u266a\u266b\u266c<\/p>\r\n",
             "format": "basic_html"
+        }
+    ],
+    "field_multitrack": [],
+    "field_recursos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=ZJVwZLTC4oU",
+            "title": "Bajo",
+            "options": []
         }
     ],
     "field_secuencia": [

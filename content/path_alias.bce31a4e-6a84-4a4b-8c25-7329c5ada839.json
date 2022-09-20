@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bce31a4e-6a84-4a4b-8c25-7329c5ada839"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/9becd955-83b5-451d-8c44-f003cab95b98"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/canciones\/hillsong-united\/con-todo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

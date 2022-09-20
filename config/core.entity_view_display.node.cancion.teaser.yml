@@ -8,6 +8,8 @@ dependencies:
     - field.field.node.cancion.field_bpm
     - field.field.node.cancion.field_descripcion
     - field.field.node.cancion.field_letra
+    - field.field.node.cancion.field_multitrack
+    - field.field.node.cancion.field_recursos
     - field.field.node.cancion.field_secuencia
     - field.field.node.cancion.field_tags
     - field.field.node.cancion.field_tipo
@@ -28,10 +30,13 @@ content:
     weight: 100
     region: content
 hidden:
+  changed: true
   field_artista: true
   field_bpm: true
   field_descripcion: true
   field_letra: true
+  field_multitrack: true
+  field_recursos: true
   field_secuencia: true
   field_tags: true
   field_tipo: true

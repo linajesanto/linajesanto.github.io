@@ -1,0 +1,74 @@
+{
+    "uid": [
+        {
+            "value": 69
+        }
+    ],
+    "uuid": [
+        {
+            "value": "0e2b360a-63bc-430c-be33-7b509c2cd1eb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "name": [
+        {
+            "value": "Josseling"
+        }
+    ],
+    "mail": [
+        {
+            "value": "josseling@linajesanto.com"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/Managua"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-03-22T01:15:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-03-22T01:15:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "es",
+            "pathauto": 0
+        }
+    ],
+    "user_picture": []
+}

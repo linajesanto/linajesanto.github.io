@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2020-11-12T18:02:48+00:00",
+            "value": "2022-03-05T03:09:25+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "45377d3b-f5ac-4d61-9bca-94accc26d36a"
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-01T00:52:46+00:00",
+            "value": "2022-03-05T03:09:25+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -92,8 +92,21 @@
     ],
     "field_bpm": [],
     "field_descripcion": [],
-    "field_letra": [],
-    "field_secuencia": [],
+    "field_letra": [
+        {
+            "value": "<p>V1<br \/>\r\nEncuentro sanidad&nbsp;<br \/>\r\nEncuentro libertad en tu presencia&nbsp;<br \/>\r\nEncuentro el perd\u00f3n&nbsp;<br \/>\r\nEncuentro salvaci\u00f3n en tu presencia&nbsp;<\/p>\r\n\r\n<p>PRECORO<br \/>\r\nCorreremos hacia ti&nbsp;<br \/>\r\nEl cielo hoy est\u00e1 aqu\u00ed&nbsp;<br \/>\r\nCorreremos hacia ti&nbsp;<br \/>\r\nEl cielo hoy est\u00e1 aqu\u00ed&nbsp;<\/p>\r\n\r\n<p>CORO<br \/>\r\nAmamos tu presencia, oh Dios<br \/>\r\nAmamos tu presencia, oh Dios<br \/>\r\nAmamos tu presencia, oh Dios<br \/>\r\nAmamos tu presencia, oh Dios<\/p>\r\n\r\n<p>\u2014Repetir desde Inicio\u2014<\/p>\r\n\r\n<p>PRECORO<br \/>\r\nCorreremos hacia ti&nbsp;<br \/>\r\nEl cielo hoy est\u00e1 aqu\u00ed&nbsp;<\/p>\r\n\r\n<p>CORO (x2)<br \/>\r\nAmamos tu presencia, oh Dios<br \/>\r\nAmamos tu presencia, oh Dios<br \/>\r\nAmamos tu presencia, oh Dios<br \/>\r\nAmamos tu presencia, oh Dios<\/p>\r\n\r\n<p>PUENTE<br \/>\r\nOh-oh-oh (repetir)<\/p>\r\n\r\n<p>CORO2 (x2)<br \/>\r\nCorremos a alabarte a ti<br \/>\r\nCorremos a la fuente,&nbsp;Tu eres la fuente&nbsp;<\/p>\r\n\r\n<p>CORO3 (x2)<br \/>\r\nAmamos tu presencia, oh Dios<br \/>\r\nAmamos tu presencia, oh Dios<br \/>\r\nAmamos tu presencia, oh Dios<br \/>\r\nAmamos tu presencia, oh Dios<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_multitrack": [],
+    "field_recursos": [],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/file\/d\/1Iylfn2pJr_YKeiUl7O1euouFDHghdxk2\/view?usp=sharing",
+            "title": "",
+            "options": []
+        }
+    ],
     "field_tags": [],
     "field_tipo": [
         {
@@ -105,10 +118,15 @@
             "value": "Masculina"
         }
     ],
-    "field_tono": [],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "b4e5e7ab-a2b9-4771-b6fa-a4446946b246"
+        }
+    ],
     "field_video": [
         {
-            "value": "https:\/\/www.youtube.com\/watch?v=O5cu6xa_cEY&ab_channel=HaciaElCielo"
+            "value": "https:\/\/www.youtube.com\/watch?v=Qd2gtLAy22w"
         }
     ]
 }

@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2021-02-12T17:39:50+00:00",
+            "value": "2022-03-12T01:18:53+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "c77c2a62-9f5e-4f4e-997b-26378e657673"
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2021-02-12T17:39:50+00:00",
+            "value": "2022-03-12T01:18:53+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -92,8 +92,52 @@
     ],
     "field_bpm": [],
     "field_descripcion": [],
-    "field_letra": [],
-    "field_secuencia": [],
+    "field_letra": [
+        {
+            "value": "<p>V1<br \/>\r\nEres Dios sin principio<br \/>\r\nCreador infinito<br \/>\r\nT\u00fa nos viste aqu\u00ed<br \/>\r\nCuando llamaste la tierra y el mundo a existencia<\/p>\r\n\r\n<p>V2<\/p>\r\n\r\n<p>Eres Dios de victoria<br \/>\r\nLa historia es tu historia<br \/>\r\nT\u00fa quien fuiste y es<br \/>\r\nY quien por siempre ser\u00e1, vivir\u00e9 por tu gloria<\/p>\r\n\r\n<p><strong>CORO<br \/>\r\n\u00a1Correr\u00e9!<br \/>\r\nArde fuego en mi coraz\u00f3n<br \/>\r\nNada puede apagar tu amor<br \/>\r\nMi Dios, la gloria te dar\u00e9<br \/>\r\n\u00a1Jes\u00fas!<\/strong><\/p>\r\n\r\n<p>V3<\/p>\r\n\r\n<p>Eres Dios, somos libres<br \/>\r\nEn nosotros t\u00fa vives<br \/>\r\nT\u00fa nos viste aqu\u00ed<br \/>\r\nAntes de resucitar<br \/>\r\nY entregarnos tu promesa<\/p>\r\n\r\n<p><strong>CORO<br \/>\r\n\u00a1Correr\u00e9!<br \/>\r\nArde fuego en mi coraz\u00f3n<br \/>\r\nNada puede apagar tu amor<br \/>\r\nMi Dios, la gloria te dar\u00e9<br \/>\r\n\u00a1Jes\u00fas!<\/strong><\/p>\r\n\r\n<p>\u00a1<strong>Y correr\u00e9!<br \/>\r\nCon mi vida te alabar\u00e9<br \/>\r\nY tu nombre famoso har\u00e9<br \/>\r\nMi Dios, la gloria te dar\u00e9<br \/>\r\n\u00a1Jes\u00fas!<\/strong><\/p>\r\n\r\n<p>\u00a1Te alabar\u00e9!<\/p>\r\n\r\n<p>Ouh, Dios<br \/>\r\nGloria te doy<br \/>\r\nEres digno de alabar<\/p>\r\n\r\n<p><strong>CORO<br \/>\r\n\u00a1Correr\u00e9!<br \/>\r\nArde fuego en mi coraz\u00f3n<br \/>\r\nNada puede apagar tu amor<br \/>\r\nMi Dios, la gloria te dar\u00e9<br \/>\r\n\u00a1Jes\u00fas!<\/strong><\/p>\r\n\r\n<p>\u00a1<strong>Y correr\u00e9!<br \/>\r\nCon mi vida te alabar\u00e9<br \/>\r\nY tu nombre famoso har\u00e9<br \/>\r\nMi Dios, la gloria te dar\u00e9<br \/>\r\n\u00a1Jes\u00fas!<\/strong><\/p>\r\n\r\n<p>\u00a1Jes\u00fas!<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_multitrack": [],
+    "field_recursos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=83Wj1v7grJ8",
+            "title": "Coros",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=0_a0u3dK1bY",
+            "title": "Bateria",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=Iv37NkyfVLA",
+            "title": "Guitarra el\u00e9ctrica",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/youtu.be\/ZsnO8dBs6ws",
+            "title": "Bajo",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/youtu.be\/g0hxAJEN_qE",
+            "title": "Teclados",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=w76jbk3dDOI",
+            "title": "Acustic Guitar",
+            "options": []
+        }
+    ],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/file\/d\/1Y1rkhexRE_ObBLFVaHgCR5J5KSn-XYGI\/view?usp=sharing",
+            "title": "",
+            "options": []
+        }
+    ],
     "field_tags": [],
     "field_tipo": [
         {

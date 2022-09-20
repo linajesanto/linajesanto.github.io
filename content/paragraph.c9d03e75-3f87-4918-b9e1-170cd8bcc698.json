@@ -1,0 +1,54 @@
+{
+    "uuid": [
+        {
+            "value": "c9d03e75-3f87-4918-b9e1-170cd8bcc698"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "item_actividad",
+            "target_type": "paragraphs_type",
+            "target_uuid": "44eb1b89-15eb-46b5-9138-c70c1ee2b8f7"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-09-16T17:00:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "field_actividad": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "dbc1d806-d45b-4472-9489-2c8147f44dd2"
+        }
+    ],
+    "field_encargado": [],
+    "field_otra_actividad": [],
+    "field_otro_encargado": [
+        {
+            "value": "Pastor Erasmo Espinoza"
+        }
+    ]
+}

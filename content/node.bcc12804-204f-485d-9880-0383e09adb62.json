@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2020-01-28T03:05:15+00:00",
+            "value": "2022-03-22T01:13:16+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2020-01-28T03:05:15+00:00",
+            "value": "2022-03-22T01:13:16+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -93,6 +93,8 @@
     "field_bpm": [],
     "field_descripcion": [],
     "field_letra": [],
+    "field_multitrack": [],
+    "field_recursos": [],
     "field_secuencia": [
         {
             "uri": "https:\/\/drive.google.com\/open?id=1ZyeHhiQAc5Yfkp8gg0NNPFIjWDFt7eF6",
@@ -111,7 +113,12 @@
             "value": "Masculina"
         }
     ],
-    "field_tono": [],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8563580d-2168-4ac4-b3cb-58fa67821628"
+        }
+    ],
     "field_video": [
         {
             "value": "https:\/\/www.youtube.com\/watch?v=Wm0O_1Xqn5o"

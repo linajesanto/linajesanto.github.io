@@ -6,6 +6,12 @@ dependencies:
     - field.storage.paragraph.field_actividad
     - paragraphs.paragraphs_type.item_actividad
     - taxonomy.vocabulary.actividad
+  module:
+    - custom_add_another
+third_party_settings:
+  custom_add_another:
+    custom_add_another: ''
+    custom_remove: ''
 id: paragraph.item_actividad.field_actividad
 field_name: field_actividad
 entity_type: paragraph
@@ -24,6 +30,6 @@ settings:
     sort:
       field: name
       direction: asc
-    auto_create: false
+    auto_create: true
     auto_create_bundle: ''
 field_type: entity_reference

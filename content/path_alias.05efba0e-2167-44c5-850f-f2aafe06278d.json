@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "05efba0e-2167-44c5-850f-f2aafe06278d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c0160c86-773b-44f5-be21-f0a369889fdc"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/canciones\/linaje-escogido\/tumbando-fortalezas"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

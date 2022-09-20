@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "ae7289ac-0c4d-4f98-a92b-39b817a206bb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "articulo",
+            "target_type": "node_type",
+            "target_uuid": "565bf9c8-ee8a-418a-bfd7-1de40f8ecb00"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-04-19T15:13:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c77c2a62-9f5e-4f4e-997b-26378e657673"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c77c2a62-9f5e-4f4e-997b-26378e657673"
+        }
+    ],
+    "title": [
+        {
+            "value": "Salida al Norte"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-04-19T14:00:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-04-19T15:13:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "es",
+            "pathauto": 0
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Confirmados:<\/p>\r\n\r\n<ol>\r\n\t<li>Luis<\/li>\r\n\t<li>Josseling<\/li>\r\n\t<li>Aaron<\/li>\r\n\t<li>Esther<\/li>\r\n\t<li>Edys<\/li>\r\n\t<li>Ada<\/li>\r\n\t<li>Jos\u00e9<\/li>\r\n\t<li>Felipe<\/li>\r\n\t<li>Paola<\/li>\r\n<\/ol>\r\n\r\n<p>Sin confirmar:<\/p>\r\n\r\n<ol>\r\n\t<li>Darling<\/li>\r\n<\/ol>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ]
+}

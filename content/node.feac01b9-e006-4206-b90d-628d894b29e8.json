@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2021-10-31T12:06:41+00:00",
+            "value": "2022-03-05T01:46:54+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "45377d3b-f5ac-4d61-9bca-94accc26d36a"
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-01T00:52:47+00:00",
+            "value": "2022-03-05T01:46:54+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -72,11 +72,7 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [
-        {
-            "value": true
-        }
-    ],
+    "revision_translation_affected": [],
     "path": [
         {
             "alias": "\/canciones\/marco-barrientos\/hosanna-marcos-nueva",
@@ -92,7 +88,14 @@
     ],
     "field_bpm": [],
     "field_descripcion": [],
-    "field_letra": [],
+    "field_letra": [
+        {
+            "value": "<p>VERSO<br \/>\r\nLevantamos un clamor<br \/>\r\nPor sanidad y redenci\u00f3n<br \/>\r\nMu\u00e9stranos lo que t\u00fa ves<br \/>\r\nLos secretos de tu coraz\u00f3n<br \/>\r\nUn pueblo unido pide hoy<br \/>\r\nTu libertad y salvaci\u00f3n<br \/>\r\n\u00c1rmanos con tu valor<br \/>\r\nLo que deseamos es revoluci\u00f3n<\/p>\r\n\r\n<p><strong>Que el cielo se parta en dos<br \/>\r\nIn\u00fandanos<br \/>\r\nEn el desierto broten r\u00edos<br \/>\r\nVida sopla hoy<\/strong><\/p>\r\n\r\n<p><strong>CORO (x2)<\/strong><\/p>\r\n\r\n<p><strong>Hosanna al rey de salvaci\u00f3n<br \/>\r\nHosanna al Dios alt\u00edsimo<br \/>\r\nHosanna<br \/>\r\nJesucristo, Jesucristo es rey<\/strong><\/p>\r\n\r\n<p>\u2014Repetir desde inicio\u2014<\/p>\r\n\r\n<p>Hosanna,&nbsp;Hosanna<br \/>\r\nHosanna al rey &nbsp;(x4)<\/p>\r\n\r\n<p><strong>CORO (x2)<\/strong><\/p>\r\n\r\n<p><strong>Hosanna al rey de salvaci\u00f3n<br \/>\r\nHosanna al Dios alt\u00edsimo<br \/>\r\nHosanna<br \/>\r\nJesucristo, Jesucristo es rey<\/strong><\/p>\r\n\r\n<p>FINAL<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_multitrack": [],
+    "field_recursos": [],
     "field_secuencia": [
         {
             "uri": "https:\/\/drive.google.com\/file\/d\/1Qs66vPeaHXfayPRnpP3G8S3Pz-1wdVrn\/view?usp=sharing",

@@ -38,7 +38,7 @@ third_party_settings:
       label: Asignaciones
       parent_name: ''
       region: content
-      weight: 1
+      weight: 2
       format_type: fieldset
       format_settings:
         classes: ''
@@ -51,7 +51,7 @@ third_party_settings:
       label: Actividades
       parent_name: ''
       region: content
-      weight: 2
+      weight: 3
       format_type: fieldset
       format_settings:
         classes: ''
@@ -64,7 +64,7 @@ third_party_settings:
       label: Notas
       parent_name: ''
       region: content
-      weight: 3
+      weight: 4
       format_type: fieldset
       format_settings:
         classes: ''
@@ -76,6 +76,16 @@ targetEntityType: node
 bundle: coleccion
 mode: default
 content:
+  changed:
+    type: timestamp_ago
+    label: inline
+    settings:
+      future_format: '@interval hence'
+      past_format: '@interval ago'
+      granularity: 2
+    third_party_settings: {  }
+    weight: 1
+    region: content
   field_actividades:
     type: views_field_formatter
     label: hidden
@@ -145,7 +155,7 @@ content:
     settings:
       link: false
     third_party_settings: {  }
-    weight: 7
+    weight: 8
     region: content
   field_piano_2:
     type: entity_reference_label
@@ -153,7 +163,7 @@ content:
     settings:
       link: false
     third_party_settings: {  }
-    weight: 8
+    weight: 9
     region: content
   field_voces:
     type: entity_reference_label

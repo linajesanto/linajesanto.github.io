@@ -3,7 +3,7 @@ langcode: es
 status: true
 dependencies: {  }
 id: cancion_item
-label: 'Canción ítem'
+label: Canción
 icon_uuid: null
 icon_default: null
 description: ''

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1ab96a35-b9fc-4c7c-adfe-e6f54c4f2c1d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/fa7d86fc-0487-4fdf-a5a2-f1f116d45d53"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/canciones\/dahaira\/yo-navegare"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

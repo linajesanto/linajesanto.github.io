@@ -1,0 +1,140 @@
+{
+    "uuid": [
+        {
+            "value": "486a2fe0-0ae8-4218-9954-213c999520a0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "coleccion",
+            "target_type": "node_type",
+            "target_uuid": "ce153234-b925-4819-98de-11e2767af89e"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-05-20T19:17:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c77c2a62-9f5e-4f4e-997b-26378e657673"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c77c2a62-9f5e-4f4e-997b-26378e657673"
+        }
+    ],
+    "title": [
+        {
+            "value": "Viernes, Mayo 20 del 2022"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-20T01:51:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-20T19:17:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/coleccion\/viernes-mayo-20-del-2022",
+            "langcode": "es",
+            "pathauto": 1
+        }
+    ],
+    "field_actividades": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "1fbcbecb-96b0-4a50-a159-1c0cdc3c07ff"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "421ce20f-5133-4906-950a-85d66433986e"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "0dd007b1-2bdb-47a8-82e0-5c5de62d07b9"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "87eee15a-3bd6-46c8-83bd-af2e1f7d0c4c"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "d417d824-5507-4811-921e-a5ecb1936489"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "2077e423-1012-49e0-949e-0f729552ea64"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "fd0bcd1d-6f23-4b3f-8e3e-0efa3d90d511"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "430b613d-1f63-4bca-a45f-c85ce8667d1e"
+        }
+    ],
+    "field_bajo": [],
+    "field_bateria": [],
+    "field_descripcion": [
+        {
+            "value": "<p>Cambiare' mi tristesa<br \/>\r\nDe gloria en glorai<br \/>\r\nEn el nombre de Jesus<br \/>\r\nGrande y fuerte<br \/>\r\nLa cosecha<\/p>\r\n\r\n<p>Gloria en lo alto<br \/>\r\nDesde mi interior<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_fecha_y_hora": [
+        {
+            "value": "2022-05-20T18:00:00-06:00"
+        }
+    ],
+    "field_guitarra_acustica": [],
+    "field_guitarra_electrica": [],
+    "field_piano_1": [],
+    "field_piano_2": [],
+    "field_voces": []
+}

@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-02-16T03:48:44+00:00",
+            "value": "2022-03-15T13:45:17+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-16T03:48:44+00:00",
+            "value": "2022-03-15T13:45:17+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/canciones\/brandon-lake\/ti-adoramos",
+            "alias": "\/canciones\/bethel-music\/ti-adoramos",
             "langcode": "es",
             "pathauto": 1
         }
@@ -87,7 +87,7 @@
     "field_artista": [
         {
             "target_type": "taxonomy_term",
-            "target_uuid": "2e19da6b-13a8-4670-b2dc-0ae3d6296cb5"
+            "target_uuid": "adb58de0-265e-40e2-9b67-88c2157b7406"
         }
     ],
     "field_bpm": [],
@@ -104,7 +104,20 @@
             "format": "basic_html"
         }
     ],
-    "field_secuencia": [],
+    "field_multitrack": [],
+    "field_recursos": [],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/file\/d\/1_OPn9PzjyRwVjkokVSQvIKkDCUq3MjBC\/view?usp=sharing",
+            "title": "",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/drive.google.com\/file\/d\/1pqRs9OWZmi5IWIY9uawQQLu1Hlwuyytx\/view?usp=sharing",
+            "title": "D",
+            "options": []
+        }
+    ],
     "field_tags": [],
     "field_tipo": [
         {

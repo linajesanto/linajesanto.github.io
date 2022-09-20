@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2020-02-20T17:46:47+00:00",
+            "value": "2022-03-12T01:58:50+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "45377d3b-f5ac-4d61-9bca-94accc26d36a"
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-01T00:52:46+00:00",
+            "value": "2022-03-12T01:58:50+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -91,11 +91,45 @@
         }
     ],
     "field_bpm": [],
-    "field_descripcion": [],
+    "field_descripcion": [
+        {
+            "value": "<p>Mi oraci\u00f3n en el desierto<br \/>\r\nCuando todo en m\u00ed seco est\u00e1<br \/>\r\nMi oraci\u00f3n en la necesidad<br \/>\r\nMi Dios todo lo suplir\u00e1<\/p>\r\n\r\n<p>Mi oraci\u00f3n en el fuego<br \/>\r\nEn debilidad o en dolor<br \/>\r\nCuando en tormentas probada es mi fe<br \/>\r\nEn ti siempre confiar\u00e9<\/p>\r\n\r\n<p><strong>CORO<br \/>\r\nTe alabar\u00e9, te alabar\u00e9<br \/>\r\nContra mi nada prevalecer\u00e1<br \/>\r\nMe gozar\u00e9, declarar\u00e9<br \/>\r\nDios es mi triunfo y \u00e9l est\u00e1 aqu\u00ed<\/strong><\/p>\r\n\r\n<p>Mi oraci\u00f3n en la batalla<br \/>\r\nCuando el triunfo no puedo ver<br \/>\r\nSoy coheredero y conquistador<br \/>\r\nEn Cristo permanecer\u00e9<\/p>\r\n\r\n<p><strong>CORO<br \/>\r\nTe alabar\u00e9, te alabar\u00e9<br \/>\r\nContra mi nada prevalecer\u00e1<br \/>\r\nMe gozar\u00e9, declarar\u00e9<br \/>\r\nDios es mi triunfo y \u00e9l est\u00e1 aqu\u00ed<\/strong><\/p>\r\n\r\n<p>En todo lugar<br \/>\r\nEn todo el tiempo<br \/>\r\nT\u00fa eres Dios<br \/>\r\nTengo motivo al cantar<br \/>\r\nEs mi deseo adorarte<\/p>\r\n\r\n<p>En todo lugar<br \/>\r\nEn todo el tiempo<br \/>\r\nT\u00fa eres Dios<br \/>\r\nTengo motivo al cantar<br \/>\r\nEs mi deseo adorarte<\/p>\r\n\r\n<p>En todo lugar<br \/>\r\nEn todo el tiempo<br \/>\r\nT\u00fa eres Dios<br \/>\r\nTengo motivo al cantar<br \/>\r\nEs mi deseo adorarte<\/p>\r\n\r\n<p>En todo lugar<br \/>\r\nEn todo el tiempo<br \/>\r\nT\u00fa eres Dios<br \/>\r\nTengo motivo al cantar<br \/>\r\nEs mi deseo adorarte<\/p>\r\n\r\n<p>Te alabar\u00e9, te alabar\u00e9<br \/>\r\nContra mi nada prevalecer\u00e1<br \/>\r\nMe gozar\u00e9, declarar\u00e9<br \/>\r\nDios es mi triunfo y \u00e9l est\u00e1 aqu\u00ed<\/p>\r\n\r\n<p>Mi oraci\u00f3n en la cosecha<br \/>\r\nAbundan tu gracia y favor<br \/>\r\nSoy llena para ser vaciado otra vez<br \/>\r\nLo que recib\u00ed sembrar\u00e9<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
     "field_letra": [],
+    "field_multitrack": [],
+    "field_recursos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=pY0N2zYbKWQ",
+            "title": "Electric Guitar",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=0jj1NWvUgcA",
+            "title": "Acustic Guitar",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=9BY2CCqfLdQ",
+            "title": "Bateria",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/youtu.be\/nChHGUtyTNg",
+            "title": "Piano",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/youtu.be\/mWNHlJs0X0Q",
+            "title": "Bajo",
+            "options": []
+        }
+    ],
     "field_secuencia": [
         {
-            "uri": "https:\/\/drive.google.com\/open?id=1OXE3L-6JRbUKs0F2Gkwdwz6GHS5Y-xt8",
+            "uri": "https:\/\/drive.google.com\/file\/d\/1CqQwkzxC2OPb-hGQ55GDC0g3N0eNn67B\/view?usp=sharing",
             "title": "",
             "options": []
         }
@@ -111,7 +145,12 @@
             "value": "Femenina"
         }
     ],
-    "field_tono": [],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "309c3d5b-0c9a-4e8b-8f89-4042ba4f5fd1"
+        }
+    ],
     "field_video": [
         {
             "value": "https:\/\/www.youtube.com\/watch?v=pOtCxDk6P6Q"

@@ -8,7 +8,7 @@ slogan: 'Somos Linaje Santo'
 page:
   403: /user/login
   404: ''
-  front: /canciones
+  front: /proximo-evento
 admin_compact_mode: false
 weight_select_max: 100
 default_langcode: es

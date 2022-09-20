@@ -5,8 +5,12 @@ dependencies:
   config:
     - field.storage.node.field_guitarra_electrica
     - node.type.coleccion
-  content:
-    - 'user:user:5abe7d29-b959-4c2f-bdcc-073fa45a4be7'
+  module:
+    - custom_add_another
+third_party_settings:
+  custom_add_another:
+    custom_add_another: ''
+    custom_remove: ''
 id: node.coleccion.field_guitarra_electrica
 field_name: field_guitarra_electrica
 entity_type: node

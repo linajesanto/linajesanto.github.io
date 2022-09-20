@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-02-23T12:46:08+00:00",
+            "value": "2022-09-09T16:56:05+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-23T12:46:08+00:00",
+            "value": "2022-09-09T16:56:05+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -98,6 +98,12 @@
             "format": "basic_html"
         }
     ],
+    "field_multitrack": [
+        {
+            "value": true
+        }
+    ],
+    "field_recursos": [],
     "field_secuencia": [
         {
             "uri": "https:\/\/drive.google.com\/file\/d\/1j6005vyMhgpk-lIsR1S0eVMEMjOnlu7l\/view?usp=sharing",

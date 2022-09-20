@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2021-02-06T04:48:27+00:00",
+            "value": "2022-04-21T02:39:06+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2021-02-06T04:48:27+00:00",
+            "value": "2022-04-21T02:39:06+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/canciones\/coalo-zamorano\/poder-de-tu-victoria",
+            "alias": "\/canciones\/israel-houghton\/poder-de-tu-victoria",
             "langcode": "es",
             "pathauto": 1
         }
@@ -87,7 +87,7 @@
     "field_artista": [
         {
             "target_type": "taxonomy_term",
-            "target_uuid": "c4dfda93-314d-4f97-ac66-e3c107ff6003"
+            "target_uuid": "5d06feb7-a2c4-402e-b171-dd1273362abe"
         }
     ],
     "field_bpm": [],
@@ -102,6 +102,19 @@
         {
             "value": "<p><em>Orden:&nbsp;C V C2 V2 C2 B C3 B2<\/em><\/p>\r\n\r\n<p>[C]<br \/>\r\n&nbsp;Aplaudan hoy,<br \/>\r\n&nbsp;pueblos todos<br \/>\r\n&nbsp;\u00a1gritad al Se\u00f1or!||<br \/>\r\n&nbsp;Con voz de victoria,<br \/>\r\n&nbsp;oh oh oh!!&nbsp;<br \/>\r\n&nbsp;Con voz de victoria,<br \/>\r\n&nbsp;oh oh oh!!&nbsp;<br \/>\r\n&nbsp;<br \/>\r\n[V]<br \/>\r\n&nbsp;T\u00fa eres el Eterno Dios<br \/>\r\n&nbsp;Brilla hoy tu luz,<br \/>\r\n&nbsp;Que todos puedan ver, \u00a1S\u00ed!||<br \/>\r\n&nbsp;<br \/>\r\n&nbsp;Nos diste esperanza Dios&nbsp;<br \/>\r\n&nbsp;Venciste en la Cruz&nbsp;<br \/>\r\n&nbsp;Para salvarnos Rey&nbsp;<br \/>\r\n&nbsp;Aleluya, \u00a1Cristo vivo est\u00e1!&nbsp;<br \/>\r\n&nbsp;<br \/>\r\n[C2]<br \/>\r\n&nbsp;--<br \/>\r\n&nbsp;Aplaudan hoy,<br \/>\r\n&nbsp;pueblos todos<br \/>\r\n&nbsp;\u00a1gritad al Se\u00f1or!||<br \/>\r\n&nbsp;-<br \/>\r\n&nbsp;Aplaudan hoy,<br \/>\r\n&nbsp;pueblos todos<br \/>\r\n&nbsp;\u00a1gritad al Se\u00f1or!||<br \/>\r\n&nbsp;<br \/>\r\n&nbsp;Con voz de victoria,<br \/>\r\n&nbsp;oh oh oh!!|<br \/>\r\n&nbsp;Con voz de victoria,<br \/>\r\n&nbsp;oh oh oh!!&nbsp;<br \/>\r\n&nbsp;<br \/>\r\n[C3]<br \/>\r\n&nbsp;--<br \/>\r\n&nbsp;Aplaudan hoy,<br \/>\r\n&nbsp;pueblos todos<br \/>\r\n&nbsp;\u00a1gritad al Se\u00f1or!||<br \/>\r\n&nbsp;-<br \/>\r\n&nbsp;Aplaudan hoy,<br \/>\r\n&nbsp;pueblos todos<br \/>\r\n&nbsp;\u00a1gritad al Se\u00f1or!|<br \/>\r\n&nbsp;Con voz de victoria!<br \/>\r\n&nbsp;<br \/>\r\n[V2]<br \/>\r\n&nbsp;Nos diste esperanza Dios&nbsp;<br \/>\r\n&nbsp;Venciste en la Cruz&nbsp;<br \/>\r\n&nbsp;Para salvarnos Rey&nbsp;<br \/>\r\n&nbsp;Aleluya, \u00a1Cristo vivo est\u00e1!&nbsp;<br \/>\r\n&nbsp;vivo est\u00e1! vivo est\u00e1!&nbsp;<br \/>\r\n&nbsp;<br \/>\r\n[B]<br \/>\r\n&nbsp;--<br \/>\r\n&nbsp;Oh oh oh,<br \/>\r\n&nbsp;vives T\u00fa, vives T\u00fa en m\u00ed,&nbsp;<br \/>\r\n&nbsp;Es el poder de tu Victoria.||<br \/>\r\n&nbsp;--<br \/>\r\n&nbsp;Oh oh oh, vivo yo,<br \/>\r\n&nbsp;vivo yo en Ti&nbsp;<br \/>\r\n&nbsp;Es el poder de tu Victoria||<br \/>\r\n&nbsp;<br \/>\r\n&nbsp;-<br \/>\r\n&nbsp;Oh oh oh,<br \/>\r\n&nbsp;vives T\u00fa, vives T\u00fa en m\u00ed,&nbsp;<br \/>\r\n&nbsp;Es el poder de tu Victoria.||<br \/>\r\n&nbsp;-<br \/>\r\n&nbsp;Oh oh oh, vivo yo,<br \/>\r\n&nbsp;vivo yo en Ti&nbsp;<br \/>\r\n&nbsp;Es el poder de tu Victoria<br \/>\r\n&nbsp;<br \/>\r\n&nbsp;<br \/>\r\n[B2]<br \/>\r\n&nbsp;--<br \/>\r\n&nbsp;Vives T\u00fa, vives T\u00fa en m\u00ed,&nbsp;<br \/>\r\n&nbsp;Es el poder de tu Victoria.||<br \/>\r\n&nbsp;--<br \/>\r\n&nbsp;Oh oh oh, vivo yo,<br \/>\r\n&nbsp;vivo yo en Ti&nbsp;<br \/>\r\n&nbsp;Es el poder de tu Victoria<br \/>\r\n&nbsp;<\/p>\r\n",
             "format": "basic_html"
+        }
+    ],
+    "field_multitrack": [],
+    "field_recursos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=itd2VkdeCt8",
+            "title": "Bajo",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=0auAF_KHNQg",
+            "title": "Bater\u00eda",
+            "options": []
         }
     ],
     "field_secuencia": [

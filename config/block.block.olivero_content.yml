@@ -1,4 +1,4 @@
-uuid: 81feace1-bf1b-4d46-9fa4-e0e22ac23013
+uuid: d1b9eac9-cd08-43c5-a580-ac7f597ae0a1
 langcode: es
 status: true
 dependencies:
@@ -11,12 +11,12 @@ _core:
 id: olivero_content
 theme: olivero
 region: content
-weight: -3
+weight: 0
 provider: null
 plugin: system_main_block
 settings:
   id: system_main_block
-  label: 'Contenido principal de la página'
+  label: 'Main page content'
   label_display: '0'
   provider: system
 visibility: {  }

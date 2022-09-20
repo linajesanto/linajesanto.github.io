@@ -1,0 +1,54 @@
+{
+    "uuid": [
+        {
+            "value": "7b300320-4107-4369-9ac1-eae9e4b7a8f4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "item_actividad",
+            "target_type": "paragraphs_type",
+            "target_uuid": "44eb1b89-15eb-46b5-9138-c70c1ee2b8f7"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-09-11T17:35:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "field_actividad": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "dfe061c3-6acf-4fee-a2c4-eab933cfceee"
+        }
+    ],
+    "field_encargado": [],
+    "field_otra_actividad": [],
+    "field_otro_encargado": [
+        {
+            "value": "Isa\u00edas P\u00e9rez"
+        }
+    ]
+}

@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2021-04-14T02:48:05+00:00",
+            "value": "2022-03-26T02:05:52+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2021-04-14T02:48:05+00:00",
+            "value": "2022-03-26T02:05:52+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -98,6 +98,8 @@
             "format": "basic_html"
         }
     ],
+    "field_multitrack": [],
+    "field_recursos": [],
     "field_secuencia": [],
     "field_tags": [],
     "field_tipo": [
@@ -113,7 +115,7 @@
     "field_tono": [
         {
             "target_type": "taxonomy_term",
-            "target_uuid": "8013cbe0-9b82-4d9c-ae72-f766292c49e9"
+            "target_uuid": "f6967910-d030-4320-b0f4-8841b3d4f126"
         }
     ],
     "field_video": [

@@ -6,6 +6,12 @@ dependencies:
     - field.storage.node.field_tags
     - node.type.cancion
     - taxonomy.vocabulary.tags
+  module:
+    - custom_add_another
+third_party_settings:
+  custom_add_another:
+    custom_add_another: ''
+    custom_remove: ''
 id: node.cancion.field_tags
 field_name: field_tags
 entity_type: node

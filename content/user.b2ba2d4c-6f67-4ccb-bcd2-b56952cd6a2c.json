@@ -1,0 +1,74 @@
+{
+    "uid": [
+        {
+            "value": 70
+        }
+    ],
+    "uuid": [
+        {
+            "value": "b2ba2d4c-6f67-4ccb-bcd2-b56952cd6a2c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "name": [
+        {
+            "value": "Gamaliel"
+        }
+    ],
+    "mail": [
+        {
+            "value": "gama@linajesanto.com"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/Managua"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-03-28T01:53:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-03-28T01:53:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "es",
+            "pathauto": 0
+        }
+    ],
+    "user_picture": []
+}

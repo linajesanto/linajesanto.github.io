@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d33d466a-6ed3-4831-a378-94fcf647d965"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a10c2f84-fa04-4689-8225-98abc421efd9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/canciones\/barak\/libre-soy"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

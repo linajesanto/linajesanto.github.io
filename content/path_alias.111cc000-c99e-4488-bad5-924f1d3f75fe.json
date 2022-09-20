@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "111cc000-c99e-4488-bad5-924f1d3f75fe"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8b91aa7f-b800-4e5a-be44-9ef7dbfe2136"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/canciones\/marco-barrientos\/agnus-dei"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

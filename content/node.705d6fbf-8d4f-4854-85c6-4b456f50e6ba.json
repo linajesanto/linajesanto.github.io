@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-02-03T21:05:29+00:00",
+            "value": "2022-04-06T14:51:40+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-03T21:05:29+00:00",
+            "value": "2022-04-06T14:51:40+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -96,6 +96,29 @@
         {
             "value": "<p>[V]<br \/>\r\n&nbsp;Yo, quiero ver&nbsp;<br \/>\r\n&nbsp;tu luz brillando en m\u00ed,<br \/>\r\n&nbsp;atreves de m\u00ed||<br \/>\r\n&nbsp;Y ser un altar<br \/>\r\n&nbsp;que todos puedan ver,<br \/>\r\n&nbsp;que todos oigan que<br \/>\r\n&nbsp;<br \/>\r\n[P]<br \/>\r\n&nbsp;--<br \/>\r\n&nbsp;Tu eres vida, la esperanza<br \/>\r\n&nbsp;perfecta gracia que&nbsp;<br \/>\r\n&nbsp;me ha rescatado||<br \/>\r\n&nbsp;-<br \/>\r\n&nbsp;Tu eres vida, la esperanza<br \/>\r\n&nbsp;perfecta gracia que<br \/>\r\n&nbsp;me ha rescatado<br \/>\r\n[C]<br \/>\r\n&nbsp;--<br \/>\r\n&nbsp;Ya no vivo yo,<br \/>\r\n&nbsp;Cristo vive en m\u00ed<br \/>\r\n&nbsp;barro quiero ser,<br \/>\r\n&nbsp;en tus manos||<br \/>\r\n&nbsp;-<br \/>\r\n&nbsp;Ya no vivo yo,<br \/>\r\n&nbsp;Cristo vive en m\u00ed&nbsp;<br \/>\r\n&nbsp;barro quiero ser,<br \/>\r\n&nbsp;en tus manos||<br \/>\r\n&nbsp;<br \/>\r\n&nbsp;De Gloria en gloria&nbsp;<br \/>\r\n&nbsp;te veo oh Dios||<br \/>\r\n&nbsp;De Gloria en gloria&nbsp;<br \/>\r\n&nbsp;Transformado soy<br \/>\r\n&nbsp;por tu esp\u00edritu<br \/>\r\n[B]<br \/>\r\n&nbsp;----<br \/>\r\n&nbsp;De Gloria en gloria&nbsp;<br \/>\r\n&nbsp;te veo oh Dios||<br \/>\r\n&nbsp;---<br \/>\r\n&nbsp;De Gloria en gloria&nbsp;<br \/>\r\n&nbsp;te veo oh Dios||<br \/>\r\n&nbsp;--<br \/>\r\n&nbsp;De Gloria en gloria&nbsp;<br \/>\r\n&nbsp;te veo oh Dios||<br \/>\r\n&nbsp;-<br \/>\r\n&nbsp;De Gloria en gloria&nbsp;<br \/>\r\n&nbsp;te veo oh Dios<\/p>\r\n",
             "format": "basic_html"
+        }
+    ],
+    "field_multitrack": [],
+    "field_recursos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=_RfowTHJ1QY",
+            "title": "Ac\u00fastica",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=EFr1toIEgyo",
+            "title": "Bajo",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=iAVku8j-ndg",
+            "title": "Bater\u00eda",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=TcgW9YhtzzE",
+            "title": "Voces",
+            "options": []
         }
     ],
     "field_secuencia": [

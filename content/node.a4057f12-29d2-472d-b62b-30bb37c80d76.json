@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-01-29T20:19:32+00:00",
+            "value": "2022-04-06T14:33:00+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "45377d3b-f5ac-4d61-9bca-94accc26d36a"
+            "target_uuid": "c77c2a62-9f5e-4f4e-997b-26378e657673"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-01T00:52:47+00:00",
+            "value": "2022-04-06T14:33:00+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -96,6 +96,29 @@
         {
             "value": "<p>Eres t\u00fa la \u00fanica raz\u00f3n de mi adoraci\u00f3n, oh Jes\u00fas<br \/>\r\nEres t\u00fa la esperanza que anhel\u00e9 tener, oh Jes\u00fas<br \/>\r\nConfi\u00e9 en ti, me has ayudado<br \/>\r\nTu salvaci\u00f3n me has regalado<\/p>\r\n\r\n<p>Hoy hay gozo en mi coraz\u00f3n<br \/>\r\nCon mi canto te alabar\u00e9<\/p>\r\n\r\n<p>Te alabar\u00e9, te glorificar\u00e9<br \/>\r\nTe alabar\u00e9 mi buen Jes\u00fas<\/p>\r\n\r\n<p>Te alabar\u00e9, te glorificar\u00e9<br \/>\r\nTe alabar\u00e9 mi buen Jes\u00fas<\/p>\r\n\r\n<p>Eres t\u00fa la \u00fanica raz\u00f3n de mi adoraci\u00f3n, oh Jes\u00fas<br \/>\r\nEres t\u00fa la esperanza que anhel\u00e9 tener, oh Jes\u00fas<br \/>\r\nConfi\u00e9 en ti, me has ayudado<br \/>\r\nTu salvaci\u00f3n me has regalado<\/p>\r\n\r\n<p>Hoy hay gozo en mi coraz\u00f3n<br \/>\r\nCon mi canto te alabar\u00e9<br \/>\r\nDios te oiga<\/p>\r\n\r\n<p>Te alabar\u00e9, te glorificar\u00e9<br \/>\r\nTe alabar\u00e9 mi buen Jes\u00fas<br \/>\r\nS\u00ed, mi buen Jes\u00fas te alabar\u00e9<\/p>\r\n\r\n<p>Te alabar\u00e9, te glorificar\u00e9<br \/>\r\nTe alabar\u00e9 mi buen Jes\u00fas<\/p>\r\n\r\n<p>Oh, en todo tiempo<br \/>\r\nDe d\u00eda y de noche<br \/>\r\nDurante todas las \u00e9pocas de mi vida<br \/>\r\nYo te alabar\u00e9 Jes\u00fas y te cantar\u00e9 a ti<br \/>\r\nPues solo t\u00fa eres digno de recibirlo Se\u00f1or<br \/>\r\nOh, en todo tiempo Se\u00f1or<br \/>\r\nMi alma te alabar\u00e1<\/p>\r\n\r\n<p>En todo tiempo te alabar\u00e9<br \/>\r\nEn todo el tiempo<br \/>\r\nEn todo tiempo te adorar\u00e9<br \/>\r\n\u00a1Uh! S\u00ed Se\u00f1or<br \/>\r\nTe exaltamos<br \/>\r\nNos gozamos en ti<br \/>\r\nCon mi Se\u00f1or<br \/>\r\nEn todo tiempo, oh Se\u00f1or<\/p>\r\n\r\n<p>Te alabar\u00e9, te glorificar\u00e9<br \/>\r\nTe alabar\u00e9 mi buen Jes\u00fas<br \/>\r\nS\u00ed mi buen Se\u00f1or, mi buen Se\u00f1or<\/p>\r\n\r\n<p>Te alabar\u00e9, te glorificar\u00e9<br \/>\r\nTe alabar\u00e9 mi buen Jes\u00fas<\/p>\r\n\r\n<p>Te alabar\u00e9, te glorificar\u00e9<br \/>\r\nTe alabar\u00e9 mi buen Jes\u00fas<\/p>\r\n",
             "format": "basic_html"
+        }
+    ],
+    "field_multitrack": [],
+    "field_recursos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=TokcNuoY1ts",
+            "title": "Tutorial de bajo",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/results?search_query=te+alabare+mi+buen+jesus+guitarra+acustica++tutorial",
+            "title": "Tutorial de guitarra ac\u00fastica - Version de Danilo",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=g3HIAldqA2o",
+            "title": "Tutoria de bater\u00eda",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=wmNPwEDXut8",
+            "title": "Voces",
+            "options": []
         }
     ],
     "field_secuencia": [

@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2021-12-11T01:31:13+00:00",
+            "value": "2022-03-05T01:11:01+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "45377d3b-f5ac-4d61-9bca-94accc26d36a"
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-01T00:52:46+00:00",
+            "value": "2022-03-05T01:11:01+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -94,10 +94,12 @@
     "field_descripcion": [],
     "field_letra": [
         {
-            "value": "<p>Grita al Se\u00f1or con voz de victoria<br \/>\r\nCanta alabanza al Rey de Gloria<br \/>\r\nGrita al Se\u00f1or con voz de victoria<br \/>\r\nCanta alabanza al Rey de Gloria<\/p>\r\n\r\n<p>Aleluya sea aquel que nos caus\u00f3<br \/>\r\nSer vencedor en su amor<br \/>\r\nOh, oh-oh, oh, oh-oh<br \/>\r\nSolo en El podemos vencer<br \/>\r\nOh, oh-oh, oh, oh-oh<br \/>\r\nEs invencible nuestro Rey<\/p>\r\n\r\n<p>Grita al Se\u00f1or con voz de victoria<br \/>\r\nCanta alabanza al Rey de Gloria<br \/>\r\nGrita al Se\u00f1or con voz de victoria<br \/>\r\nCanta alabanza al Rey de Gloria<\/p>\r\n\r\n<p>Aleluya sea aquel que nos caus\u00f3<br \/>\r\nSer vencedor en su amor<br \/>\r\nOh, oh-oh, oh, oh-oh<br \/>\r\nSolo en El podemos vencer<br \/>\r\nOh, oh-oh, oh, oh-oh<br \/>\r\nEs invencible nuestro Rey<\/p>\r\n\r\n<p>Oh, oh-oh, oh, oh-oh<br \/>\r\nSolo en El podemos vencer<br \/>\r\nOh, oh-oh, oh, oh-oh<br \/>\r\nEs invencible nuestro Rey<\/p>\r\n\r\n<p>Oh, oh-oh, oh, oh-oh<br \/>\r\nSolo en El podemos vencer<br \/>\r\nOh, oh-oh, oh, oh-oh<br \/>\r\nEs invencible nuestro Rey<\/p>\r\n\r\n<p>Oh, oh-oh, oh, oh-oh<br \/>\r\nSolo en El podemos vencer<br \/>\r\nOh, oh-oh, oh, oh-oh<br \/>\r\nEs invencible nuestro Rey<\/p>\r\n",
+            "value": "<p>VERSO (Bis)<br \/>\r\nGrita al Se\u00f1or con voz de victoria<br \/>\r\nCanta alabanza al Rey de Gloria<\/p>\r\n\r\n<p>PRE-CORO<\/p>\r\n\r\n<p>Aleluya sea aquel que nos caus\u00f3<br \/>\r\nSer vencedor en su amor<\/p>\r\n\r\n<p>CORO<br \/>\r\n<strong>Oh, oh-oh, oh, oh-oh<\/strong><br \/>\r\nSolo en El podemos vencer<br \/>\r\n<strong>Oh, oh-oh, oh, oh-oh<\/strong><br \/>\r\nEs invencible nuestro Rey<\/p>\r\n\r\n<p>VERSO (Bis)<\/p>\r\n\r\n<p>Grita al Se\u00f1or con voz de victoria<br \/>\r\nCanta alabanza al Rey de Gloria<\/p>\r\n\r\n<p>Aleluya sea aquel que nos caus\u00f3<br \/>\r\nSer vencedor en su amor<\/p>\r\n\r\n<p>CORO (x2)<br \/>\r\n<strong>Oh, oh-oh, oh, oh-oh<\/strong><br \/>\r\nSolo en El podemos vencer<br \/>\r\n<strong>Oh, oh-oh, oh, oh-oh<\/strong><br \/>\r\nEs invencible nuestro Rey<\/p>\r\n\r\n<p>INSTRUMENTAL<\/p>\r\n\r\n<p>CORO (x2)<br \/>\r\n<strong>Oh, oh-oh, oh, oh-oh<\/strong><br \/>\r\nSolo en El podemos vencer<br \/>\r\n<strong>Oh, oh-oh, oh, oh-oh<\/strong><br \/>\r\nEs invencible nuestro Rey<\/p>\r\n",
             "format": "basic_html"
         }
     ],
+    "field_multitrack": [],
+    "field_recursos": [],
     "field_secuencia": [
         {
             "uri": "https:\/\/drive.google.com\/file\/d\/1_Qkd8Bh-Q5wVY-PQtBy32ZSGJDa4zgfv\/view?usp=sharing",

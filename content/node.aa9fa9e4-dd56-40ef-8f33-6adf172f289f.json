@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2021-06-24T19:27:57+00:00",
+            "value": "2022-03-05T01:59:55+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "45377d3b-f5ac-4d61-9bca-94accc26d36a"
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-01T00:52:46+00:00",
+            "value": "2022-03-05T01:59:55+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -94,11 +94,19 @@
     "field_descripcion": [],
     "field_letra": [
         {
-            "value": "<p>&nbsp;&lt;presentation&gt;V1 C1 V2 C1 P C1 C1 &lt;\/presentation&gt;<\/p>\r\n\r\n<p>&lt;lyrics&gt;[V1]<br \/>\r\n&nbsp;Eres Dios de Abraham,<br \/>\r\n&nbsp;de Isaac, de Israel<br \/>\r\n&nbsp;ven y establece hoy tu potestad.||<\/p>\r\n\r\n<p>&nbsp;Venimos a ofrecer,&nbsp;<br \/>\r\n&nbsp;sacrificio a tu altar,<br \/>\r\n&nbsp;purif\u00edcanos en tu fuego Se\u00f1or.<\/p>\r\n\r\n<p>[C1]<br \/>\r\n&nbsp;Tu eres Santo Dios,&nbsp;<br \/>\r\n&nbsp;exaltado seas,<br \/>\r\n&nbsp;venimos a adorar&nbsp;<br \/>\r\n&nbsp;tu nombre Dios.||<\/p>\r\n\r\n<p>&nbsp;Tu eres Santo Dios,&nbsp;<br \/>\r\n&nbsp;exaltado seas,<br \/>\r\n&nbsp;nos rendiremos a tu voluntad<br \/>\r\n&nbsp;Oh Se\u00f1or Dios de Abraham.<\/p>\r\n\r\n<p>[V2]&nbsp;<br \/>\r\n&nbsp;Eres Dios de Abraham,<br \/>\r\n&nbsp;de Isaac, de Israel<br \/>\r\n&nbsp;ven y establece hoy tu potestad.<br \/>\r\n&nbsp;Ven llena este lugar, exaltado en alabanza,<br \/>\r\n&nbsp;ven y establece hoy tu potestad,<br \/>\r\n&nbsp;tu eres Dios<\/p>\r\n\r\n<p>[P]&nbsp;<br \/>\r\n--<br \/>\r\n&nbsp;Solo tu eres Se\u00f1or, solo tu eres mi Dios<br \/>\r\n&nbsp;y por siempre reinar\u00e1s, por siempre Dios||<\/p>\r\n\r\n<p>-<br \/>\r\n&nbsp;Solo tu eres Se\u00f1or, solo tu eres mi Dios<br \/>\r\n&nbsp;y por siempre reinar\u00e1s, por siempre Dios<\/p>\r\n\r\n<p>&lt;\/lyrics&gt;<\/p>\r\n",
+            "value": "<p>[V1]<br \/>\r\n&nbsp;Eres Dios de Abraham,<br \/>\r\n&nbsp;de Isaac, de Israel<br \/>\r\n&nbsp;ven y establece hoy tu potestad.<\/p>\r\n\r\n<p>&nbsp;Venimos a ofrecer,&nbsp;<br \/>\r\n&nbsp;sacrificio a tu altar,<br \/>\r\n&nbsp;purif\u00edcanos en tu fuego Se\u00f1or.<\/p>\r\n\r\n<p><strong>[C1] (x2)<br \/>\r\n&nbsp;Tu eres Santo Dios,&nbsp;<br \/>\r\n&nbsp;exaltado seas,<br \/>\r\n&nbsp;venimos a adorar&nbsp;<br \/>\r\n&nbsp;tu nombre Dios.<\/strong><\/p>\r\n\r\n<p>[V2]&nbsp;<br \/>\r\nEres Dios de Abraham,<br \/>\r\nde Isaac, de Israel<br \/>\r\nven y establece hoy tu potestad.<br \/>\r\nVen llena este lugar, exaltado en alabanza,<br \/>\r\nven y establece hoy tu potestad,<br \/>\r\ntu eres Dios<\/p>\r\n\r\n<p>[P] &nbsp;(x2)<br \/>\r\nSolo tu eres Se\u00f1or, solo tu eres mi Dios&nbsp;y por siempre reinar\u00e1s, por siempre Dios<\/p>\r\n",
             "format": "basic_html"
         }
     ],
-    "field_secuencia": [],
+    "field_multitrack": [],
+    "field_recursos": [],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/file\/d\/1noRphFPug_cZy2UEOZeXwwzcD8uZIwUp\/view?usp=sharing",
+            "title": "",
+            "options": []
+        }
+    ],
     "field_tags": [],
     "field_tipo": [
         {

@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "7e23f2aa-dfee-4685-855b-e0e74411d72f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "45377d3b-f5ac-4d61-9bca-94accc26d36a"
+        }
+    ],
+    "filename": [
+        {
+            "value": "20220224_082804.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/pictures\/2022-03\/20220224_082804.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 1196193
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-03-04T15:37:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-03-04T15:37:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

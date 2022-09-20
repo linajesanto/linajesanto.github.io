@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f0c114eb-052f-4c30-9e94-9b97355f4b6e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3a2308ba-cc9c-4017-8dde-109146f69268"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/canciones\/coalo-zamorano\/el-rey"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

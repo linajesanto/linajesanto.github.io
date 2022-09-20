@@ -6,7 +6,12 @@ dependencies:
     - field.storage.node.field_fecha_y_hora
     - node.type.coleccion
   module:
+    - custom_add_another
     - datetime
+third_party_settings:
+  custom_add_another:
+    custom_add_another: ''
+    custom_remove: ''
 id: node.coleccion.field_fecha_y_hora
 field_name: field_fecha_y_hora
 entity_type: node

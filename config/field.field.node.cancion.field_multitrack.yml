@@ -1,0 +1,29 @@
+uuid: d8ad353e-a3e8-4a2e-8117-ee7dc84565e6
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_multitrack
+    - node.type.cancion
+  module:
+    - custom_add_another
+third_party_settings:
+  custom_add_another:
+    custom_add_another: ''
+    custom_remove: ''
+id: node.cancion.field_multitrack
+field_name: field_multitrack
+entity_type: node
+bundle: cancion
+label: Multitrack
+description: 'Tenemos preparado un multitrack?'
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: Activado
+  off_label: Desactivado
+field_type: boolean

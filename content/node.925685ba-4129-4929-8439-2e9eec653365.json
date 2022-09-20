@@ -104,6 +104,8 @@
             "format": "basic_html"
         }
     ],
+    "field_multitrack": [],
+    "field_recursos": [],
     "field_secuencia": [
         {
             "uri": "https:\/\/drive.google.com\/file\/d\/1qYGMInSBpCtKiHMVy5IG4BeNQv2tqZRi\/view?usp=sharing",

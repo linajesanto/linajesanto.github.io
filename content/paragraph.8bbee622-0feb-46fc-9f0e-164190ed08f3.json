@@ -53,5 +53,7 @@
             "target_type": "user",
             "target_uuid": "6162d8b4-ced9-4870-856f-d48706125637"
         }
-    ]
+    ],
+    "field_otra_actividad": [],
+    "field_otro_encargado": []
 }

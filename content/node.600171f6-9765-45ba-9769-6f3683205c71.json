@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2021-06-14T21:07:21+00:00",
+            "value": "2022-07-15T03:46:20+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "Sanador"
+            "value": "Me Sanaste (Healer)"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2021-06-14T21:07:21+00:00",
+            "value": "2022-07-15T03:46:20+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/canciones\/kary-jobe\/sanador",
+            "alias": "\/canciones\/kari-jobe\/me-sanaste-healer",
             "langcode": "es",
             "pathauto": 1
         }
@@ -98,6 +98,8 @@
             "format": "basic_html"
         }
     ],
+    "field_multitrack": [],
+    "field_recursos": [],
     "field_secuencia": [
         {
             "uri": "https:\/\/drive.google.com\/file\/d\/1xaOMRyNtrZkicqFqHn6zC06J1_KTIj5z\/view?usp=sharing",

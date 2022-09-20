@@ -1,0 +1,22 @@
+uuid: 6b6acac8-c7c3-4ab5-807f-f4535a2fad50
+langcode: es
+status: true
+dependencies:
+  config:
+    - node.type.cancion
+id: node.cancion.promote
+field_name: promote
+entity_type: node
+bundle: cancion
+label: 'Promocionado a la página principal'
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: Activado
+  off_label: Desactivado
+field_type: boolean

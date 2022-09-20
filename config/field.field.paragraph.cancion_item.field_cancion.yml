@@ -5,6 +5,12 @@ dependencies:
   config:
     - field.storage.paragraph.field_cancion
     - paragraphs.paragraphs_type.cancion_item
+  module:
+    - custom_add_another
+third_party_settings:
+  custom_add_another:
+    custom_add_another: ''
+    custom_remove: ''
 id: paragraph.cancion_item.field_cancion
 field_name: field_cancion
 entity_type: paragraph

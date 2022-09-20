@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2020-12-15T15:23:41+00:00",
+            "value": "2022-04-09T03:10:38+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "45377d3b-f5ac-4d61-9bca-94accc26d36a"
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-01T00:52:46+00:00",
+            "value": "2022-04-09T03:10:38+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -92,8 +92,32 @@
     ],
     "field_bpm": [],
     "field_descripcion": [],
-    "field_letra": [],
-    "field_secuencia": [],
+    "field_letra": [
+        {
+            "value": "<p>Mi alma estaba rota y herida<br \/>\r\nPero tu gracia la restaur\u00f3<br \/>\r\nManos vac\u00edas que t\u00fa llenaste<br \/>\r\nSoy libre en ti, soy libre en ti<\/p>\r\n\r\n<p>Sublime gracia del Se\u00f1or<br \/>\r\nQue a un pecador salv\u00f3, oh-oh-oh-oh<br \/>\r\nFui ciego mas hoy veo yo<br \/>\r\nPerdido y \u00c9l me hall\u00f3<\/p>\r\n\r\n<p>Ahora puedo ver<br \/>\r\nOh, puedo ver sus ojos de amor<br \/>\r\nQuebrantado fue<br \/>\r\nPara darnos su salvaci\u00f3n<\/p>\r\n\r\n<p>T\u00fa no me juzgas por mis fracasos<br \/>\r\nT\u00fa me aceptas tal como soy<br \/>\r\nToma mi vida como vasija<br \/>\r\nPara mostrar tu gloria en m\u00ed, oh<\/p>\r\n\r\n<p>Sublime gracia del Se\u00f1or<br \/>\r\nQue a un pecador salv\u00f3, oh-oh-oh-oh<br \/>\r\nFui ciego mas hoy veo yo<br \/>\r\nPerdido y \u00c9l me hall\u00f3<\/p>\r\n\r\n<p>Ahora puedo ver<br \/>\r\nOh, puedo ver sus ojos de amor<br \/>\r\nQuebrantado fue<br \/>\r\nPara darnos su salvaci\u00f3n<\/p>\r\n\r\n<p>Oh-oh<br \/>\r\nOh-oh<br \/>\r\nOh-oh<br \/>\r\nOh-oh<\/p>\r\n\r\n<p>Sublime gracia del Se\u00f1or<br \/>\r\nQue a un pecador salv\u00f3, oh-oh-oh-oh<br \/>\r\nFui ciego mas hoy veo yo<br \/>\r\nPerdido y \u00c9l me hall\u00f3<\/p>\r\n\r\n<p>Ahora puedo ver<br \/>\r\nOh, puedo ver sus ojos de amor<br \/>\r\nQuebrantado fue<br \/>\r\nPara darnos su salvaci\u00f3n<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_multitrack": [],
+    "field_recursos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=cspcU4flG8o",
+            "title": "Ac\u00fastica",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=JMowoJpCryk",
+            "title": "Bajo",
+            "options": []
+        }
+    ],
+    "field_secuencia": [
+        {
+            "uri": "https:\/\/drive.google.com\/file\/d\/1PuLZAys4KNImB0RUcq8tJS3jJNv6YZQL\/view?usp=drivesdk",
+            "title": "",
+            "options": []
+        }
+    ],
     "field_tags": [],
     "field_tipo": [
         {
@@ -105,7 +129,12 @@
             "value": "Femenina"
         }
     ],
-    "field_tono": [],
+    "field_tono": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f6967910-d030-4320-b0f4-8841b3d4f126"
+        }
+    ],
     "field_video": [
         {
             "value": "https:\/\/www.youtube.com\/watch?v=6GDgPh_ilEM&ab_channel=HillsongWorship"

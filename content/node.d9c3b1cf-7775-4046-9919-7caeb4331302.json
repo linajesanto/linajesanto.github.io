@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2021-08-25T03:21:49+00:00",
+            "value": "2022-04-23T03:13:40+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "45377d3b-f5ac-4d61-9bca-94accc26d36a"
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-02-01T00:52:46+00:00",
+            "value": "2022-04-23T03:13:40+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -92,10 +92,23 @@
     ],
     "field_bpm": [],
     "field_descripcion": [],
-    "field_letra": [],
+    "field_letra": [
+        {
+            "value": "<p>T\u00fa fuiste el verbo en el principio<br \/>\r\nUnig\u00e9nito de Dios<br \/>\r\nEl misterio de tu gloria<br \/>\r\nRevelado en tu amor<\/p>\r\n\r\n<p>Cu\u00e1n hermoso su nombre es<br \/>\r\nCu\u00e1n hermoso su nombre es<br \/>\r\nEl nombre de Jes\u00fas, mi Rey<\/p>\r\n\r\n<p>Cu\u00e1n hermoso su nombre es<br \/>\r\nNada se iguala a \u00c9l<br \/>\r\nCu\u00e1n hermoso su nombre es<br \/>\r\nNo hay otro nombre<\/p>\r\n\r\n<p>Dejaste el cielo por salvarme<br \/>\r\nMe viniste a rescatar<br \/>\r\nMi transgresi\u00f3n T\u00fa perdonaste<br \/>\r\nNada nos separar\u00e1<\/p>\r\n\r\n<p>Majestuoso su nombre es<br \/>\r\nMajestuoso su nombre es<br \/>\r\nEl nombre de Jes\u00fas, mi Rey<br \/>\r\nMajestuoso su nombre es<br \/>\r\nNada se iguala a \u00c9l<\/p>\r\n\r\n<p>Majestuoso su nombre es<br \/>\r\nNo hay otro nombre<br \/>\r\nMajestuoso su nombre es<br \/>\r\nNo hay otro nombre<\/p>\r\n\r\n<p>No hay otro nombre igual<br \/>\r\nJes\u00fas<\/p>\r\n\r\n<p>La muerte venciste<br \/>\r\nEl velo partiste<br \/>\r\nLa tumba vac\u00eda ahora est\u00e1<br \/>\r\nLos cielos declaran<br \/>\r\nTu gloria proclaman<br \/>\r\nResucitaste en majestad<\/p>\r\n\r\n<p>Inigualable<br \/>\r\nIncomparable<br \/>\r\nHoy y por siempre reinar\u00e1s<br \/>\r\nTuyo es el reino<br \/>\r\nTuya es la gloria<br \/>\r\nTuyo el poder y autoridad<\/p>\r\n\r\n<p>Poderoso su nombre es<br \/>\r\nPoderoso su nombre es<br \/>\r\nEl nombre de Jes\u00fas, mi Rey<\/p>\r\n\r\n<p>Poderoso su nombre es<br \/>\r\nIncomparable es \u00c9l<br \/>\r\nPoderoso su nombre es<br \/>\r\nNo hay otro nombre<\/p>\r\n\r\n<p>Inigualable<br \/>\r\nIncomparable<br \/>\r\nHoy y por siempre reinar\u00e1s<br \/>\r\nTuyo es el reino<br \/>\r\nTuya es la gloria<br \/>\r\nTuyo el poder y autoridad<\/p>\r\n\r\n<p>Poderoso su nombre es<br \/>\r\nPoderoso su nombre es<br \/>\r\nEl nombre de Jes\u00fas, mi Rey<\/p>\r\n\r\n<p>Poderoso su nombre es<br \/>\r\nIncomparable es \u00c9l<br \/>\r\nPoderoso su nombre es<br \/>\r\nNo hay otro nombre<\/p>\r\n\r\n<p>Poderoso su nombre es<br \/>\r\nNo hay otro nombre<br \/>\r\nPoderoso su nombre es<br \/>\r\n\u00a1No hay otro nombre!<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_multitrack": [],
+    "field_recursos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=PUbRmh5EShc",
+            "title": "Bajo",
+            "options": []
+        }
+    ],
     "field_secuencia": [
         {
-            "uri": "https:\/\/drive.google.com\/open?id=160-jJ5zGjcBheW-N6e7aqUsJPLcnjFMx",
+            "uri": "https:\/\/drive.google.com\/file\/d\/14tegerEo3nXE2aH7LlCpvqk9j3xd7Et4\/view?usp=sharing",
             "title": "",
             "options": []
         }
@@ -114,7 +127,7 @@
     "field_tono": [
         {
             "target_type": "taxonomy_term",
-            "target_uuid": "8563580d-2168-4ac4-b3cb-58fa67821628"
+            "target_uuid": "309c3d5b-0c9a-4e8b-8f89-4042ba4f5fd1"
         }
     ],
     "field_video": [

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "01aea0f1-ca6e-41c1-b880-7c850433cfb5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8c6f679c-f45f-4160-8609-995bea87f5ab"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/canciones\/juan-carlos-alvarado\/el-poderoso-de-israel"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

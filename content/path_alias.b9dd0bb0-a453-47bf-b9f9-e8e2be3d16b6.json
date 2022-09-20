@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b9dd0bb0-a453-47bf-b9f9-e8e2be3d16b6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/98c691dd-0fed-4a20-bdb6-fe0a1f5bdca5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/canciones\/new-wine\/mi-dios-es-bueno"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

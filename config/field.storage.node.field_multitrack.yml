@@ -1,0 +1,18 @@
+uuid: a01c8a3e-3b20-4517-b743-f68b8c22b651
+langcode: es
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_multitrack
+field_name: field_multitrack
+entity_type: node
+type: boolean
+settings: {  }
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

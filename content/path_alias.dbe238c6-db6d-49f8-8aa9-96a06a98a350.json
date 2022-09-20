@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "dbe238c6-db6d-49f8-8aa9-96a06a98a350"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/03a5baf5-407e-46e0-83ad-1ee86378122c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/canciones\/miel-san-marcos\/libre"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

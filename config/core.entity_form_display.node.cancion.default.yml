@@ -7,6 +7,8 @@ dependencies:
     - field.field.node.cancion.field_bpm
     - field.field.node.cancion.field_descripcion
     - field.field.node.cancion.field_letra
+    - field.field.node.cancion.field_multitrack
+    - field.field.node.cancion.field_recursos
     - field.field.node.cancion.field_secuencia
     - field.field.node.cancion.field_tags
     - field.field.node.cancion.field_tipo
@@ -42,7 +44,7 @@ content:
     third_party_settings: {  }
   field_bpm:
     type: number
-    weight: 16
+    weight: 17
     region: content
     settings:
       placeholder: ''
@@ -59,11 +61,26 @@ content:
     third_party_settings: {  }
   field_letra:
     type: text_textarea
-    weight: 13
+    weight: 14
     region: content
     settings:
       rows: 5
       placeholder: ''
+    third_party_settings: {  }
+  field_multitrack:
+    type: boolean_checkbox
+    weight: 26
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  field_recursos:
+    type: link_default
+    weight: 13
+    region: content
+    settings:
+      placeholder_url: ''
+      placeholder_title: ''
     third_party_settings: {  }
   field_secuencia:
     type: link_default
@@ -75,19 +92,19 @@ content:
     third_party_settings: {  }
   field_tags:
     type: options_select
-    weight: 17
+    weight: 18
     region: content
     settings: {  }
     third_party_settings: {  }
   field_tipo:
     type: options_select
-    weight: 15
+    weight: 16
     region: content
     settings: {  }
     third_party_settings: {  }
   field_tipo_de_voz:
     type: options_select
-    weight: 14
+    weight: 15
     region: content
     settings: {  }
     third_party_settings: {  }

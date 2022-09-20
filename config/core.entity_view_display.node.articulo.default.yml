@@ -1,0 +1,30 @@
+uuid: 631837fb-f0bb-4ccb-8a88-9c22dc53713a
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.field.node.articulo.body
+    - node.type.articulo
+  module:
+    - text
+    - user
+id: node.articulo.default
+targetEntityType: node
+bundle: articulo
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  changed: true
+  langcode: true
