@@ -71,7 +71,7 @@
             "alias": null,
             "pid": null,
             "langcode": "es",
-            "pathauto": 1
+            "pathauto": 0
         }
     ]
 }

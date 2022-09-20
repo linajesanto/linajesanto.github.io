@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "Domingo, Agosto 14 del 2022"
+            "value": "Sunday, August 14 del 2022"
         }
     ],
     "created": [
@@ -72,7 +72,11 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
     "path": [
         {
             "alias": "\/coleccion\/domingo-agosto-14-del-2022",

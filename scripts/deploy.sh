@@ -2,8 +2,9 @@
 
 set -e
 
+# deploy static html
 drush cr
-drush tome:static -y -l https://linajesanto.github.io
+drush tome:static -y --uri https://linajesanto.github.io
 rm -rf gh-pages
 git clone git@github.com:linajesanto/linajesanto.github.io gh-pages
 cd gh-pages
@@ -15,3 +16,10 @@ cd gh-pages
 git add .
 git commit -m 'Updating gh-pages site'
 git push -u origin main
+
+# export config changes
+cd ..
+drush tome:export -y
+git add .
+git commit -m 'Updating content'
+git push -u origin dev
