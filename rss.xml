@@ -17,7 +17,7 @@
 &lt;span&gt;Tue, 20/09/2022 - 21:54&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-0ed77c1f0911a8da866f46b6d5f75a603debc658350d167e6ace25302432a4f8"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-06d72aba40b639f4f864f086defc142b58b1cb720b3ef18fa014c70a4dc483c0"&gt;
   
     
       
@@ -30,6 +30,30 @@
                                                                                                                   &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-otro-encargado views-field-field-encargado"&gt;Paola          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-multitrack-table-column" class="views-field views-field-field-multitrack"&gt;✖          &lt;/td&gt;
+              &lt;/tr&gt;&lt;tr class="cancion-item "&gt;&lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-otra-actividad views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/darlene-zschech/en-el-nombre-de-jesus" hreflang="es"&gt;En el nombre de Jesus&lt;/a&gt; | Darlene Zschech          &lt;/td&gt;
+                                                                                                                  &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-otro-encargado views-field-field-encargado"&gt;Paola          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/29" hreflang="es"&gt;D&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-multitrack-table-column" class="views-field views-field-field-multitrack"&gt;          &lt;/td&gt;
+              &lt;/tr&gt;&lt;tr class="cancion-item "&gt;&lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-otra-actividad views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/miel-san-marcos/grande-y-fuerte" hreflang="es"&gt;Grande y fuerte&lt;/a&gt; | Miel San Marcos          &lt;/td&gt;
+                                                                                                                  &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-otro-encargado views-field-field-encargado"&gt;Aaron          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/62" hreflang="es"&gt;Am&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-multitrack-table-column" class="views-field views-field-field-multitrack"&gt;          &lt;/td&gt;
+              &lt;/tr&gt;&lt;tr class="cancion-item "&gt;&lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-otra-actividad views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/hillsong-young-free/vivo-estas" hreflang="es"&gt;Vivo Estás&lt;/a&gt; | Hillsong Young &amp; Free          &lt;/td&gt;
+                                                                                                                  &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-otro-encargado views-field-field-encargado"&gt;Paola          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/21" hreflang="es"&gt;E&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-multitrack-table-column" class="views-field views-field-field-multitrack"&gt;          &lt;/td&gt;
+              &lt;/tr&gt;&lt;tr class="cancion-item "&gt;&lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-otra-actividad views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/en-espiritu-y-en-verdad/te-doy-gloria" hreflang="es"&gt;Te doy gloria&lt;/a&gt; | En Espíritu Y En Verdad          &lt;/td&gt;
+                                                                                                                  &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-otro-encargado views-field-field-encargado"&gt;Aaron          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/33" hreflang="es"&gt;C&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-multitrack-table-column" class="views-field views-field-field-multitrack"&gt;          &lt;/td&gt;
+              &lt;/tr&gt;&lt;tr class="cancion-item "&gt;&lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-otra-actividad views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/marco-barrientos/hosanna-marcos-nueva" hreflang="es"&gt;Hosanna - Marcos - Nueva&lt;/a&gt; | Marco Barrientos          &lt;/td&gt;
+                                                                                                                  &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-otro-encargado views-field-field-encargado"&gt;Aaron          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/27" hreflang="es"&gt;Bm&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-multitrack-table-column" class="views-field views-field-field-multitrack"&gt;          &lt;/td&gt;
+              &lt;/tr&gt;&lt;tr class="cancion-item "&gt;&lt;td headers="view-field-actividad-table-column" class="views-field views-field-field-otra-actividad views-field-field-cancion views-field-field-artista views-field-field-actividad"&gt;&lt;a href="https://linajesanto.github.io/canciones/hillsong-worship/rey-de-reyes" hreflang="es"&gt;Rey de Reyes&lt;/a&gt; | Hillsong Worship          &lt;/td&gt;
+                                                                                                                  &lt;td headers="view-field-encargado-table-column" class="views-field views-field-field-otro-encargado views-field-field-encargado"&gt;Paola          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-tono-1-table-column" class="views-field views-field-field-tono-1"&gt;&lt;a href="https://linajesanto.github.io/taxonomy/term/29" hreflang="es"&gt;D&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-field-multitrack-table-column" class="views-field views-field-field-multitrack"&gt;          &lt;/td&gt;
               &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
   
       
@@ -40,7 +64,42 @@
 &lt;/div&gt;
 &lt;/div&gt;
           &lt;/div&gt;
-  </description>
+  
+  &lt;div class="field field--name-field-voces field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Voces&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;Paola&lt;/div&gt;
+          &lt;div class="field__item"&gt;Aaron&lt;/div&gt;
+          &lt;div class="field__item"&gt;Felipe&lt;/div&gt;
+          &lt;div class="field__item"&gt;Darling&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-bateria field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Batería&lt;/div&gt;
+              &lt;div class="field__item"&gt;Gamaliel&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-bajo field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Bajo&lt;/div&gt;
+              &lt;div class="field__item"&gt;Secuencia&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-piano-1 field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Piano 1&lt;/div&gt;
+              &lt;div class="field__item"&gt;Luis&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-guitarra-electrica field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Guitarra eléctrica&lt;/div&gt;
+              &lt;div class="field__item"&gt;Edys&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-guitarra-acustica field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Guitarra acústica&lt;/div&gt;
+              &lt;div class="field__item"&gt;Edys&lt;/div&gt;
+          &lt;/div&gt;
+</description>
   <pubDate>Wed, 21 Sep 2022 03:54:49 +0000</pubDate>
     <dc:creator>Edys</dc:creator>
     <guid isPermaLink="false">235 at https://linajesanto.github.io</guid>
@@ -56,7 +115,7 @@
 &lt;span&gt;Sun, 11/09/2022 - 11:08&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-4e34e59c26ac5b6cd48cd0734e4a06b607916f14b0d90bb6042bf7eb3c41077b"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-54d2de7e67c4a7bf875720f6d82e5c574243a627d5ec31bdeef22316291c7383"&gt;
   
     
       
@@ -170,7 +229,7 @@
 </description>
   <pubDate>Sun, 11 Sep 2022 17:08:49 +0000</pubDate>
     <dc:creator>Edys</dc:creator>
-    <guid isPermaLink="false">233 at https://linajesanto.github.io</guid>
+    <guid isPermaLink="false">234 at https://linajesanto.github.io</guid>
     </item>
 <item>
   <title>Sunday, September 18 del 2022</title>
@@ -183,7 +242,7 @@
 &lt;span&gt;Sun, 11/09/2022 - 10:58&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-2bdf08f5ac35d30d23a07fb53f2745b7717d073fe0b3b5e9a53d6daa98281143"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-6d68eda9bb25daf1f65ea1de38197476086a372bade1ef41a6ce8aaba86240b6"&gt;
   
     
       
@@ -275,7 +334,7 @@
 </description>
   <pubDate>Sun, 11 Sep 2022 16:58:22 +0000</pubDate>
     <dc:creator>Edys</dc:creator>
-    <guid isPermaLink="false">232 at https://linajesanto.github.io</guid>
+    <guid isPermaLink="false">233 at https://linajesanto.github.io</guid>
     </item>
 <item>
   <title>Sunday, September 11 del 2022</title>
@@ -288,7 +347,7 @@
 &lt;span&gt;Mon, 05/09/2022 - 21:29&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-805810d208b3b61c6262d5091c57297fdef1be49d34645cacb121da157044703"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-ac2652749d6cbda4c9f2de9ae16588d1e76a38beecd862805f3537ecabf9eda3"&gt;
   
     
       
@@ -363,7 +422,7 @@
 </description>
   <pubDate>Tue, 06 Sep 2022 03:29:31 +0000</pubDate>
     <dc:creator>Edys</dc:creator>
-    <guid isPermaLink="false">231 at https://linajesanto.github.io</guid>
+    <guid isPermaLink="false">232 at https://linajesanto.github.io</guid>
     </item>
 <item>
   <title>Sunday, September 4 del 2022</title>
@@ -376,7 +435,7 @@
 &lt;span&gt;Tue, 30/08/2022 - 16:11&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-84905ebeae70b19956fa8c4eac77fb92aa9045d722a4c50f20095860c5038c96"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-e33535f62a77ebd0e10083cb446bd6c15dc862a9f11aae53a76fda50c031a8da"&gt;
   
     
       
@@ -457,7 +516,7 @@
 </description>
   <pubDate>Tue, 30 Aug 2022 22:11:41 +0000</pubDate>
     <dc:creator>Edys</dc:creator>
-    <guid isPermaLink="false">230 at https://linajesanto.github.io</guid>
+    <guid isPermaLink="false">231 at https://linajesanto.github.io</guid>
     </item>
 <item>
   <title>Sunday, August 28 del 2022</title>
@@ -470,7 +529,7 @@
 &lt;span&gt;Sun, 21/08/2022 - 11:15&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-d69792a9c1063bc008a4641f2364df9ef33f6f03e641dfff7e36c72beddd6583"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-2446b4d051e24114f6478d8799a94a65ef0049d695b6afd9318dfa3b5909061f"&gt;
   
     
       
@@ -516,7 +575,7 @@
   </description>
   <pubDate>Sun, 21 Aug 2022 17:15:32 +0000</pubDate>
     <dc:creator>Edys</dc:creator>
-    <guid isPermaLink="false">229 at https://linajesanto.github.io</guid>
+    <guid isPermaLink="false">230 at https://linajesanto.github.io</guid>
     </item>
 <item>
   <title>Sunday, August 21 del 2022</title>
@@ -529,7 +588,7 @@
 &lt;span&gt;Sun, 14/08/2022 - 11:40&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-5f276c6348b55b55a67bfab2a37f6586b3d4910dc60442183c1498ef1635eaaa"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-f085287b3c164367d895153c74c8fe1c6f04cd26656882c09449345156b7566a"&gt;
   
     
       
@@ -608,7 +667,7 @@
 </description>
   <pubDate>Sun, 14 Aug 2022 17:40:56 +0000</pubDate>
     <dc:creator>Edys</dc:creator>
-    <guid isPermaLink="false">228 at https://linajesanto.github.io</guid>
+    <guid isPermaLink="false">229 at https://linajesanto.github.io</guid>
     </item>
 <item>
   <title>Sunday, August 14 del 2022</title>
@@ -621,7 +680,7 @@
 &lt;span&gt;Mon, 08/08/2022 - 22:13&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-20a778bce55117dc162adbdac2aa9d94b4ab66dea122f9b0dc58937144a9777f"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-f7cdedd491719ca555c7f4a5395144b785b8d1b8577b7bb71b9b1e4aca6c9ec1"&gt;
   
     
       
@@ -701,7 +760,7 @@
 </description>
   <pubDate>Tue, 09 Aug 2022 04:13:05 +0000</pubDate>
     <dc:creator>Edys</dc:creator>
-    <guid isPermaLink="false">227 at https://linajesanto.github.io</guid>
+    <guid isPermaLink="false">228 at https://linajesanto.github.io</guid>
     </item>
 <item>
   <title>Sunday, July 31 del 2022</title>
@@ -714,7 +773,7 @@
 &lt;span&gt;Tue, 26/07/2022 - 11:48&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-be774bec6597908c3dcf89b26d9d47c7ea52e593c1ac6cab42e1a3abe514fa3d"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-70e0b8a0673c0ba7890bf0a51c0060da1576afd64971270f671f53ae4a9b48fa"&gt;
   
     
       
@@ -788,7 +847,7 @@
 </description>
   <pubDate>Tue, 26 Jul 2022 17:48:51 +0000</pubDate>
     <dc:creator>Edys</dc:creator>
-    <guid isPermaLink="false">225 at https://linajesanto.github.io</guid>
+    <guid isPermaLink="false">226 at https://linajesanto.github.io</guid>
     </item>
 <item>
   <title>Sunday, August 7 del 2022</title>
@@ -801,7 +860,7 @@
 &lt;span&gt;Sun, 24/07/2022 - 11:03&lt;/span&gt;
 
       &lt;div class="field field--name-field-actividades field--type-entity-reference-revisions field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-0ee7b1f5056fbfcbbedcbf5ff358f767ac55515c28003804065ede29857520fd"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-actividades-para-coleccion view-id-actividades_para_coleccion view-display-id-default js-view-dom-id-94c11b34ed5800fff884a2bbf827e3e23cca8b82a9a9262810f7f8d54cfc482c"&gt;
   
     
       
@@ -859,7 +918,7 @@ La dirige &lt;strong&gt;Felipe&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
 </description>
   <pubDate>Sun, 24 Jul 2022 17:03:40 +0000</pubDate>
     <dc:creator>Luis</dc:creator>
-    <guid isPermaLink="false">226 at https://linajesanto.github.io</guid>
+    <guid isPermaLink="false">227 at https://linajesanto.github.io</guid>
     </item>
 
   </channel>
