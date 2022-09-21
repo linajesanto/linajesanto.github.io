@@ -39,7 +39,6 @@
     "scripts": {
 	    "si": "drush tome:install -y",
         "start": "drush runserver",
-        "export": "./scripts/export.sh",
         "deploy": "./scripts/deploy.sh",
         "drush": "drush"
     },

@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "05d683c7-2bc8-4c92-be9f-9f6b78c3f44e"
+            "value": "da5d08d1-f9f1-43ac-afe4-a3bacc7b5bc5"
         }
     ],
     "langcode": [
@@ -23,7 +23,7 @@
     ],
     "created": [
         {
-            "value": "2022-09-21T03:54:53+00:00",
+            "value": "2022-09-21T04:06:12+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -37,17 +37,21 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
     "field_cancion": [
         {
             "target_type": "node",
-            "target_uuid": "2349b0be-6589-4fba-bc5a-a2bebc4d9cad"
+            "target_uuid": "feac01b9-e006-4206-b90d-628d894b29e8"
         }
     ],
     "field_encargado": [
         {
             "target_type": "user",
-            "target_uuid": "6a85fb9a-da67-4f0f-8ee9-8308af1bbc3f"
+            "target_uuid": "a5d8b948-5fcb-472e-826c-5e3302057f85"
         }
     ],
     "field_tono": []
